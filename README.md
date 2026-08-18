@@ -3,17 +3,40 @@
 **西藏鸟类**
 **The Avifauna of Xizang**
 
+基于证据、持续更新的西藏鸟类编录
+An evidence-based, living account of the birds of Xizang
+
 ---
 
 ## 项目简介 · About
 
-**XizangAvifauna** 是一个持续更新的西藏鸟类编目项目，旨在系统整理西藏地区有记录的鸟类，并尽可能为每一个物种提供可追溯的记录证据和参考文献。
+**XizangAvifauna** 是一个持续更新的西藏鸟类编目项目，旨在系统整理西藏地区有记录的鸟类，并尽可能为每一个物种提供可追溯的记录证据。
 
-**XizangAvifauna** is a continuously updated project documenting the birds recorded in Xizang, with an emphasis on traceable evidence and references for each species.
+**XizangAvifauna** is a continuously updated project documenting the birds recorded in Xizang, with an emphasis on traceable evidence for each species.
 
 ---
 
 ## 项目结构 · Structure
+
+本项目包含以下主要文件和目录：
+
+This project contains the following main files and directories:
+
+* **[`README.md`](README.md)** — 项目介绍、记录标准及其他说明
+  Project overview, record criteria, and other information.
+
+* **[`Checklist.md`](Checklist.md)** — 西藏鸟类主名录
+  The main checklist of birds of Xizang.
+
+* **[`References/`](References/)** — 项目所使用的参考文献及相关资料
+  References and related sources used in the project.
+
+* **[`Media/`](Media/)** — 与鸟类记录相关的照片、录音和视频资料
+  Photographs, audio recordings, and videos related to bird records.
+
+---
+
+## 主名录 · Main Checklist
 
 主名录位于：
 
@@ -55,7 +78,7 @@ The **Rejected** status is primarily applied to species included in *the fourth 
 
 ---
 
-## 证据原则 · Evidence
+## 记录标准 · Record Criteria
 
 本项目尽可能追溯到鸟类记录的原始来源。
 
@@ -168,13 +191,17 @@ The geographical scope of this project is defined solely for the purpose of deli
 
 ---
 
-## 相关文件 · Related Files
+## 致谢 · Acknowledgements
 
-* **[主名录 · Checklist](Checklist.md)**
-* **[参考文献 · References](References/)**
-* **[影音资料 · Media](Media/)**
+感谢所有为西藏鸟类调查、研究、记录和资料保存作出贡献的鸟类学家、研究人员、观鸟者、摄影师、自然爱好者及相关机构。特别感谢那些公开分享鸟类记录、照片、录音、视频、标本信息和文献资料的人士。
 
----
+感谢所有提供资料、协助鉴定、讨论记录或提出修改建议的人士。
+
+Thank you to all ornithologists, researchers, birdwatchers, photographers, naturalists, and institutions who have contributed to the study, documentation, and preservation of information on the birds of Xizang. Particular thanks go to those who have made bird records, photographs, audio recordings, videos, specimen information, and literature publicly available.
+
+I also thank everyone who has contributed data, assisted with identification, discussed records, or provided corrections and suggestions.
+
+———
 
 *本项目由个人持续维护，欢迎提供文献、记录和证据方面的补充与指正。*
 
