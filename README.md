@@ -61,11 +61,11 @@ The following record statuses are currently used:
 
 | 记录状态    | Status           | 含义 / Meaning                                                                                                                          |
 | ------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **确认**  | **Confirmed**    | 有充分、可核实的证据支持该物种在西藏有记录。 / Sufficient and verifiable evidence supports the occurrence of the species in Xizang.                         |
-| **可能**  | **Probable**     | 有较为可信的记录，但仍缺乏关键性证据。 / Credible record supports the occurrence, but key evidence is still lacking.                                              |
-| **存疑**  | **Uncertain**    | 存在文献或历史记录，但其可靠性不足。 / Literature or historical record exists, but its reliability remains insufficient.         |
-| **排除**  | **Rejected**     | 记录不可信，或者明确存在错误。 / The record is considered unreliable or has been demonstrated to be erroneous.                            |
-| **未评估** | **Unassessed** | 尚未完成充分考证，暂时无法赋予上述状态。 / The record has not yet been sufficiently assessed to assign any of the above statuses. |
+| **确认**  | **Confirmed**    | 有充分、可核实的证据支持该物种在西藏有记录。 Sufficient and verifiable evidence supports the occurrence of the species in Xizang.                         |
+| **可能**  | **Probable**     | 有较为可信的记录，但仍缺乏关键性证据。 Credible record supports the occurrence, but key evidence is still lacking.                                              |
+| **存疑**  | **Uncertain**    | 存在文献或历史记录，但其可靠性不足。  Literature or historical record exists, but its reliability remains insufficient.         |
+| **排除**  | **Rejected**     | 记录不可信，或者明确存在错误。  The record is considered unreliable or has been demonstrated to be erroneous.                            |
+| **未评估** | **Unassessed** | 尚未完成充分考证，暂时无法赋予上述状态。  The record has not yet been sufficiently assessed to assign any of the above statuses. |
 
 其中，**排除**状态主要针对《中国鸟类分类与分布名录》第四版收录、但经本人考据后认为不应收录的物种。
 
@@ -195,7 +195,7 @@ Thank you to all ornithologists, researchers, birdwatchers, photographers, natur
 
 I also thank everyone who has provided information, assisted with identification, discussed records, or provided corrections and suggestions.
 
-———
+---
 
 *本项目由个人持续维护，欢迎提供文献、记录和证据方面的补充与指正。*
 
