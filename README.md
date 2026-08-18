@@ -3,8 +3,7 @@
 **西藏鸟类**
 **The Avifauna of Xizang**
 
-基于证据、持续更新的西藏鸟类编录
-An evidence-based, living account of the birds of Xizang
+基于证据、持续更新的西藏鸟类编录 / An evidence-based, living account of the birds of Xizang
 
 ---
 
@@ -22,17 +21,13 @@ An evidence-based, living account of the birds of Xizang
 
 This project contains the following main files and directories:
 
-* **[`README.md`](README.md)** — 项目介绍、记录标准及其他说明
-  Project overview, record criteria, and other information.
+* **[`README.md`](README.md)** — 项目介绍、记录标准及其他说明 / Project overview, record criteria, and other information
 
-* **[`Checklist.md`](Checklist.md)** — 西藏鸟类主名录
-  The main checklist of birds of Xizang.
+* **[`Checklist.md`](Checklist.md)** — 西藏鸟类主名录  / The main checklist of birds of Xizang
 
-* **[`References/`](References/)** — 项目所使用的参考文献及相关资料
-  References and related sources used in the project.
+* **[`References/`](References/)** — 项目所使用的参考文献及相关资料  / References and related sources used in the project
 
-* **[`Media/`](Media/)** — 与鸟类记录相关的照片、录音和视频资料
-  Photographs, audio recordings, and videos related to bird records.
+* **[`Media/`](Media/)** — 与鸟类记录相关的照片、录音和视频资料  /  Photographs, audio recordings, and videos related to bird records
 
 ---
 
@@ -48,13 +43,13 @@ The main checklist is available at:
 
 The checklist is organised by **order → family → species**, with each species account including:
 
-* AviList 序号 · AviList sequence number
-* 懂鸟中文名 · Chinese name according to AboutBirds
-* AviList 学名 · Scientific name according to AviList
-* 《中国鸟类分类与分布名录》中文名 · Chinese name according to A Checklist on the Classification and Distribution of the Birds of China
-* 记录状态 · Record status
-* 证据说明 · Evidence
-* 参考文献 · References
+* AviList 序号 / AviList sequence number
+* 懂鸟中文名 / Chinese name according to AboutBirds
+* AviList 学名 / Scientific name according to AviList
+* 《中国鸟类分类与分布名录》中文名 / Chinese name according to *A Checklist on the Classification and Distribution of the Birds of China*
+* 记录状态 / Record status
+* 证据说明 / Evidence
+* 参考文献 / References
 
 ---
 
@@ -67,14 +62,14 @@ The following record statuses are currently used:
 | 记录状态    | Status           | 含义 / Meaning                                                                                                                          |
 | ------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 | **确认**  | **Confirmed**    | 有充分、可核实的证据支持该物种在西藏有记录。 / Sufficient and verifiable evidence supports the occurrence of the species in Xizang.                         |
-| **可能**  | **Probable**     | 记录较为可信，但仍缺乏关键性证据。 / The record is considered credible but lacks key supporting evidence.                                              |
-| **存疑**  | **Uncertain**    | 存在文献或历史记录，但其可靠性仍不足以确认。 / A literature or historical record exists, but its reliability remains insufficient for confirmation.         |
-| **排除**  | **Rejected**     | 经核查认为该记录不应计入本名录。 / The record has been assessed and determined not to warrant inclusion in this checklist.                            |
-| **未评估** | **Unassessed** | 尚未完成充分考证，因此暂时无法赋予上述状态。 / The record has not yet been sufficiently assessed and therefore cannot currently be assigned another status. |
+| **可能**  | **Probable**     | 有较为可信的记录，但仍缺乏关键性证据。 / Credible record supports the occurrence, but key evidence is still lacking.                                              |
+| **存疑**  | **Uncertain**    | 存在文献或历史记录，但其可靠性不足。 / Literature or historical record exists, but its reliability remains insufficient.         |
+| **排除**  | **Rejected**     | 记录不可信，或者明确存在错误。 / The record is considered unreliable or has been demonstrated to be erroneous.                            |
+| **未评估** | **Unassessed** | 尚未完成充分考证，暂时无法赋予上述状态。 / The record has not yet been sufficiently assessed to assign any of the above statuses. |
 
-其中，**排除（Rejected）**状态主要针对《中国鸟类分类与分布名录》第四版收录、但经本人考据后认为不应收录于本项目的物种。
+其中，**排除**状态主要针对《中国鸟类分类与分布名录》第四版收录、但经本人考据后认为不应收录的物种。
 
-The **Rejected** status is primarily applied to species included in *the fourth edition of A Checklist on the Classification and Distribution of the Birds of China* but determined, based on the present assessment, not to warrant inclusion in this checklist.
+The **Rejected** status is primarily applied to species included in *the fourth edition of A Checklist on the Classification and Distribution of the Birds of China* but determined, based on the present assessment, not to warrant inclusion.
 
 ---
 
@@ -84,7 +79,7 @@ The **Rejected** status is primarily applied to species included in *the fourth 
 
 This project attempts, wherever possible, to trace bird records back to their original sources.
 
-对于**确认（Confirmed）**记录，本项目目前仅接受以下类型的证据：
+对于**确认**记录，本项目目前仅接受以下类型的证据：
 
 For **Confirmed** records, the project currently accepts the following types of evidence:
 
@@ -93,17 +88,17 @@ For **Confirmed** records, the project currently accepts the following types of 
 * 有公开照片，或经本人核实的标本；
   Specimens with publicly available photographs or specimens personally verified;
 * 经过核实的物种新记录类论文；
-  Verified papers documenting new species records;
+  Verified papers documenting new distribution records;
 * 附有照片、录音或视频的调查论文或研究论文；
   Survey or research papers accompanied by photographs, audio recordings, or videos;
-* 采用分子生物学技术的分类学研究；
-  Taxonomic studies using molecular methods;
+* 采用分子生物学技术的分类学论文；
+  Taxonomic papers using molecular methods;
 * 公开发布在社交媒体，或经个人通信获取的照片、录音或视频。
-  Photographs, audio recordings, or videos publicly available on social media or obtained through personal communication.
+  Photographs, audio recordings, or videos publicly available on social media or obtained through personal communications.
 
 在极个别情况下，如果难以找到合适的公开证据来源，本人的野外观察也可作为可信记录。
 
-In exceptional cases where suitable published or otherwise verifiable evidence cannot be located, the observer's own field observation may also be accepted as a credible record.
+In exceptional cases where suitable published or otherwise verifiable evidence cannot be located, my own field observation may also be accepted as a credible record.
 
 ---
 
@@ -186,8 +181,7 @@ The geographical scope of this project is defined solely for the purpose of deli
 
 ## 项目状态 · Project Status
 
-**持续更新中。**
-**Continuously updated.**
+工作草稿 / Working draft
 
 ---
 
@@ -195,11 +189,11 @@ The geographical scope of this project is defined solely for the purpose of deli
 
 感谢所有为西藏鸟类调查、研究、记录和资料保存作出贡献的鸟类学家、研究人员、观鸟者、摄影师、自然爱好者及相关机构。特别感谢那些公开分享鸟类记录、照片、录音、视频、标本信息和文献资料的人士。
 
-感谢所有提供资料、协助鉴定、讨论记录或提出修改建议的人士。
+感谢所有提供信息、协助鉴定、讨论记录或提出修改建议的人士。
 
-Thank you to all ornithologists, researchers, birdwatchers, photographers, naturalists, and institutions who have contributed to the study, documentation, and preservation of information on the birds of Xizang. Particular thanks go to those who have made bird records, photographs, audio recordings, videos, specimen information, and literature publicly available.
+Thank you to all ornithologists, researchers, birdwatchers, photographers, naturalists, and institutions who have contributed to the survey, research, documentation, and preservation of information on the birds of Xizang. Particular thanks go to those who have made bird records, photographs, audio recordings, videos, specimen information, and literature publicly available.
 
-I also thank everyone who has contributed data, assisted with identification, discussed records, or provided corrections and suggestions.
+I also thank everyone who has provided information, assisted with identification, discussed records, or provided corrections and suggestions.
 
 ———
 
