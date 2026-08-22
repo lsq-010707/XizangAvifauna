@@ -75,10 +75,6 @@ The **Rejected** status is primarily applied to species included in *the fourth 
 
 ## 记录标准 · Record Criteria
 
-本项目尽可能追溯到鸟类记录的原始来源。
-
-This project attempts, wherever possible, to trace bird records back to their original sources.
-
 对于**确认**记录，本项目目前仅接受以下类型的证据：
 
 For **Confirmed** records, the project currently accepts the following types of evidence:
@@ -99,6 +95,10 @@ For **Confirmed** records, the project currently accepts the following types of 
 在极个别情况下，如果难以找到合适的公开证据来源，本人的野外观察也可作为可信记录。
 
 In exceptional cases where suitable published or otherwise verifiable evidence cannot be located, my own field observation may also be accepted as a credible record.
+
+需要注意的是，本项目并不以追溯每种鸟类在西藏的最早记录为目标，而是尽可能提供证据充分且可靠的记录。
+
+Importantly, this project does not aim to identify the earliest record of each bird species in Xizang, but rather to document well-supported and robust records.
 
 ---
 
@@ -134,10 +134,6 @@ References are traced to original sources wherever possible, including:
   Original research papers and communications;
 * 其他具有明确出处的历史资料。
   Other historical sources with identifiable origins.
-
-物种条目中的参考文献与 `References/` 中的文献相对应。
-
-References cited in species accounts correspond to the full references provided in `References/`.
 
 ---
 
@@ -181,7 +177,7 @@ The geographical scope of this project is defined solely for the purpose of deli
 
 ## 项目状态 · Project Status
 
-工作草稿 / Working draft
+初稿（持续更新中） / Initial public draft (continuously updated)
 
 ---
 
