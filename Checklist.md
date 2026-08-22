@@ -3064,7 +3064,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-[附录音的公民科学记录](https://ebird.org/checklist/S196988079)
+[附照片的公民科学记录](https://ebird.org/checklist/S196988079)
 
 [刘善思（2022）](References/刘善思_2022_高原农业.pdf)报告的灰伯劳实为本种
 
