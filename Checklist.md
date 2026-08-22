@@ -2,9857 +2,6668 @@
 
 **西藏鸟类名录**
 
----
+------------------------------------------------------------------------
 
 ## Anseriformes
 
 ### Anatidae
 
-#### 101. 斑头雁 *Anser indicus* — 斑头雁
+**101. 斑头雁 *Anser indicus* — 斑头雁**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S275923890)
 
+------------------------------------------------------------------------
 
-**References:**
+**105. 灰雁 *Anser anser* — 灰雁**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://ebird.org/checklist/S80014675)
 
-#### 105. 灰雁 *Anser anser* — 灰雁
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**108. 白额雁 *Anser albifrons* — 白额雁**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S80014675)
 
-**References:**
+------------------------------------------------------------------------
 
+**111. 豆雁 *Anser fabalis* — 豆雁**
 
----
+**记录状态：** 确认
 
-#### 108. 白额雁 *Anser albifrons* — 白额雁
+[附照片的公民科学记录](https://www.birdreport.cn/home/record/page.html?param=eyJyZXBvcnRJZCI6IjFiZTAwMzdlLTRiYjMtNGUzNS1iMzBjLWFmY2IyYjQ4ZDNiZiIsInRzIjoxNzg3MTE1NjEwNjQ2fQ==&sign=d41d8cd98f00b204e9800998ecf8427e)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**115. 鸳鸯 *Aix galericulata* — 鸳鸯**
 
+**记录状态：** 确认
 
-**References:**
+附照片的论文（[李扎西姐等，2021](References/李扎西姐等_2021_西藏科技.pdf)）
 
+------------------------------------------------------------------------
 
----
+**127. 翘鼻麻鸭 *Tadorna tadorna* — 翘鼻麻鸭**
 
-#### 111. 豆雁 *Anser fabalis* — 豆雁
+**记录状态：** 确认
 
-**Status:** Not assessed
+[附照片的公民科学记录](https://ebird.org/checklist/S49387072)
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**130. 赤麻鸭 *Tadorna ferruginea* — 赤麻鸭**
 
-**References:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S251968050)
 
----
+------------------------------------------------------------------------
 
-#### 115. 鸳鸯 *Aix galericulata* — 鸳鸯
+**145. 斑脸海番鸭 *Melanitta stejnegeri* — 斑脸海番鸭**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S222572046)
 
+------------------------------------------------------------------------
 
-**References:**
+**148. 鹊鸭 *Bucephala clangula* — 鹊鸭**
 
+**记录状态：** 可能
 
----
+有少量公民科学记录，邢家华（2026，个人通信）对其记录印象深刻，十分肯定，此外Lang等（2007）也记录了本种，但均没有照片
 
-#### 127. 翘鼻麻鸭 *Tadorna tadorna* — 翘鼻麻鸭
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**149. 斑头秋沙鸭 *Mergellus albellus* — 斑头秋沙鸭**
 
-**Evidence:**
+**记录状态：** 确认
 
+李成（2025，个人通信）2025年1月在墨脱县拍到1只雄鸟
 
-**References:**
+------------------------------------------------------------------------
 
+**151. 红胸秋沙鸭 *Mergus serrator* — 红胸秋沙鸭**
 
----
+**记录状态：** 确认
 
-#### 130. 赤麻鸭 *Tadorna ferruginea* — 赤麻鸭
+[附照片的公民科学记录](https://www.birdreport.cn/home/record/page.html?param=eyJyZXBvcnRJZCI6IjFkMDI2YmM0LWRhZTMtNDFjNy04ZjAxLTc2ZjFhNGZkYmIzYSIsInRzIjoxNzg3MTE2OTQ5NjEwfQ==&sign=d41d8cd98f00b204e9800998ecf8427e)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**155. 普通秋沙鸭 *Mergus merganser* — 普通秋沙鸭**
 
+**记录状态：** 确认
 
-**References:**
+[附照片的公民科学记录](https://ebird.org/checklist/S275923890)
 
+------------------------------------------------------------------------
 
----
+**156. 瘤鸭 *Sarkidiornis melanotos* — 瘤鸭**
 
-#### 145. 斑脸海番鸭 *Melanitta stejnegeri* — 斑脸海番鸭
+**记录状态：** 未评估
 
-**Status:** Not assessed
+**证据说明：**
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**165. 赤嘴潜鸭 *Netta rufina* — 赤嘴潜鸭**
 
-**References:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S80869606)
 
----
+------------------------------------------------------------------------
 
-#### 148. 鹊鸭 *Bucephala clangula* — 鹊鸭
+**168. 白眼潜鸭 *Aythya nyroca* — 白眼潜鸭**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S255794723)
 
+------------------------------------------------------------------------
 
-**References:**
+**170. 青头潜鸭 *Aythya baeri* — 青头潜鸭**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://www.birdreport.cn/home/line/page.html?param=eyJhY3Rpdml0eUlkIjoxMjE0MzQ1LCJ0cyI6MTc4NzExNzE5NzE3OH0=&sign=d41d8cd98f00b204e9800998ecf8427e)
 
-#### 149. 斑头秋沙鸭 *Mergellus albellus* — 斑头秋沙鸭
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**172. 红头潜鸭 *Aythya ferina* — 红头潜鸭**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S255560272)
 
-**References:**
+------------------------------------------------------------------------
 
+**176. 凤头潜鸭 *Aythya fuligula* — 凤头潜鸭**
 
----
+**记录状态：** 确认
 
-#### 151. 红胸秋沙鸭 *Mergus serrator* — 红胸秋沙鸭
+[附照片的公民科学记录](https://ebird.org/checklist/S231109308)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**188. 花脸鸭 *Sibirionetta formosa* — 花脸鸭**
 
+**记录状态：** 确认
 
-**References:**
+附照片的论文（[索朗卓嘎等，2025](https://kns.cnki.net/kcms2/article/abstract?v=vJPlAO6Aao8DYsdZnNYZQgsUO6Vbc3vOrveLRo8l8WFIoB0hJ8V1LroZaH7-EB2Wbw4aQaJyUZm5HO9pWxlan8SNqOoObxRrEN1GTea-6e-BZ0fB_g7TOrmj6zg2rJGJ8FBwChByfe4IP_bJGF3ea5gIfLuLqXiYTLMWfurZnI8=&uniplatform=NZKPT)）
 
+------------------------------------------------------------------------
 
----
+**189. 白眉鸭 *Spatula querquedula* — 白眉鸭**
 
-#### 155. 普通秋沙鸭 *Mergus merganser* — 普通秋沙鸭
+**记录状态：** 确认
 
-**Status:** Not assessed
+[附照片的公民科学记录](https://ebird.org/checklist/S93247447)
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**197. 琵嘴鸭 *Spatula clypeata* — 琵嘴鸭**
 
-**References:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S229563446)
 
----
+------------------------------------------------------------------------
 
-#### 156. 瘤鸭 *Sarkidiornis melanotos* — 瘤鸭
+**199. 罗纹鸭 *Mareca falcata* — 罗纹鸭**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://www.birdreport.cn/home/line/page.html?param=eyJhY3Rpdml0eUlkIjoxMDEyOTY4LCJ0cyI6MTc4NzExNzU5OTQzOX0=&sign=d41d8cd98f00b204e9800998ecf8427e)
 
+------------------------------------------------------------------------
 
-**References:**
+**200. 赤膀鸭 *Mareca strepera* — 赤膀鸭**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://ebird.org/checklist/S322725102)
 
-#### 165. 赤嘴潜鸭 *Netta rufina* — 赤嘴潜鸭
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**202. 赤颈鸭 *Mareca penelope* — 赤颈鸭**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S322725102)
 
-**References:**
+------------------------------------------------------------------------
 
+**212. 斑嘴鸭 *Anas zonorhyncha* — 斑嘴鸭**
 
----
+**记录状态：** 确认
 
-#### 168. 白眼潜鸭 *Aythya nyroca* — 白眼潜鸭
+[附照片的公民科学记录](https://ebird.org/checklist/S98985832)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**213. 印缅斑嘴鸭 *Anas poecilorhyncha* — 南亚斑嘴鸭**
 
+**记录状态：** 未评估
 
-**References:**
+**证据说明：**
 
+------------------------------------------------------------------------
 
----
+**214. 绿头鸭 *Anas platyrhynchos* — 绿头鸭**
 
-#### 170. 青头潜鸭 *Aythya baeri* — 青头潜鸭
+**记录状态：** 确认
 
-**Status:** Not assessed
+[附照片的公民科学记录](https://ebird.org/checklist/S153376235)
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**222. 针尾鸭 *Anas acuta* — 针尾鸭**
 
-**References:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://www.birdreport.cn/home/record/page.html?param=eyJhY3Rpdml0eUlkIjoxMjcwOTk1LCJ0cyI6MTc4NzExNzc4NTM1MywicmVwb3J0SWQiOiI5NzliYjUwMi03ZGNiLTQ1YTUtYjc0MC1jNWU2ZjU4OTIyNzcifQ==&sign=d41d8cd98f00b204e9800998ecf8427e)
 
----
+------------------------------------------------------------------------
 
-#### 172. 红头潜鸭 *Aythya ferina* — 红头潜鸭
+**224. 绿翅鸭 *Anas crecca* — 绿翅鸭**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S98985832)
 
-
-**References:**
-
-
----
-
-#### 176. 凤头潜鸭 *Aythya fuligula* — 凤头潜鸭
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 188. 花脸鸭 *Sibirionetta formosa* — 花脸鸭
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 189. 白眉鸭 *Spatula querquedula* — 白眉鸭
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 197. 琵嘴鸭 *Spatula clypeata* — 琵嘴鸭
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 199. 罗纹鸭 *Mareca falcata* — 罗纹鸭
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 200. 赤膀鸭 *Mareca strepera* — 赤膀鸭
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 202. 赤颈鸭 *Mareca penelope* — 赤颈鸭
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 212. 斑嘴鸭 *Anas zonorhyncha* — 斑嘴鸭
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 213. 印缅斑嘴鸭 *Anas poecilorhyncha* — 南亚斑嘴鸭
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 214. 绿头鸭 *Anas platyrhynchos* — 绿头鸭
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 222. 针尾鸭 *Anas acuta* — 针尾鸭
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 224. 绿翅鸭 *Anas crecca* — 绿翅鸭
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ## Galliformes
 
 ### Phasianidae
 
-#### 360. 环颈山鹧鸪 *Arborophila torqueola* — 环颈山鹧鸪
+**360. 环颈山鹧鸪 *Arborophila torqueola* — 环颈山鹧鸪**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S82672425)
 
+------------------------------------------------------------------------
 
-**References:**
+**362. 红胸山鹧鸪 *Arborophila mandellii* — 红胸山鹧鸪**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://ebird.org/checklist/S347477419)
 
-#### 362. 红胸山鹧鸪 *Arborophila mandellii* — 红胸山鹧鸪
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**364. 红喉山鹧鸪 *Arborophila rufogularis* — 红喉山鹧鸪**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附照片的社交媒体贴文](https://mp.weixin.qq.com/s/JtMP-8-oeiper2FiKOYZEA)
 
-**References:**
+------------------------------------------------------------------------
 
+**378. 雪鹑 *Lerwa lerwa* — 雪鹑**
 
----
+**记录状态：** 确认
 
-#### 364. 红喉山鹧鸪 *Arborophila rufogularis* — 红喉山鹧鸪
+[附照片的公民科学记录](https://ebird.org/checklist/S204345957)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**379. 血雉 *Ithaginis cruentus* — 血雉**
 
+**记录状态：** 确认
 
-**References:**
+[附照片的公民科学记录](https://ebird.org/checklist/S41226165)
 
+------------------------------------------------------------------------
 
----
+**380. 黑头角雉 *Tragopan melanocephalus* — 黑头角雉**
 
-#### 378. 雪鹑 *Lerwa lerwa* — 雪鹑
+**记录状态：** 排除
 
-**Status:** Not assessed
+郑作新（1976，1955）中记载本种分布于“西藏西南隅”“印度河流域”，但从其参考文献来看，该论述很可能来自于Delacour（1951）所描述的“The Indus River marks its northern and eastern boundary as far as we know at present”一句，但印度河流域显然不能等同于“狮泉河周边山地”；尽管尚不清楚Cheng（1947）中收录这一物种的依据，但目前暂未发现本种在西藏有分布的其他证据；此外，SDM显示本种分布于西藏的概率很低（Shah等，2022）
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**381. 红胸角雉 *Tragopan satyra* — 红胸角雉**
 
-**References:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S85376682)
 
----
+------------------------------------------------------------------------
 
-#### 379. 血雉 *Ithaginis cruentus* — 血雉
+**382. 灰腹角雉 *Tragopan blythii* — 灰腹角雉**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+附照片的论文（[赵旺林等，2021](https://kns.cnki.net/kcms2/article/abstract?v=vJPlAO6Aao_pQRSnA9z2Wdmc8qkmjQmayJNB_7xLOH53iNOuegHo2HHKyisIVAuXFQ9Xfclgd4Wzewoom20BzGS7aAD09UVI60UX6gdfc3wKarVxjrjKecSX2pOS8_SV0z1-EZWYqgs0bjKY9mstHEdmWG9yMkw0ogScGVIE4Ic=&uniplatform=NZKPT)）
 
+------------------------------------------------------------------------
 
-**References:**
+**383. 红腹角雉 *Tragopan temminckii* — 红腹角雉**
 
+**记录状态：** 确认
 
----
+[附录音的公民科学记录](https://ebird.org/checklist/S323235183)
 
-#### 380. 黑头角雉 *Tragopan melanocephalus* — 黑头角雉
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**386. 黄喉雉鹑 *Tetraophasis szechenyii* — 黄喉雉鹑**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S79961221)
 
-**References:**
+------------------------------------------------------------------------
 
+**387. 棕尾虹雉 *Lophophorus impejanus* — 棕尾虹雉**
 
----
+**记录状态：** 确认
 
-#### 381. 红胸角雉 *Tragopan satyra* — 红胸角雉
+[附照片的公民科学记录](https://ebird.org/checklist/S41226165)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**388. 白尾梢虹雉 *Lophophorus sclateri* — 白尾梢虹雉**
 
+**记录状态：** 确认
 
-**References:**
+[附照片的公民科学记录](https://ebird.org/checklist/S227698572)
 
+------------------------------------------------------------------------
 
----
+**389. 绿尾虹雉 *Lophophorus lhuysii* — 绿尾虹雉**
 
-#### 382. 灰腹角雉 *Tragopan blythii* — 灰腹角雉
+**记录状态：** 未评估
 
-**Status:** Not assessed
+**证据说明：**
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**392. 勺鸡 *Pucrasia macrolopha* — 勺鸡**
 
-**References:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://www.birdreport.cn/home/record/page.html?param=eyJyZXBvcnRJZCI6ImJkMTBkMGNmLWRjNTYtNGJlNy05YjFiLTIxZmI2ZWM0MjExMyIsInRzIjoxNzg3MTI1NjQ3MjU2fQ==&sign=d41d8cd98f00b204e9800998ecf8427e)
 
----
+------------------------------------------------------------------------
 
-#### 383. 红腹角雉 *Tragopan temminckii* — 红腹角雉
+**396. 斑尾榛鸡 *Tetrastes sewerzowi* — 斑尾榛鸡**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+附照片的论文（郭克疾等，2016）
 
+------------------------------------------------------------------------
 
-**References:**
+**415. 高原山鹑 *Perdix hodgsoniae* — 高原山鹑**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://ebird.org/checklist/S289259375)
 
-#### 386. 黄喉雉鹑 *Tetraophasis szechenyii* — 黄喉雉鹑
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**424. 白腹锦鸡 *Chrysolophus amherstiae* — 白腹锦鸡**
 
-**Evidence:**
+**记录状态：** 可能
 
+李学友等（2020）报告了本种，但没有提供照片；在德钦北部、靠近芒康的区域有少量公民科学记录
 
-**References:**
+------------------------------------------------------------------------
 
+**426. 雉鸡 *Phasianus colchicus* — 环颈雉**
 
----
+**记录状态：** 可能
 
-#### 387. 棕尾虹雉 *Lophophorus impejanus* — 棕尾虹雉
+张同等（2026）报告了本种，但没有提供照片
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**428. 藏马鸡 *Crossoptilon harmani* — 藏马鸡**
 
+**记录状态：** 确认
 
-**References:**
+[附照片的公民科学记录](https://ebird.org/checklist/S65142666)
 
+------------------------------------------------------------------------
 
----
+**429. 白马鸡 *Crossoptilon crossoptilon* — 白马鸡**
 
-#### 388. 白尾梢虹雉 *Lophophorus sclateri* — 白尾梢虹雉
+**记录状态：** 确认
 
-**Status:** Not assessed
+[附照片的公民科学记录](https://www.inaturalist.org/observations/118927754)
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**435. 黑鹇 *Lophura leucomelanos* — 黑鹇**
 
-**References:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S154122252)
 
----
+------------------------------------------------------------------------
 
-#### 389. 绿尾虹雉 *Lophophorus lhuysii* — 绿尾虹雉
+**447. 蓝孔雀 *Pavo cristatus* —**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+附照片的论文（刘爱华等，2025）
 
+------------------------------------------------------------------------
 
-**References:**
+**448. 绿孔雀 *Pavo muticus* — 绿孔雀**
 
+**记录状态：** 未评估
 
----
+**证据说明：**
 
-#### 392. 勺鸡 *Pucrasia macrolopha* — 勺鸡
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**490. 藏雪鸡 *Tetraogallus tibetanus* — 藏雪鸡**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S41244241)
 
-**References:**
+------------------------------------------------------------------------
 
+**494. 暗腹雪鸡 *Tetraogallus himalayensis* — 暗腹雪鸡**
 
----
+**记录状态：** 确认
 
-#### 396. 斑尾榛鸡 *Tetrastes sewerzowi* — 斑尾榛鸡
+[附照片的公民科学记录](https://ebird.org/checklist/S204345957)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**503. 西鹌鹑 *Coturnix coturnix* — 西鹌鹑**
 
+**记录状态：** 未评估
 
-**References:**
+**证据说明：**
 
+------------------------------------------------------------------------
 
----
+**511. 石鸡 *Alectoris chukar* — 石鸡**
 
-#### 415. 高原山鹑 *Perdix hodgsoniae* — 高原山鹑
+**记录状态：** 确认
 
-**Status:** Not assessed
+[附照片的社交媒体贴文](https://mp.weixin.qq.com/s/KohVvtU3fAlHluwxx4n1-Q)
 
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 424. 白腹锦鸡 *Chrysolophus amherstiae* — 白腹锦鸡
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 426. 雉鸡 *Phasianus colchicus* — 环颈雉
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 428. 藏马鸡 *Crossoptilon harmani* — 藏马鸡
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 429. 白马鸡 *Crossoptilon crossoptilon* — 白马鸡
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 435. 黑鹇 *Lophura leucomelanos* — 黑鹇
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 447. 蓝孔雀 *Pavo cristatus*
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 448. 绿孔雀 *Pavo muticus* — 绿孔雀
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 490. 藏雪鸡 *Tetraogallus tibetanus* — 藏雪鸡
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 494. 暗腹雪鸡 *Tetraogallus himalayensis* — 暗腹雪鸡
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 503. 西鹌鹑 *Coturnix coturnix* — 西鹌鹑
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 511. 石鸡 *Alectoris chukar* — 石鸡
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ## Podicipediformes
 
 ### Podicipedidae
 
-#### 552. 小䴙䴘 *Tachybaptus ruficollis* — 小䴙䴘
+**552. 小䴙䴘 *Tachybaptus ruficollis* — 小䴙䴘**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+有较多公民科学记录，但均没有照片；本人2024年1月在墨脱县目击1只
 
+------------------------------------------------------------------------
 
-**References:**
+**563. 凤头䴙䴘 *Podiceps cristatus* — 凤头䴙䴘**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://ebird.org/checklist/S322725102)
 
-#### 563. 凤头䴙䴘 *Podiceps cristatus* — 凤头䴙䴘
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**564. 黑颈䴙䴘 *Podiceps nigricollis* — 黑颈䴙䴘**
 
-**Evidence:**
+**记录状态：** 确认
 
+刘子祥等（2014）报告了本种，但没有提供照片；后来有[附照片的公民科学记录](https://ebird.org/checklist/S203743151)
 
-**References:**
-
-
----
-
-#### 564. 黑颈䴙䴘 *Podiceps nigricollis* — 黑颈䴙䴘
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ## Cuculiformes
 
 ### Cuculidae
 
-#### 673. 小鸦鹃 *Centropus bengalensis* — 小鸦鹃
+**673. 小鸦鹃 *Centropus bengalensis* — 小鸦鹃**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+附照片的论文（高泰等，2023）
 
+------------------------------------------------------------------------
 
-**References:**
+**688. 绿嘴地鹃 *Phaenicophaeus tristis* — 绿嘴地鹃**
 
+**记录状态：** 未评估
 
----
+**证据说明：**
 
-#### 688. 绿嘴地鹃 *Phaenicophaeus tristis* — 绿嘴地鹃
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**695. 斑翅凤头鹃 *Clamator jacobinus* — 斑翅凤头鹃**
 
-**Evidence:**
+**记录状态：** 可能
 
+Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（1972）检视的Tingkye Dzong（今定结乡）标本应该为同一号，因为后者书中数次引用了前者，且二者所给出的采集月、日相同；结合Howard-Bury（1921）的记载，标本采集人Wollaston于6月14日从Khamba Dzong（今岗巴镇）出发，22日到达Tingri Dzong（今岗嘎镇），采到标本时为20日，因此采集地应该在今定结县到定日县之间；暂不确定曲利明（2013）中所收录西藏照片的来源，无法排除其来自藏南地区；刘阳（2025，个人通信）指出上海自然博物馆1980年在墨脱县亦采集到本种，但目前未找到标本照片
 
-**References:**
+------------------------------------------------------------------------
 
+**718. 噪鹃 *Eudynamys scolopaceus* — 噪鹃**
 
----
+**记录状态：** 未评估
 
-#### 695. 斑翅凤头鹃 *Clamator jacobinus* — 斑翅凤头鹃
+**证据说明：**
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**723. 翠金鹃 *Chrysococcyx maculatus* — 翠金鹃**
 
+**记录状态：** 确认
 
-**References:**
+[附照片的社交媒体贴文](https://www.xiaohongshu.com/discovery/item/68399448000000002300f786?source=webshare&xhsshare=pc_web&xsec_token=ABdVhYukr7l9GCZJVsNIL1voo-XKoyzX5GgvQPTs-zAUQ=&xsec_source=pc_share)
 
+------------------------------------------------------------------------
 
----
+**724. 紫金鹃 *Chrysococcyx xanthorhynchus* — 紫金鹃**
 
-#### 718. 噪鹃 *Eudynamys scolopaceus* — 噪鹃
+**记录状态：** 排除
 
-**Status:** Not assessed
+郑光美（2023）收录了本种而非翠金鹃，其依据很可能为[西北高原生物研究所标本馆的一号标本](http://museum.ioz.ac.cn/bbimgxx.aspx?pth=2163C0001200000415)，但该标本实为翠金鹃；中国科学院青藏高原综合科学考察队（1983）报告的翠金鹃应该为同一号标本
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**742. 八声杜鹃 *Cacomantis merulinus* — 八声杜鹃**
 
-**References:**
+**记录状态：** 确认
 
+有较多公民科学记录，但均没有录音或照片；本人2025年和2026年春季多次在墨脱县听到其叫声
 
----
+------------------------------------------------------------------------
 
-#### 723. 翠金鹃 *Chrysococcyx maculatus* — 翠金鹃
+**755. 乌鹃 *Surniculus lugubris* — 乌鹃**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S238025417)
 
+------------------------------------------------------------------------
 
-**References:**
+**758. 大鹰鹃 *Hierococcyx sparverioides* — 大鹰鹃**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://ebird.org/checklist/S101826170)
 
-#### 724. 紫金鹃 *Chrysococcyx xanthorhynchus* — 紫金鹃
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**760. 普通鹰鹃 *Hierococcyx varius* — 普通鹰鹃**
 
-**Evidence:**
+**记录状态：** 未评估
 
+**证据说明：**
 
-**References:**
+------------------------------------------------------------------------
 
+**763. 棕腹鹰鹃 *Hierococcyx nisicolor* — 棕腹鹰鹃**
 
----
+**记录状态：** 确认
 
-#### 742. 八声杜鹃 *Cacomantis merulinus* — 八声杜鹃
+[附录音的公民科学记录](https://ebird.org/checklist/S231786870)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**767. 小杜鹃 *Cuculus poliocephalus* — 小杜鹃**
 
+**记录状态：** 确认
 
-**References:**
+[附录音的公民科学记录](https://xeno-canto.org/999822)
 
+------------------------------------------------------------------------
 
----
+**769. 四声杜鹃 *Cuculus micropterus* — 四声杜鹃**
 
-#### 755. 乌鹃 *Surniculus lugubris* — 乌鹃
+**记录状态：** 确认
 
-**Status:** Not assessed
+[附录音的公民科学记录](https://ebird.org/checklist/S229082078)
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**772. 中杜鹃 *Cuculus saturatus* — 中杜鹃**
 
-**References:**
+**记录状态：** 确认
 
+有较多公民科学记录，但均没有录音，不易辨识；本人2025年和2026年春季多次在墨脱县听到其叫声
 
----
+------------------------------------------------------------------------
 
-#### 758. 大鹰鹃 *Hierococcyx sparverioides* — 大鹰鹃
+**774. 大杜鹃 *Cuculus canorus* — 大杜鹃**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附录音的公民科学记录](https://ebird.org/checklist/S250630126)
 
-
-**References:**
-
-
----
-
-#### 760. 普通鹰鹃 *Hierococcyx varius* — 普通鹰鹃
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 763. 棕腹鹰鹃 *Hierococcyx nisicolor* — 棕腹鹰鹃
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 767. 小杜鹃 *Cuculus poliocephalus* — 小杜鹃
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 769. 四声杜鹃 *Cuculus micropterus* — 四声杜鹃
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 772. 中杜鹃 *Cuculus saturatus* — 中杜鹃
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 774. 大杜鹃 *Cuculus canorus* — 大杜鹃
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ## Pterocliformes
 
 ### Pteroclidae
 
-#### 780. 西藏毛腿沙鸡 *Syrrhaptes tibetanus* — 西藏毛腿沙鸡
+**780. 西藏毛腿沙鸡 *Syrrhaptes tibetanus* — 西藏毛腿沙鸡**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S62907573)
 
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ## Columbiformes
 
 ### Columbidae
 
-#### 854. 斑尾鹃鸠 *Macropygia unchall* — 斑尾鹃鸠
+**854. 斑尾鹃鸠 *Macropygia unchall* — 斑尾鹃鸠**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+附照片的论文（阙品甲等，2017）
 
+------------------------------------------------------------------------
 
-**References:**
+**887. 珠颈斑鸠 *Spilopelia chinensis* — 珠颈斑鸠**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://www.birdreport.cn/home/record/page.html?param=eyJyZXBvcnRJZCI6IjkwYWEzOGQ4LWZiZWYtNGZhYS1hY2JkLTBkNjMxNzJkN2U1MCIsInRzIjoxNzg3MTk4NTY1NTUyfQ==&sign=d41d8cd98f00b204e9800998ecf8427e)
 
-#### 887. 珠颈斑鸠 *Spilopelia chinensis* — 珠颈斑鸠
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**895. 火斑鸠 *Streptopelia tranquebarica* — 火斑鸠**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S348604727)
 
-**References:**
+------------------------------------------------------------------------
 
+**896. 山斑鸠 *Streptopelia orientalis* — 山斑鸠**
 
----
+**记录状态：** 确认
 
-#### 895. 火斑鸠 *Streptopelia tranquebarica* — 火斑鸠
+[附照片的公民科学记录](https://ebird.org/checklist/S263033573)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**897. 欧斑鸠 *Streptopelia turtur* — 欧斑鸠**
 
+**记录状态：** 未评估
 
-**References:**
+**证据说明：**
 
+------------------------------------------------------------------------
 
----
+**917. 灰林鸽 *Columba pulchricollis* — 灰林鸽**
 
-#### 896. 山斑鸠 *Streptopelia orientalis* — 山斑鸠
+**记录状态：** 确认
 
-**Status:** Not assessed
+[附照片的社交媒体贴文](https://www.xiaohongshu.com/discovery/item/6a5c33920000000011004b5d?source=webshare&xhsshare=pc_web&xsec_token=ABJfzbo90q3X8gxutlogUrRsmthjHLyffog8bcC95kMbM=&xsec_source=pc_share)
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**920. 紫林鸽 *Columba punicea* — 紫林鸽**
 
-**References:**
+**记录状态：** 未评估
 
+**证据说明：**
 
----
+------------------------------------------------------------------------
 
-#### 897. 欧斑鸠 *Streptopelia turtur* — 欧斑鸠
+**924. 点斑林鸽 *Columba hodgsonii* — 斑林鸽**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S85956644)
 
+------------------------------------------------------------------------
 
-**References:**
+**936. 雪鸽 *Columba leuconota* — 雪鸽**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://ebird.org/checklist/S41226165)
 
-#### 917. 灰林鸽 *Columba pulchricollis* — 灰林鸽
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**937. 岩鸽 *Columba rupestris* — 岩鸽**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S263033573)
 
-**References:**
+------------------------------------------------------------------------
 
+**938. 原鸽 *Columba livia* — 原鸽**
 
----
+**记录状态：** 确认
 
-#### 920. 紫林鸽 *Columba punicea* — 紫林鸽
+实质上已无法严格地与野化家鸽区分
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**942. 绿翅金鸠 *Chalcophaps indica* — 绿翅金鸠**
 
+**记录状态：** 未评估
 
-**References:**
+**证据说明：**
 
+------------------------------------------------------------------------
 
----
+**967. 黄脚绿鸠 *Treron phoenicopterus* — 黄脚绿鸠**
 
-#### 924. 点斑林鸽 *Columba hodgsonii* — 斑林鸽
+**记录状态：** 确认
 
-**Status:** Not assessed
+[附照片的社交媒体贴文](https://www.xiaohongshu.com/discovery/item/69bb7d64000000001f001051?source=webshare&xhsshare=pc_web&xsec_token=ABRWSEaWJAE-rSMY3mViNseWpYSnvXdwV8bUTFoYlH6sU=&xsec_source=pc_share)
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**974. 针尾绿鸠 *Treron apicauda* — 针尾绿鸠**
 
-**References:**
+**记录状态：** 未评估
 
+**证据说明：**
 
----
+------------------------------------------------------------------------
 
-#### 936. 雪鸽 *Columba leuconota* — 雪鸽
+**977. 楔尾绿鸠 *Treron sphenurus* — 楔尾绿鸠**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S95041500)
 
+------------------------------------------------------------------------
 
-**References:**
+**1076. 山皇鸠 *Ducula badia* — 山皇鸠**
 
+**记录状态：** 未评估
 
----
+**证据说明：**
 
-#### 937. 岩鸽 *Columba rupestris* — 岩鸽
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 938. 原鸽 *Columba livia* — 原鸽
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 942. 绿翅金鸠 *Chalcophaps indica* — 绿翅金鸠
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 967. 黄脚绿鸠 *Treron phoenicopterus* — 黄脚绿鸠
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 974. 针尾绿鸠 *Treron apicauda* — 针尾绿鸠
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 977. 楔尾绿鸠 *Treron sphenurus* — 楔尾绿鸠
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 1076. 山皇鸠 *Ducula badia* — 山皇鸠
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ## Gruiformes
 
 ### Gruidae
 
-#### 1158. 蓑羽鹤 *Grus virgo* — 蓑羽鹤
+**1158. 蓑羽鹤 *Grus virgo* — 蓑羽鹤**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://www.birdreport.cn/home/record/page.html?param=eyJyZXBvcnRJZCI6ImU0MTllMmU1LTQxZjMtNDA3Zi1iYTNkLTNjNGIxODIwNDg0YiIsInRzIjoxNzg3MTk5MDczNTk0fQ==&sign=d41d8cd98f00b204e9800998ecf8427e)
 
+------------------------------------------------------------------------
 
-**References:**
+**1162. 灰鹤 *Grus grus* — 灰鹤**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://ebird.org/checklist/S225451876)
 
-#### 1162. 灰鹤 *Grus grus* — 灰鹤
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**1164. 黑颈鹤 *Grus nigricollis* — 黑颈鹤**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S73903939)
 
-**References:**
-
-
----
-
-#### 1164. 黑颈鹤 *Grus nigricollis* — 黑颈鹤
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ### Rallidae
 
-#### 1224. 长脚秧鸡 *Crex crex* — 长脚秧鸡
+**1212. 普通秧鸡 *Rallus indicus* — 普通秧鸡**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S368476256)
 
+------------------------------------------------------------------------
 
-**References:**
+**1224. 长脚秧鸡 *Crex crex* — 长脚秧鸡**
 
+**记录状态：** 未评估
 
----
+**证据说明：**
 
-#### 1226. 灰胸秧鸡 *Lewinia striata* — 灰胸秧鸡
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**1226. 灰胸秧鸡 *Lewinia striata* — 灰胸秧鸡**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S352623561)
 
-**References:**
+------------------------------------------------------------------------
 
+**1262. 黑水鸡 *Gallinula chloropus* — 黑水鸡**
 
----
+**记录状态：** 确认
 
-#### 1262. 黑水鸡 *Gallinula chloropus* — 黑水鸡
+[附照片的公民科学记录](https://ebird.org/checklist/S328238820)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**1270. 白骨顶 *Fulica atra* — 白骨顶**
 
+**记录状态：** 确认
 
-**References:**
+[附照片的公民科学记录](https://ebird.org/checklist/S49386648)
 
+------------------------------------------------------------------------
 
----
+**1281. 紫水鸡 *Porphyrio porphyrio* — 紫水鸡**
 
-#### 1270. 白骨顶 *Fulica atra* — 白骨顶
+**记录状态：** 确认
 
-**Status:** Not assessed
+叶腾（2026，个人通信）2025年11月在墨脱县拍到1只
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**1303. 白眉田鸡 *Poliolimnas cinereus* — 白眉苦恶鸟**
 
-**References:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://www.birdreport.cn/home/record/page.html?param=eyJyZXBvcnRJZCI6IjI0NjczYTJhLTRkZWUtNGJjZi04OGU5LTE5MWZjMmNiNDFjOSIsInRzIjoxNzg3MTk5MzY4OTE5fQ==&sign=d41d8cd98f00b204e9800998ecf8427e)
 
----
+------------------------------------------------------------------------
 
-#### 1281. 紫水鸡 *Porphyrio porphyrio* — 紫水鸡
+**1306. 董鸡 *Gallicrex cinerea* — 董鸡**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S246465516)
 
+------------------------------------------------------------------------
 
-**References:**
+**1309. 白胸苦恶鸟 *Amaurornis phoenicurus* — 白胸苦恶鸟**
 
+**记录状态：** 确认
 
----
+[附录音的公民科学记录](https://ebird.org/checklist/S243298670)
 
-#### 1303. 白眉田鸡 *Poliolimnas cinereus* — 白眉苦恶鸟
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**1316. 红胸田鸡 *Zapornia fusca* — 红胸田鸡**
 
-**Evidence:**
+**记录状态：** 未评估
 
+**证据说明：**
 
-**References:**
+------------------------------------------------------------------------
 
+**1321. 小田鸡 *Zapornia pusilla* — 小田鸡**
 
----
+**记录状态：** 确认
 
-#### 1306. 董鸡 *Gallicrex cinerea* — 董鸡
+附照片的论文（薛泊宁等，2025）
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**1325. 棕背田鸡 *Zapornia bicolor* — 棕背田鸡**
 
+**记录状态：** 确认
 
-**References:**
+[附照片的公民科学记录](https://ebird.org/checklist/S290259902)
 
-
----
-
-#### 1309. 白胸苦恶鸟 *Amaurornis phoenicurus* — 白胸苦恶鸟
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 1316. 红胸田鸡 *Zapornia fusca* — 红胸田鸡
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 1321. 小田鸡 *Zapornia pusilla* — 小田鸡
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 1325. 棕背田鸡 *Zapornia bicolor* — 棕背田鸡
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ## Charadriiformes
 
 ### Burhinidae
 
-#### 1342. 印度石鸻 *Burhinus indicus*
+**1342. 印度石鸻 *Burhinus indicus* —**
 
-**Status:** Not assessed
+**记录状态：** 可能
 
-**Evidence:**
+赵旺林等（2025）报告了本种，但从照片中不能完全排除欧石鸻，尽管从分布上看本种的可能性更大
 
+------------------------------------------------------------------------
 
-**References:**
+**1343. 石鸻 *Burhinus oedicnemus* — 石鸻**
 
+**记录状态：** 未评估
 
----
+**证据说明：**
 
-#### 1343. 石鸻 *Burhinus oedicnemus* — 石鸻
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ### Recurvirostridae
 
-#### 1346. 反嘴鹬 *Recurvirostra avosetta* — 反嘴鹬
+**1346. 反嘴鹬 *Recurvirostra avosetta* — 反嘴鹬**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://www.birdreport.cn/home/line/page.html?param=eyJhY3Rpdml0eUlkIjo4MjcyNTUsInRzIjoxNzg3MTk5NzM1NzgyfQ==&sign=d41d8cd98f00b204e9800998ecf8427e)
 
+------------------------------------------------------------------------
 
-**References:**
+**1351. 黑翅长脚鹬 *Himantopus himantopus* — 黑翅长脚鹬**
 
+**记录状态：** 确认
 
----
+有较多公民科学记录，但均没有照片；本人2024年10月在日喀则目击2只
 
-#### 1351. 黑翅长脚鹬 *Himantopus himantopus* — 黑翅长脚鹬
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ### Ibidorhynchidae
 
-#### 1354. 鹮嘴鹬 *Ibidorhyncha struthersii* — 鹮嘴鹬
+**1354. 鹮嘴鹬 *Ibidorhyncha struthersii* — 鹮嘴鹬**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S310883708)
 
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ### Haematopodidae
 
-#### 1362. 蛎鹬 *Haematopus ostralegus* — 蛎鹬
+**1362. 蛎鹬 *Haematopus ostralegus* — 蛎鹬**
 
-**Status:** Not assessed
+**记录状态：** 未评估
 
-**Evidence:**
+**证据说明：**
 
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ### Charadriidae
 
-#### 1367. 灰斑鸻 *Pluvialis squatarola* — 灰鸻
+**1367. 灰斑鸻 *Pluvialis squatarola* — 灰鸻**
 
-**Status:** Not assessed
+**记录状态：** 未评估
 
-**Evidence:**
+**证据说明：**
 
+------------------------------------------------------------------------
 
-**References:**
+**1370. 金斑鸻 *Pluvialis fulva* — 金鸻**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://ebird.org/checklist/S95706479)
 
-#### 1370. 金斑鸻 *Pluvialis fulva* — 金鸻
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**1377. 剑鸻 *Charadrius hiaticula* — 剑鸻**
 
-**Evidence:**
+**记录状态：** 未评估
 
+**证据说明：**
 
-**References:**
+------------------------------------------------------------------------
 
+**1385. 长嘴剑鸻 *Thinornis placidus* — 长嘴剑鸻**
 
----
+**记录状态：** 确认
 
-#### 1377. 剑鸻 *Charadrius hiaticula* — 剑鸻
+[附照片的公民科学记录](https://ebird.org/checklist/S352695603)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**1386. 金眶鸻 *Thinornis dubius* — 金眶鸻**
 
+**记录状态：** 确认
 
-**References:**
+[附照片的公民科学记录](https://www.birdreport.cn/home/record/page.html?param=eyJyZXBvcnRJZCI6ImI0NWM1NzJjLTZiMTAtNDdiYS04ZTU1LWExMzFlMmE2YzM0ZSIsInRzIjoxNzg3MjAwNjE2OTc2fQ==&sign=d41d8cd98f00b204e9800998ecf8427e)
 
+------------------------------------------------------------------------
 
----
+**1387. 凤头麦鸡 *Vanellus vanellus* — 凤头麦鸡**
 
-#### 1385. 长嘴剑鸻 *Thinornis placidus* — 长嘴剑鸻
+**记录状态：** 确认
 
-**Status:** Not assessed
+[附照片的公民科学记录](https://ebird.org/checklist/S284485602)
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**1391. 距翅麦鸡 *Vanellus duvaucelii* — 距翅麦鸡**
 
-**References:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://www.birdreport.cn/home/line/page.html?param=eyJhY3Rpdml0eUlkIjoxMDE0MTU2LCJ0cyI6MTc4NzIwMDY5OTExNH0=&sign=d41d8cd98f00b204e9800998ecf8427e)
 
----
+------------------------------------------------------------------------
 
-#### 1386. 金眶鸻 *Thinornis dubius* — 金眶鸻
+**1401. 灰头麦鸡 *Vanellus cinereus* — 灰头麦鸡**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+附照片的论文（陈越等，2017）
 
+------------------------------------------------------------------------
 
-**References:**
+**1402. 肉垂麦鸡 *Vanellus indicus* — 肉垂麦鸡**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://ebird.org/checklist/S224236848)
 
-#### 1387. 凤头麦鸡 *Vanellus vanellus* — 凤头麦鸡
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**1414. 青藏沙鸻 *Anarhynchus atrifrons* — 青藏沙鸻**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S246564500)
 
-**References:**
+------------------------------------------------------------------------
 
+**1435. 环颈鸻 *Anarhynchus alexandrinus* — 环颈鸻**
 
----
+**记录状态：** 未评估
 
-#### 1391. 距翅麦鸡 *Vanellus duvaucelii* — 距翅麦鸡
+**证据说明：**
 
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 1401. 灰头麦鸡 *Vanellus cinereus* — 灰头麦鸡
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 1402. 肉垂麦鸡 *Vanellus indicus* — 肉垂麦鸡
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 1414. 青藏沙鸻 *Anarhynchus atrifrons* — 青藏沙鸻
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 1435. 环颈鸻 *Anarhynchus alexandrinus* — 环颈鸻
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ### Rostratulidae
 
-#### 1442. 彩鹬 *Rostratula benghalensis* — 彩鹬
+**1442. 彩鹬 *Rostratula benghalensis* — 彩鹬**
 
-**Status:** Not assessed
+**记录状态：** 未评估
 
-**Evidence:**
+**证据说明：**
 
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ### Jacanidae
 
-#### 1444. 水雉 *Hydrophasianus chirurgus* — 水雉
+**1444. 水雉 *Hydrophasianus chirurgus* — 水雉**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+附照片的论文（曾智等，2022）
 
+------------------------------------------------------------------------
 
-**References:**
+**1449. 铜翅水雉 *Metopidius indicus* — 铜翅水雉**
 
+**记录状态：** 未评估
 
----
+**证据说明：**
 
-#### 1449. 铜翅水雉 *Metopidius indicus* — 铜翅水雉
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ### Scolopacidae
 
-#### 1457. 中杓鹬 *Numenius phaeopus* — 中杓鹬
+**1457. 中杓鹬 *Numenius phaeopus* — 中杓鹬**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://www.birdreport.cn/home/line/page.html?param=eyJhY3Rpdml0eUlkIjoyMTI1NzQxLCJ0cyI6MTc4NzIwMDkwNTExM30=&sign=d41d8cd98f00b204e9800998ecf8427e)
 
+------------------------------------------------------------------------
 
-**References:**
+**1461. 白腰杓鹬 *Numenius arquata* — 白腰杓鹬**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://ebird.org/checklist/S379232285)
 
-#### 1461. 白腰杓鹬 *Numenius arquata* — 白腰杓鹬
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**1463. 黑尾塍鹬 *Limosa limosa* — 黑尾塍鹬**
 
-**Evidence:**
+**记录状态：** 未评估
 
+**证据说明：**
 
-**References:**
+------------------------------------------------------------------------
 
+**1471. 丘鹬 *Scolopax rusticola* — 丘鹬**
 
----
+**记录状态：** 确认
 
-#### 1463. 黑尾塍鹬 *Limosa limosa* — 黑尾塍鹬
+[附照片的社交媒体贴文](https://mp.weixin.qq.com/s/L4Ua5gTh-6SKcSfb2_I-bQ)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**1487. 林沙锥 *Gallinago nemoricola* — 林沙锥**
 
+**记录状态：** 确认
 
-**References:**
+墨脱县的数名门巴族猎人在听过本种的录音后能够非常准确地描述出该种的形态和习性，并能够给出林芝市范围内分布有该种的大致位置
 
+------------------------------------------------------------------------
 
----
+**1488. 孤沙锥 *Gallinago solitaria* — 孤沙锥**
 
-#### 1471. 丘鹬 *Scolopax rusticola* — 丘鹬
+**记录状态：** 确认
 
-**Status:** Not assessed
+[附照片的公民科学记录](https://ebird.org/checklist/S310521353)
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**1490. 大沙锥 *Gallinago megala* — 大沙锥**
 
-**References:**
+**记录状态：** 存疑
 
+有一定量无法区分针尾或大沙锥的野外观察记录，但目前没有找到标本记录
 
----
+------------------------------------------------------------------------
 
-#### 1487. 林沙锥 *Gallinago nemoricola* — 林沙锥
+**1491. 针尾沙锥 *Gallinago stenura* — 针尾沙锥**
 
-**Status:** Not assessed
+**记录状态：** 可能
 
-**Evidence:**
+有一定量无法区分针尾或大沙锥的野外观察记录，中国科学院青藏高原综合科学考察队（1983）采集了本种的标本，但暂未找到标本照片
 
+------------------------------------------------------------------------
 
-**References:**
+**1496. 扇尾沙锥 *Gallinago gallinago* — 扇尾沙锥**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://ebird.org/checklist/S315448942)
 
-#### 1488. 孤沙锥 *Gallinago solitaria* — 孤沙锥
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**1501. 翘嘴鹬 *Xenus cinereus* — 翘嘴鹬**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S379232285)
 
-**References:**
+------------------------------------------------------------------------
 
+**1502. 矶鹬 *Actitis hypoleucos* — 矶鹬**
 
----
+**记录状态：** 确认
 
-#### 1490. 大沙锥 *Gallinago megala* — 大沙锥
+[附照片的公民科学记录](https://ebird.org/checklist/S322725102)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**1506. 红颈瓣蹼鹬 *Phalaropus lobatus* — 红颈瓣蹼鹬**
 
+**记录状态：** 确认
 
-**References:**
+[附照片的公民科学记录](https://www.birdreport.cn/home/record/page.html?param=eyJyZXBvcnRJZCI6ImU4YWMxN2IxLWQ5MDMtNGNjMS05Njk5LWYwOWE5OTllNjUwMiIsInRzIjoxNzg3MjAzNTYxMTIwfQ==&sign=d41d8cd98f00b204e9800998ecf8427e)
 
+------------------------------------------------------------------------
 
----
+**1507. 白腰草鹬 *Tringa ochropus* — 白腰草鹬**
 
-#### 1491. 针尾沙锥 *Gallinago stenura* — 针尾沙锥
+**记录状态：** 确认
 
-**Status:** Not assessed
+[附照片的公民科学记录](https://ebird.org/checklist/S223020477)
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**1512. 林鹬 *Tringa glareola* — 林鹬**
 
-**References:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S230305784)
 
----
+------------------------------------------------------------------------
 
-#### 1496. 扇尾沙锥 *Gallinago gallinago* — 扇尾沙锥
+**1513. 红脚鹬 *Tringa totanus* — 红脚鹬**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S231109308)
 
+------------------------------------------------------------------------
 
-**References:**
+**1517. 鹤鹬 *Tringa erythropus* — 鹤鹬**
 
+**记录状态：** 未评估
 
----
+**证据说明：**
 
-#### 1501. 翘嘴鹬 *Xenus cinereus* — 翘嘴鹬
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**1518. 青脚鹬 *Tringa nebularia* — 青脚鹬**
 
-**Evidence:**
+**记录状态：** 未评估
 
+**证据说明：**
 
-**References:**
+------------------------------------------------------------------------
 
+**1525. 翻石鹬 *Arenaria interpres* — 翻石鹬**
 
----
+**记录状态：** 未评估
 
-#### 1502. 矶鹬 *Actitis hypoleucos* — 矶鹬
+**证据说明：**
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**1529. 流苏鹬 *Calidris pugnax* — 流苏鹬**
 
+**记录状态：** 确认
 
-**References:**
+[附照片的公民科学记录](https://www.birdreport.cn/home/record/page.html?param=eyJyZXBvcnRJZCI6Ijg4ZGE1ZDkzLTYwODMtNGJjMC04Mzc1LTQwNDYzNWVjYmYwYSIsInRzIjoxNzg3MjA0MjM4MDA1fQ==&sign=d41d8cd98f00b204e9800998ecf8427e)
 
+------------------------------------------------------------------------
 
----
+**1530. 尖尾滨鹬 *Calidris acuminata* — 尖尾滨鹬**
 
-#### 1506. 红颈瓣蹼鹬 *Phalaropus lobatus* — 红颈瓣蹼鹬
+**记录状态：** 未评估
 
-**Status:** Not assessed
+**证据说明：**
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**1532. 弯嘴滨鹬 *Calidris ferruginea* — 弯嘴滨鹬**
 
-**References:**
+**记录状态：** 未评估
 
+**证据说明：**
 
----
+------------------------------------------------------------------------
 
-#### 1507. 白腰草鹬 *Tringa ochropus* — 白腰草鹬
+**1535. 红颈滨鹬 *Calidris ruficollis* — 红颈滨鹬**
 
-**Status:** Not assessed
+**记录状态：** 未评估
 
-**Evidence:**
+**证据说明：**
 
+------------------------------------------------------------------------
 
-**References:**
+**1536. 青脚滨鹬 *Calidris temminckii* — 青脚滨鹬**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://ebird.org/checklist/S229839134)
 
-#### 1512. 林鹬 *Tringa glareola* — 林鹬
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**1537. 长趾滨鹬 *Calidris subminuta* — 长趾滨鹬**
 
-**Evidence:**
+**记录状态：** 未评估
 
+**证据说明：**
 
-**References:**
+------------------------------------------------------------------------
 
+**1539. 三趾滨鹬 *Calidris alba* — 三趾滨鹬**
 
----
+**记录状态：** 确认
 
-#### 1513. 红脚鹬 *Tringa totanus* — 红脚鹬
+[附照片的公民科学记录](https://ebird.org/checklist/S275912947)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**1540. 黑腹滨鹬 *Calidris alpina* — 黑腹滨鹬**
 
+**记录状态：** 确认
 
-**References:**
+[附照片的公民科学记录](https://ebird.org/checklist/S275912947)
 
+------------------------------------------------------------------------
 
----
+**1547. 小滨鹬 *Calidris minuta* — 小滨鹬**
 
-#### 1517. 鹤鹬 *Tringa erythropus* — 鹤鹬
+**记录状态：** 确认
 
-**Status:** Not assessed
+[附照片的公民科学记录](https://ebird.org/checklist/S379232285)
 
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 1518. 青脚鹬 *Tringa nebularia* — 青脚鹬
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 1525. 翻石鹬 *Arenaria interpres* — 翻石鹬
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 1529. 流苏鹬 *Calidris pugnax* — 流苏鹬
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 1530. 尖尾滨鹬 *Calidris acuminata* — 尖尾滨鹬
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 1532. 弯嘴滨鹬 *Calidris ferruginea* — 弯嘴滨鹬
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 1535. 红颈滨鹬 *Calidris ruficollis* — 红颈滨鹬
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 1536. 青脚滨鹬 *Calidris temminckii* — 青脚滨鹬
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 1537. 长趾滨鹬 *Calidris subminuta* — 长趾滨鹬
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 1539. 三趾滨鹬 *Calidris alba* — 三趾滨鹬
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 1540. 黑腹滨鹬 *Calidris alpina* — 黑腹滨鹬
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 1547. 小滨鹬 *Calidris minuta* — 小滨鹬
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ### Turnicidae
 
-#### 1553. 棕三趾鹑 *Turnix suscitator* — 棕三趾鹑
+**1553. 棕三趾鹑 *Turnix suscitator* — 棕三趾鹑**
 
-**Status:** Not assessed
+**记录状态：** 可能
 
-**Evidence:**
+关翔宇（2025，个人通信）2024年4月在墨脱县听到1只，但没有录音
 
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ### Glareolidae
 
-#### 1581. 灰燕鸻 *Glareola lactea* — 灰燕鸻
+**1581. 灰燕鸻 *Glareola lactea* — 灰燕鸻**
 
-**Status:** Not assessed
+**记录状态：** 未评估
 
-**Evidence:**
+**证据说明：**
 
+------------------------------------------------------------------------
 
-**References:**
+**1583. 普通燕鸻 *Glareola maldivarum* — 普通燕鸻**
 
+**记录状态：** 未评估
 
----
+**证据说明：**
 
-#### 1583. 普通燕鸻 *Glareola maldivarum* — 普通燕鸻
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ### Stercorariidae
 
-#### 1586. 短尾贼鸥 *Stercorarius parasiticus* — 短尾贼鸥
+**1586. 短尾贼鸥 *Stercorarius parasiticus* — 短尾贼鸥**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+附照片的论文（杨永炳等，2025）
 
+------------------------------------------------------------------------
 
-**References:**
+**1587. 长尾贼鸥 *Stercorarius longicaudus* — 长尾贼鸥**
 
+**记录状态：** 确认
 
----
+附照片的论文（宋刚等，2026）
 
-#### 1587. 长尾贼鸥 *Stercorarius longicaudus* — 长尾贼鸥
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ### Laridae
 
-#### 1635. 白额燕鸥 *Sternula albifrons* — 白额燕鸥
+**1635. 白额燕鸥 *Sternula albifrons* — 白额燕鸥**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S280458226)
 
+------------------------------------------------------------------------
 
-**References:**
+**1645. 须浮鸥 *Chlidonias hybrida* — 灰翅浮鸥**
 
+**记录状态：** 未评估
 
----
+**证据说明：**
 
-#### 1645. 须浮鸥 *Chlidonias hybrida* — 灰翅浮鸥
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**1647. 白翅浮鸥 *Chlidonias leucopterus* — 白翅浮鸥**
 
-**Evidence:**
+**记录状态：** 未评估
 
+**证据说明：**
 
-**References:**
+------------------------------------------------------------------------
 
+**1648. 黑浮鸥 *Chlidonias niger* — 黑浮鸥**
 
----
+**记录状态：** 确认
 
-#### 1647. 白翅浮鸥 *Chlidonias leucopterus* — 白翅浮鸥
+[附照片的公民科学记录](https://ebird.org/checklist/S368453455)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**1656. 黄嘴河燕鸥 *Sterna aurantia* — 河燕鸥**
 
+**记录状态：** 未评估
 
-**References:**
+**证据说明：**
 
+------------------------------------------------------------------------
 
----
+**1663. 普通燕鸥 *Sterna hirundo* — 普通燕鸥**
 
-#### 1648. 黑浮鸥 *Chlidonias niger* — 黑浮鸥
+**记录状态：** 确认
 
-**Status:** Not assessed
+[附照片的公民科学记录](https://ebird.org/checklist/S255773769)
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**1670. 小鸥 *Hydrocoloeus minutus* — 小鸥**
 
-**References:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S201546542)
 
----
+------------------------------------------------------------------------
 
-#### 1656. 黄嘴河燕鸥 *Sterna aurantia* — 河燕鸥
+**1677. 细嘴鸥 *Chroicocephalus genei* — 细嘴鸥**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://www.birdreport.cn/home/record/page.html?param=eyJhY3Rpdml0eUlkIjoxMjk4NjA5LCJ0cyI6MTc4NzIwNTUxODQxNSwicmVwb3J0SWQiOiJiMjBhZmE2NC03YjEwLTRkNWUtOTdjZS1lMzJlOTQ1NTg5YTAifQ==&sign=d41d8cd98f00b204e9800998ecf8427e)
 
+------------------------------------------------------------------------
 
-**References:**
+**1679. 红嘴鸥 *Chroicocephalus ridibundus* — 红嘴鸥**
 
+**记录状态：** 未评估
 
----
+**证据说明：**
 
-#### 1663. 普通燕鸥 *Sterna hirundo* — 普通燕鸥
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**1680. 棕头鸥 *Chroicocephalus brunnicephalus* — 棕头鸥**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S85681255)
 
-**References:**
+------------------------------------------------------------------------
 
+**1692. 渔鸥 *Ichthyaetus ichthyaetus* — 渔鸥**
 
----
+**记录状态：** 确认
 
-#### 1670. 小鸥 *Hydrocoloeus minutus* — 小鸥
+[附照片的公民科学记录](https://ebird.org/checklist/S85681255)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**1705. 普通海鸥 *Larus canus* — 普通海鸥**
 
+**记录状态：** 确认
 
-**References:**
+[附照片的公民科学记录](https://www.birdreport.cn/home/record/page.html?param=eyJhY3Rpdml0eUlkIjoxMDk4ODM0LCJ0cyI6MTc4NzIwNTY0NjI1MCwicmVwb3J0SWQiOiJhYWU2M2Q1Yi1lNjIwLTQzYzItYWQ5ZS0wNGNjZGI2MTM0MDIifQ==&sign=d41d8cd98f00b204e9800998ecf8427e)
 
+------------------------------------------------------------------------
 
----
+**1712. 蒙古银鸥 *Larus mongolicus* — 西伯利亚银鸥**
 
-#### 1677. 细嘴鸥 *Chroicocephalus genei* — 细嘴鸥
+**记录状态：** 确认
 
-**Status:** Not assessed
+[附照片的公民科学记录](https://www.birdreport.cn/home/record/page.html?param=eyJhY3Rpdml0eUlkIjoxMjYxMzE4LCJ0cyI6MTc4NzIwNTY4MTA5OCwicmVwb3J0SWQiOiJiM2M4MDgwYi1mMmE1LTQyMWEtYWVjNi0zY2JhNDcyMGE3NzcifQ==&sign=d41d8cd98f00b204e9800998ecf8427e)
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**1717. 北极鸥 *Larus hyperboreus* — 北极鸥**
 
-**References:**
+**记录状态：** 确认
 
+附照片的论文（吴建普等，2015）
 
----
+------------------------------------------------------------------------
 
-#### 1679. 红嘴鸥 *Chroicocephalus ridibundus* — 红嘴鸥
+**1718. 小黑背鸥 *Larus fuscus* — 小黑背银鸥**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+杨乐等（2018）报告了本种，但照片背部颜色不太明显，后来有[附照片的公民科学记录](https://ebird.org/checklist/S199589185)
 
-
-**References:**
-
-
----
-
-#### 1680. 棕头鸥 *Chroicocephalus brunnicephalus* — 棕头鸥
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 1692. 渔鸥 *Ichthyaetus ichthyaetus* — 渔鸥
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 1705. 普通海鸥 *Larus canus* — 普通海鸥
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 1712. 蒙古银鸥 *Larus mongolicus* — 西伯利亚银鸥
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 1717. 北极鸥 *Larus hyperboreus* — 北极鸥
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 1718. 小黑背鸥 *Larus fuscus* — 小黑背银鸥
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ## Ciconiiformes
 
 ### Ciconiidae
 
-#### 1906. 彩鹳 *Mycteria leucocephala* — 彩鹳
+**1906. 彩鹳 *Mycteria leucocephala* — 彩鹳**
 
-**Status:** Not assessed
+**记录状态：** 未评估
 
-**Evidence:**
+**证据说明：**
 
+------------------------------------------------------------------------
 
-**References:**
+**1910. 黑鹳 *Ciconia nigra* — 黑鹳**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://ebird.org/checklist/S70622744)
 
-#### 1910. 黑鹳 *Ciconia nigra* — 黑鹳
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ## Suliformes
 
 ### Anhingidae
 
-#### 1936. 黑腹蛇鹈 *Anhinga melanogaster* — 黑腹蛇鹈
+**1936. 黑腹蛇鹈 *Anhinga melanogaster* — 黑腹蛇鹈**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://www.birdreport.cn/home/record/page.html?param=eyJhY3Rpdml0eUlkIjoyMDA2MjcxLCJ0cyI6MTc4NzIwNTk2NzYwMywicmVwb3J0SWQiOiI4NzRjMjA5Ni1lM2UzLTQxM2MtOWEyYS02NDY4ZDNkMDM4NjYifQ==&sign=d41d8cd98f00b204e9800998ecf8427e)
 
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ### Phalacrocoracidae
 
-#### 1964. 普通鸬鹚 *Phalacrocorax carbo* — 普通鸬鹚
+**1964. 普通鸬鹚 *Phalacrocorax carbo* — 普通鸬鹚**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S275923890)
 
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ## Pelecaniformes
 
 ### Threskiornithidae
 
-#### 1981. 彩鹮 *Plegadis falcinellus* — 彩鹮
+**1981. 彩鹮 *Plegadis falcinellus* — 彩鹮**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+附照片的论文（杨乐等，2019）
 
+------------------------------------------------------------------------
 
-**References:**
+**1999. 白琵鹭 *Platalea leucorodia* — 白琵鹭**
 
+**记录状态：** 未评估
 
----
+**证据说明：**
 
-#### 1999. 白琵鹭 *Platalea leucorodia* — 白琵鹭
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ### Pelecanidae
 
-#### 2013. 白鹈鹕 *Pelecanus onocrotalus* — 白鹈鹕
+**2013. 白鹈鹕 *Pelecanus onocrotalus* — 白鹈鹕**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+附照片的论文（王毅花和张国钢，2026）
 
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ### Ardeidae
 
-#### 2032. 栗苇鳽 *Botaurus cinnamomeus* — 栗苇鳽
+**2032. 栗苇鳽 *Botaurus cinnamomeus* — 栗苇鳽**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+附照片的论文（刘锋等，2020）
 
+------------------------------------------------------------------------
 
-**References:**
+**2033. 紫背苇鳽 *Botaurus eurhythmus* — 紫背苇鳽**
 
+**记录状态：** 未评估
 
----
+**证据说明：**
 
-#### 2033. 紫背苇鳽 *Botaurus eurhythmus* — 紫背苇鳽
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**2036. 黄苇鳽 *Botaurus sinensis* — 黄苇鳽**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S219570353)
 
-**References:**
+------------------------------------------------------------------------
 
+**2056. 白鹭 *Egretta garzetta* — 白鹭**
 
----
+**记录状态：** 确认
 
-#### 2036. 黄苇鳽 *Botaurus sinensis* — 黄苇鳽
+赵冬冬等（2015）报告了本种，但没有提供照片；后来有[附照片的公民科学记录](https://ebird.org/checklist/S80014675)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**2059. 夜鹭 *Nycticorax nycticorax* — 夜鹭**
 
+**记录状态：** 确认
 
-**References:**
+张国钢等（2014）报告了本种，但没有提供照片；后来有[附照片的公民科学记录](https://ebird.org/checklist/S49386648)
 
+------------------------------------------------------------------------
 
----
+**2065. 绿鹭 *Butorides atricapilla* — 绿鹭**
 
-#### 2056. 白鹭 *Egretta garzetta* — 白鹭
+**记录状态：** 确认
 
-**Status:** Not assessed
+[附照片的公民科学记录](https://ebird.org/checklist/S340762570)
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**2070. 印度池鹭 *Ardeola grayii* — 印度池鹭**
 
-**References:**
+**记录状态：** 确认
 
+附照片的论文（益西多吉，2019）；中国科学院青藏高原综合科学考察队（1983）报告的池鹭实为本种
 
----
+------------------------------------------------------------------------
 
-#### 2059. 夜鹭 *Nycticorax nycticorax* — 夜鹭
+**2071. 池鹭 *Ardeola bacchus* — 池鹭**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S331612500)
 
+------------------------------------------------------------------------
 
-**References:**
+**2077. 大白鹭 *Ardea alba* — 大白鹭**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://ebird.org/checklist/S80212196)
 
-#### 2065. 绿鹭 *Butorides atricapilla* — 绿鹭
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**2079. 中白鹭 *Ardea intermedia* — 中白鹭**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S196814153)
 
-**References:**
+------------------------------------------------------------------------
 
+**2082. 牛背鹭 *Ardea coromanda* — 牛背鹭**
 
----
+**记录状态：** 确认
 
-#### 2070. 印度池鹭 *Ardeola grayii* — 印度池鹭
+[附照片的公民科学记录](https://ebird.org/checklist/S230305784)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**2085. 白腹鹭 *Ardea insignis* — 白腹鹭**
 
+**记录状态：** 未评估
 
-**References:**
+**证据说明：**
 
+------------------------------------------------------------------------
 
----
+**2086. 草鹭 *Ardea purpurea* — 草鹭**
 
-#### 2071. 池鹭 *Ardeola bacchus* — 池鹭
+**记录状态：** 确认
 
-**Status:** Not assessed
+附照片的论文（索朗卓嘎等，2025）
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**2089. 苍鹭 *Ardea cinerea* — 苍鹭**
 
-**References:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://www.birdreport.cn/home/record/page.html?param=eyJhY3Rpdml0eUlkIjoxNTMyMTc4LCJ0cyI6MTc4NzIwODExOTEwNywicmVwb3J0SWQiOiI2MjcyNDU0Zi1iOGY2LTRiOGUtOTc4OC1jZDc3NDEyZmE3YjkifQ==&sign=d41d8cd98f00b204e9800998ecf8427e)
 
----
-
-#### 2077. 大白鹭 *Ardea alba* — 大白鹭
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 2079. 中白鹭 *Ardea intermedia* — 中白鹭
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 2082. 牛背鹭 *Ardea coromanda* — 牛背鹭
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 2085. 白腹鹭 *Ardea insignis* — 白腹鹭
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 2086. 草鹭 *Ardea purpurea* — 草鹭
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 2089. 苍鹭 *Ardea cinerea* — 苍鹭
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ## Caprimulgiformes
 
 ### Caprimulgidae
 
-#### 2155. 普通夜鹰 *Caprimulgus jotaka* — 普通夜鹰
+**2155. 普通夜鹰 *Caprimulgus jotaka* — 普通夜鹰**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附录音的公民科学记录](https://ebird.org/checklist/S324062692)
 
+------------------------------------------------------------------------
 
-**References:**
+**2180. 林夜鹰 *Caprimulgus affinis* — 林夜鹰**
 
+**记录状态：** 未评估
 
----
+**证据说明：**
 
-#### 2180. 林夜鹰 *Caprimulgus affinis* — 林夜鹰
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ## Podargiformes
 
 ### Podargidae
 
-#### 2207. 黑顶蟆口鸱 *Batrachostomus hodgsoni* — 黑顶蛙口夜鹰
+**2207. 黑顶蟆口鸱 *Batrachostomus hodgsoni* — 黑顶蛙口夜鹰**
 
-**Status:** Not assessed
+**记录状态：** 未评估
 
-**Evidence:**
+**证据说明：**
 
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ## Apodiformes
 
 ### Hemiprocnidae
 
-#### 2224. 凤头雨燕 *Hemiprocne coronata* — 凤头雨燕
+**2224. 凤头雨燕 *Hemiprocne coronata* — 凤头雨燕**
 
-**Status:** Not assessed
+**记录状态：** 未评估
 
-**Evidence:**
+**证据说明：**
 
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ### Apodidae
 
-#### 2241. 白喉针尾雨燕 *Hirundapus caudacutus* — 白喉针尾雨燕
+**2241. 白喉针尾雨燕 *Hirundapus caudacutus* — 白喉针尾雨燕**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S328238820)
 
+------------------------------------------------------------------------
 
-**References:**
+**2279. 高山雨燕 *Tachymarptis melba* — 高山雨燕**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://ebird.org/checklist/S268676413)
 
-#### 2279. 高山雨燕 *Tachymarptis melba* — 高山雨燕
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**2282. 白腰雨燕 *Apus pacificus* — 华西白腰雨燕/布氏白腰雨燕（郑世二）**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S350762293)
 
-**References:**
+------------------------------------------------------------------------
 
+**2286. 小白腰雨燕 *Apus nipalensis* — 小白腰雨燕**
 
----
+**记录状态：** 未评估
 
-#### 2282. 白腰雨燕 *Apus pacificus* — 华西白腰雨燕
+**证据说明：**
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**2295. 普通雨燕 *Apus apus* — 普通雨燕**
 
+**记录状态：** 未评估
 
-**References:**
+**证据说明：**
 
+------------------------------------------------------------------------
 
----
+**2317. 短嘴金丝燕 *Aerodramus brevirostris* — 短嘴金丝燕**
 
-#### 2286. 小白腰雨燕 *Apus nipalensis* — 小白腰雨燕
+**记录状态：** 确认
 
-**Status:** Not assessed
+[附照片的公民科学记录](https://ebird.org/checklist/S230269523)
 
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 2295. 普通雨燕 *Apus apus* — 普通雨燕
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 2317. 短嘴金丝燕 *Aerodramus brevirostris* — 短嘴金丝燕
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ## Strigiformes
 
 ### Tytonidae
 
-#### 2697. 栗鸮 *Phodilus badius* — 栗鸮
+**2697. 栗鸮 *Phodilus badius* — 栗鸮**
 
-**Status:** Not assessed
+**记录状态：** 未评估
 
-**Evidence:**
+**证据说明：**
 
+------------------------------------------------------------------------
 
-**References:**
+**2708. 仓鸮 *Tyto javanica* — 仓鸮**
 
+**记录状态：** 确认
 
----
+附照片的论文（刘锋等，2021）
 
-#### 2708. 仓鸮 *Tyto javanica* — 仓鸮
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ### Strigidae
 
-#### 2728. 鹰鸮 *Ninox scutulata* — 鹰鸮
+**2728. 鹰鸮 *Ninox scutulata* — 鹰鸮**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://www.birdreport.cn/home/record/page.html?param=eyJhY3Rpdml0eUlkIjo4MTc0NjAsInRzIjoxNzg3MjA4NTU2NjA0LCJyZXBvcnRJZCI6ImIwOTVlOGE5LTUzNmItNDc0Yy05NGFlLTQ2ZDE1ZjcwYjJmZSJ9&sign=d41d8cd98f00b204e9800998ecf8427e)
 
+------------------------------------------------------------------------
 
-**References:**
+**2752. 领鸺鹠 *Taenioptynx brodiei* — 领鸺鹠**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://ebird.org/checklist/S287154829)
 
-#### 2752. 领鸺鹠 *Taenioptynx brodiei* — 领鸺鹠
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**2764. 纵纹腹小鸮 *Athene noctua* — 纵纹腹小鸮**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S289780984)
 
-**References:**
+------------------------------------------------------------------------
 
+**2765. 横斑腹小鸮 *Athene brama* — 横斑腹小鸮**
 
----
+**记录状态：** 未评估
 
-#### 2764. 纵纹腹小鸮 *Athene noctua* — 纵纹腹小鸮
+**证据说明：**
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**2791. 斑头鸺鹠 *Glaucidium cuculoides* — 斑头鸺鹠**
 
+**记录状态：** 确认
 
-**References:**
+[附照片的公民科学记录](https://ebird.org/checklist/S101826170)
 
+------------------------------------------------------------------------
 
----
+**2804. 黄嘴角鸮 *Otus spilocephalus* — 黄嘴角鸮**
 
-#### 2765. 横斑腹小鸮 *Athene brama* — 横斑腹小鸮
+**记录状态：** 确认
 
-**Status:** Not assessed
+岩道等（2022）报告了本种，但没有提供照片或录音；后来有[附录音的公民科学记录](https://ebird.org/checklist/S218842226)
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**2809. 领角鸮 *Otus lettia* — 领角鸮**
 
-**References:**
+**记录状态：** 确认
 
+[附录音的公民科学记录](https://ebird.org/checklist/S325051218)
 
----
+------------------------------------------------------------------------
 
-#### 2791. 斑头鸺鹠 *Glaucidium cuculoides* — 斑头鸺鹠
+**2812. 北领角鸮 *Otus semitorques* — 北领角鸮**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+曾祥乐（2025，个人通信）2022年1月在墨脱县拍到1只
 
+------------------------------------------------------------------------
 
-**References:**
+**2841. 纵纹角鸮 *Otus brucei* — 纵纹角鸮**
 
+**记录状态：** 未评估
 
----
+**证据说明：**
 
-#### 2804. 黄嘴角鸮 *Otus spilocephalus* — 黄嘴角鸮
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**2859. 短耳鸮 *Asio flammeus* — 短耳鸮**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附照片的社交媒体贴文](https://mp.weixin.qq.com/s/yC2BMQtIQ55i4fHzU84N2A)
 
-**References:**
+------------------------------------------------------------------------
 
+**2865. 长耳鸮 *Asio otus* — 长耳鸮**
 
----
+**记录状态：** 确认
 
-#### 2809. 领角鸮 *Otus lettia* — 领角鸮
+[附照片的公民科学记录](https://ebird.org/checklist/S78647963)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**2872. 雕鸮 *Bubo bubo* — 雕鸮**
 
+**记录状态：** 确认
 
-**References:**
+[附照片的公民科学记录](https://www.inaturalist.org/observations/84026329)
 
+------------------------------------------------------------------------
 
----
+**2889. 林雕鸮 *Ketupa nipalensis* — 林雕鸮**
 
-#### 2812. 北领角鸮 *Otus semitorques* — 北领角鸮
+**记录状态：** 确认
 
-**Status:** Not assessed
+附照片的论文（朱磊等，2022）
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**2926. 褐林鸮 *Strix leptogrammica* — 褐林鸮**
 
-**References:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S287509023)
 
----
+------------------------------------------------------------------------
 
-#### 2841. 纵纹角鸮 *Otus brucei* — 纵纹角鸮
+**2928. 灰林鸮 *Strix nivicolum* — 灰林鸮**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S155155688)
 
+------------------------------------------------------------------------
 
-**References:**
+**2938. 长尾林鸮 *Strix uralensis* — 四川林鸮**
 
+**记录状态：** 未评估
 
----
+**证据说明：**
 
-#### 2859. 短耳鸮 *Asio flammeus* — 短耳鸮
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 2865. 长耳鸮 *Asio otus* — 长耳鸮
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 2872. 雕鸮 *Bubo bubo* — 雕鸮
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 2889. 林雕鸮 *Ketupa nipalensis* — 林雕鸮
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 2926. 褐林鸮 *Strix leptogrammica* — 褐林鸮
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 2928. 灰林鸮 *Strix nivicolum* — 灰林鸮
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 2938. 长尾林鸮 *Strix uralensis* — 四川林鸮
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ## Accipitriformes
 
 ### Pandionidae
 
-#### 2949. 鹗 *Pandion haliaetus* — 鹗
+**2949. 鹗 *Pandion haliaetus* — 鹗**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://www.birdreport.cn/home/record/page.html?param=eyJhY3Rpdml0eUlkIjoxNTg0NTc0LCJ0cyI6MTc4NzIxNTk2NTQ2NCwicmVwb3J0SWQiOiJkNGIwMjFlMy03NzhmLTQ4ZDYtYTdhNS0wNTk3ODA4NjdjNDIifQ==&sign=d41d8cd98f00b204e9800998ecf8427e)
 
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ### Accipitridae
 
-#### 2959. 胡兀鹫 *Gypaetus barbatus* — 胡兀鹫
+**2959. 胡兀鹫 *Gypaetus barbatus* — 胡兀鹫**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S41260449)
 
+------------------------------------------------------------------------
 
-**References:**
+**2968. 褐冠鹃隼 *Aviceda jerdoni* — 褐冠鹃隼**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://www.birdreport.cn/home/record/page.html?param=eyJhY3Rpdml0eUlkIjoxMzQxMzIyLCJ0cyI6MTc4NzIxNjE3NjQ2OSwicmVwb3J0SWQiOiJhZjMwZWNiNS05MmExLTQ4ZGQtYThmMS00N2MyNDkzN2Y1ZTQifQ==&sign=d41d8cd98f00b204e9800998ecf8427e)
 
-#### 2968. 褐冠鹃隼 *Aviceda jerdoni* — 褐冠鹃隼
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**2970. 黑冠鹃隼 *Aviceda leuphotes* — 黑冠鹃隼**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://www.birdreport.cn/home/record/page.html?param=eyJhY3Rpdml0eUlkIjoyMTczMjQ4LCJ0cyI6MTc4NzIxNjE5MDAzOSwicmVwb3J0SWQiOiI2N2MyZTVmZC04YjU3LTQwMzEtYjhhZS04YzEyMWI4ZGY0NzcifQ==&sign=d41d8cd98f00b204e9800998ecf8427e)
 
-**References:**
+------------------------------------------------------------------------
 
+**2972. 凤头蜂鹰 *Pernis ptilorhynchus* — 凤头蜂鹰**
 
----
+**记录状态：** 确认
 
-#### 2970. 黑冠鹃隼 *Aviceda leuphotes* — 黑冠鹃隼
+[附照片的公民科学记录](https://ebird.org/checklist/S197001082)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**2980. 黑兀鹫 *Sarcogyps calvus* — 黑兀鹫**
 
+**记录状态：** 未评估
 
-**References:**
+**证据说明：**
 
+------------------------------------------------------------------------
 
----
+**2982. 秃鹫 *Aegypius monachus* — 秃鹫**
 
-#### 2972. 凤头蜂鹰 *Pernis ptilorhynchus* — 凤头蜂鹰
+**记录状态：** 未评估
 
-**Status:** Not assessed
+**证据说明：**
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**2986. 高山兀鹫 *Gyps himalayensis* — 高山兀鹫**
 
-**References:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S80178629)
 
----
+------------------------------------------------------------------------
 
-#### 2980. 黑兀鹫 *Sarcogyps calvus* — 黑兀鹫
+**2989. 细嘴兀鹫 *Gyps tenuirostris* — 长嘴兀鹫**
 
-**Status:** Not assessed
+**记录状态：** 未评估
 
-**Evidence:**
+**证据说明：**
 
+------------------------------------------------------------------------
 
-**References:**
+**2991. 兀鹫 *Gyps fulvus* — 兀鹫**
 
+**记录状态：** 确认
 
----
+附照片的论文（丁志锋等，2017）
 
-#### 2982. 秃鹫 *Aegypius monachus* — 秃鹫
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**2996. 蛇雕 *Spilornis cheela* — 蛇雕**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S284101116)
 
-**References:**
+------------------------------------------------------------------------
 
+**3011. 鹰雕 *Nisaetus nipalensis* — 鹰雕**
 
----
+**记录状态：** 确认
 
-#### 2986. 高山兀鹫 *Gyps himalayensis* — 高山兀鹫
+[附照片的公民科学记录](https://ebird.org/checklist/S290260083)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**3017. 凤头鹰雕 *Nisaetus cirrhatus* — 凤头鹰雕**
 
+**记录状态：** 存疑
 
-**References:**
+**证据说明：**
 
+------------------------------------------------------------------------
 
----
+**3023. 棕腹隼雕 *Lophotriorchis kienerii* — 棕腹隼雕**
 
-#### 2989. 细嘴兀鹫 *Gyps tenuirostris* — 长嘴兀鹫
+**记录状态：** 确认
 
-**Status:** Not assessed
+附照片的论文（范丽卿等，2019）
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**3026. 林雕 *Ictinaetus malaiensis* — 林雕**
 
-**References:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S290259645)
 
----
+------------------------------------------------------------------------
 
-#### 2991. 兀鹫 *Gyps fulvus* — 兀鹫
+**3028. 乌雕 *Clanga clanga* — 乌雕**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的社交媒体贴文](https://mp.weixin.qq.com/s/wv6l1chghBxGN2xWTz9hgg)
 
+------------------------------------------------------------------------
 
-**References:**
+**3033. 靴隼雕 *Hieraaetus pennatus* — 靴隼雕**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://ebird.org/checklist/S85956644)
 
-#### 2996. 蛇雕 *Spilornis cheela* — 蛇雕
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**3035. 草原雕 *Aquila nipalensis* — 草原雕**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S101623119)
 
-**References:**
+------------------------------------------------------------------------
 
+**3037. 白肩雕 *Aquila heliaca* — 白肩雕**
 
----
+**记录状态：** 确认
 
-#### 3011. 鹰雕 *Nisaetus nipalensis* — 鹰雕
+此前一条[公民科学记录](https://ebird.org/checklist/S312566105)中本来有图，确为本种，但目前图片已被删去了，原因不明
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**3042. 金雕 *Aquila chrysaetos* — 金雕**
 
+**记录状态：** 确认
 
-**References:**
+[附照片的公民科学记录](https://ebird.org/checklist/S101623119)
 
+------------------------------------------------------------------------
 
----
+**3045. 白腹隼雕 *Aquila fasciata* — 白腹隼雕**
 
-#### 3017. 凤头鹰雕 *Nisaetus cirrhatus* — 凤头鹰雕
+**记录状态：** 确认
 
-**Status:** Not assessed
+关翔宇等（2026，个人通信）
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**3051. 凤头鹰 *Lophospiza trivirgata* — 凤头鹰**
 
-**References:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S101935612)
 
----
+------------------------------------------------------------------------
 
-#### 3023. 棕腹隼雕 *Lophotriorchis kienerii* — 棕腹隼雕
+**3062. 松雀鹰 *Tachyspiza virgata* — 松雀鹰**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S197429213)
 
+------------------------------------------------------------------------
 
-**References:**
+**3068. 日本松雀鹰 *Tachyspiza gularis* — 日本松雀鹰**
 
+**记录状态：** 存疑
 
----
+任宁等（2025）报告了本种，但照片中个体胸部有明显纵纹，且腹部纹路较淡，符合成年雄鸟特征，但其虹膜黄色，存在矛盾，因此暂时认定其可靠性不足
 
-#### 3026. 林雕 *Ictinaetus malaiensis* — 林雕
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**3069. 褐耳鹰 *Tachyspiza badia* — 褐耳鹰**
 
-**Evidence:**
+**记录状态：** 未评估
 
+**证据说明：**
 
-**References:**
+------------------------------------------------------------------------
 
+**3094. 雀鹰 *Accipiter nisus* — 雀鹰**
 
----
+**记录状态：** 确认
 
-#### 3028. 乌雕 *Clanga clanga* — 乌雕
+[附照片的公民科学记录](https://ebird.org/checklist/S197438419)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**3101. 苍鹰 *Astur gentilis* — 苍鹰**
 
+**记录状态：** 确认
 
-**References:**
+[附照片的公民科学记录](https://ebird.org/checklist/S316660027)
 
+------------------------------------------------------------------------
 
----
+**3106. 草原鹞 *Circus macrourus* — 草原鹞**
 
-#### 3033. 靴隼雕 *Hieraaetus pennatus* — 靴隼雕
+**记录状态：** 未评估
 
-**Status:** Not assessed
+**证据说明：**
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**3108. 白尾鹞 *Circus cyaneus* — 白尾鹞**
 
-**References:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S99028810)
 
----
+------------------------------------------------------------------------
 
-#### 3035. 草原雕 *Aquila nipalensis* — 草原雕
+**3115. 白头鹞 *Circus aeruginosus* — 白头鹞**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S80014675)
 
+------------------------------------------------------------------------
 
-**References:**
+**3119. 白腹鹞 *Circus spilonotus* — 白腹鹞**
 
+**记录状态：** 可能
 
----
+师旭（2025，个人通信）2025年4月在墨脱县看到1只幼鸟，但没有照片
 
-#### 3037. 白肩雕 *Aquila heliaca* — 白肩雕
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**3126. 栗鸢 *Haliastur indus* — 栗鸢**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://www.birdreport.cn/home/record/page.html?param=eyJhY3Rpdml0eUlkIjoxMDg3NTg4LCJ0cyI6MTc4NzIxNjg5ODMzOCwicmVwb3J0SWQiOiIxYTAzMzhlMy00YzdlLTQ4OWEtOWRmZC03ZTBlMmNmYzczYTIifQ==&sign=d41d8cd98f00b204e9800998ecf8427e)
 
-**References:**
+------------------------------------------------------------------------
 
+**3128. 黑鸢 *Milvus migrans* — 黑鸢**
 
----
+**记录状态：** 确认
 
-#### 3042. 金雕 *Aquila chrysaetos* — 金雕
+[附照片的公民科学记录](https://ebird.org/checklist/S312371289)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**3129. 玉带海雕 *Haliaeetus leucoryphus* — 玉带海雕**
 
+**记录状态：** 确认
 
-**References:**
+[附照片的公民科学记录](https://www.birdreport.cn/home/record/page.html?param=eyJhY3Rpdml0eUlkIjoxNTE4MDc3LCJ0cyI6MTc4NzIxNjk1MjcxNCwicmVwb3J0SWQiOiIzZDU3NDdhZS01Yzg2LTRhNjgtYjI1Ny1mMTJiOWYyMjEyNjcifQ==&sign=d41d8cd98f00b204e9800998ecf8427e)
 
+------------------------------------------------------------------------
 
----
+**3131. 白尾海雕 *Haliaeetus albicilla* — 白尾海雕**
 
-#### 3045. 白腹隼雕 *Aquila fasciata* — 白腹隼雕
+**记录状态：** 确认
 
-**Status:** Not assessed
+[附照片的公民科学记录](https://ebird.org/checklist/S78905913)
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**3142. 白眼鵟鹰 *Butastur teesa* — 白眼鵟鹰**
 
-**References:**
+**记录状态：** 未评估
 
+**证据说明：**
 
----
+------------------------------------------------------------------------
 
-#### 3051. 凤头鹰 *Lophospiza trivirgata* — 凤头鹰
+**3196. 大鵟 *Buteo hemilasius* — 大鵟**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S230357989)
 
+------------------------------------------------------------------------
 
-**References:**
+**3197. 棕尾鵟 *Buteo rufinus* — 棕尾鵟**
 
+**记录状态：** 未评估
 
----
+**证据说明：**
 
-#### 3062. 松雀鹰 *Tachyspiza virgata* — 松雀鹰
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**3198. 喜山鵟 *Buteo refectus* — 喜山鵟**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附照片的社交媒体贴文](https://mp.weixin.qq.com/s/wv6l1chghBxGN2xWTz9hgg)，其中也提供了一些关于墨脱地区小型鵟的讨论
 
-**References:**
+------------------------------------------------------------------------
 
+**3199. 普通鵟 *Buteo japonicus* — 普通鵟**
 
----
+**记录状态：** 确认
 
-#### 3068. 日本松雀鹰 *Tachyspiza gularis* — 日本松雀鹰
+[附照片的公民科学记录](https://ebird.org/checklist/S211088885)
 
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 3069. 褐耳鹰 *Tachyspiza badia* — 褐耳鹰
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 3094. 雀鹰 *Accipiter nisus* — 雀鹰
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 3101. 苍鹰 *Astur gentilis* — 苍鹰
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 3106. 草原鹞 *Circus macrourus* — 草原鹞
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 3108. 白尾鹞 *Circus cyaneus* — 白尾鹞
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 3115. 白头鹞 *Circus aeruginosus* — 白头鹞
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 3119. 白腹鹞 *Circus spilonotus* — 白腹鹞
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 3126. 栗鸢 *Haliastur indus* — 栗鸢
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 3128. 黑鸢 *Milvus migrans* — 黑鸢
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 3129. 玉带海雕 *Haliaeetus leucoryphus* — 玉带海雕
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 3131. 白尾海雕 *Haliaeetus albicilla* — 白尾海雕
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 3142. 白眼鵟鹰 *Butastur teesa* — 白眼鵟鹰
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 3196. 大鵟 *Buteo hemilasius* — 大鵟
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 3197. 棕尾鵟 *Buteo rufinus* — 棕尾鵟
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 3198. 喜山鵟 *Buteo refectus* — 喜山鵟
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 3199. 普通鵟 *Buteo japonicus* — 普通鵟
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ## Trogoniformes
 
 ### Trogonidae
 
-#### 3220. 红头咬鹃 *Harpactes erythrocephalus* — 红头咬鹃
+**3220. 红头咬鹃 *Harpactes erythrocephalus* — 红头咬鹃**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S290260283)
 
+------------------------------------------------------------------------
 
-**References:**
+**3221. 红腹咬鹃 *Harpactes wardi* — 红腹咬鹃**
 
+**记录状态：** 确认
 
----
+附照片的论文（王宁等，2020）
 
-#### 3221. 红腹咬鹃 *Harpactes wardi* — 红腹咬鹃
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ## Bucerotiformes
 
 ### Upupidae
 
-#### 3254. 戴胜 *Upupa epops* — 戴胜
+**3254. 戴胜 *Upupa epops* — 戴胜**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S352734553)
 
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ### Bucerotidae
 
-#### 3301. 双角犀鸟 *Buceros bicornis* — 双角犀鸟
+**3301. 双角犀鸟 *Buceros bicornis* — 双角犀鸟**
 
-**Status:** Not assessed
+**记录状态：** 未评估
 
-**Evidence:**
+**证据说明：**
 
+------------------------------------------------------------------------
 
-**References:**
+**3303. 白喉犀鸟 *Anorrhinus austeni* — 白喉犀鸟**
 
+**记录状态：** 未评估
 
----
+**证据说明：**
 
-#### 3303. 白喉犀鸟 *Anorrhinus austeni* — 白喉犀鸟
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**3311. 冠斑犀鸟 *Anthracoceros albirostris* — 冠斑犀鸟**
 
-**Evidence:**
+**记录状态：** 未评估
 
+**证据说明：**
 
-**References:**
+------------------------------------------------------------------------
 
+**3313. 棕颈犀鸟 *Aceros nipalensis* — 棕颈犀鸟**
 
----
+**记录状态：** 确认
 
-#### 3311. 冠斑犀鸟 *Anthracoceros albirostris* — 冠斑犀鸟
+[附照片的公民科学记录](https://ebird.org/checklist/S290246895)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**3316. 花冠皱盔犀鸟 *Rhyticeros undulatus* — 花冠皱盔犀鸟**
 
+**记录状态：** 未评估
 
-**References:**
+**证据说明：**
 
-
----
-
-#### 3313. 棕颈犀鸟 *Aceros nipalensis* — 棕颈犀鸟
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 3316. 花冠皱盔犀鸟 *Rhyticeros undulatus* — 花冠皱盔犀鸟
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ## Coraciiformes
 
 ### Coraciidae
 
-#### 3337. 三宝鸟 *Eurystomus orientalis* — 三宝鸟
+**3337. 三宝鸟 *Eurystomus orientalis* — 三宝鸟**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://www.birdreport.cn/home/habitat/page.html?taxon_id=4572&taxon_name=%E4%B8%89%E5%AE%9D%E9%B8%9F)
 
+------------------------------------------------------------------------
 
-**References:**
+**3343. 棕胸佛法僧 *Coracias affinis* — 棕胸佛法僧**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://www.birdreport.cn/home/record/page.html?param=eyJhY3Rpdml0eUlkIjo5NTQxNDgsInRzIjoxNzg3MjE3MzY0NzY1LCJyZXBvcnRJZCI6ImVjZDg4ODJhLTQ3MDUtNGU3Ni05MDYyLWI2MDE2NmY0Mzg0MyJ9&sign=d41d8cd98f00b204e9800998ecf8427e)
 
-#### 3343. 棕胸佛法僧 *Coracias affinis* — 棕胸佛法僧
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**3346. 蓝胸佛法僧 *Coracias garrulus* — 蓝胸佛法僧**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://www.birdreport.cn/home/record/page.html?param=eyJhY3Rpdml0eUlkIjoxNTMxNzcwLCJ0cyI6MTc4NzIxNzM0MTAyOCwicmVwb3J0SWQiOiIyZTM2OGUxNi0yYjdkLTRhNjItODJjMS03YTliZDJkOWQyMWQifQ==&sign=d41d8cd98f00b204e9800998ecf8427e)
 
-**References:**
-
-
----
-
-#### 3346. 蓝胸佛法僧 *Coracias garrulus* — 蓝胸佛法僧
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ### Meropidae
 
-#### 3348. 蓝须夜蜂虎 *Nyctyornis athertoni* — 蓝须夜蜂虎
+**3348. 蓝须夜蜂虎 *Nyctyornis athertoni* — 蓝须夜蜂虎**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+王一骁（2025，个人通信）2025年8月在墨脱县拍到1只
 
+------------------------------------------------------------------------
 
-**References:**
+**3375. 栗喉蜂虎 *Merops philippinus* — 栗喉蜂虎**
 
+**记录状态：** 未评估
 
----
+**证据说明：**
 
-#### 3375. 栗喉蜂虎 *Merops philippinus* — 栗喉蜂虎
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ### Alcedinidae
 
-#### 3410. 普通翠鸟 *Alcedo atthis* — 普通翠鸟
+**3410. 普通翠鸟 *Alcedo atthis* — 普通翠鸟**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S328238820)
 
+------------------------------------------------------------------------
 
-**References:**
+**3417. 三趾翠鸟 *Ceyx erithaca* — 三趾翠鸟**
 
+**记录状态：** 确认
 
----
+李成（2025，个人通信）转发2025年6月在墨脱县有1只鸟撞个体
 
-#### 3417. 三趾翠鸟 *Ceyx erithaca* — 三趾翠鸟
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**3437. 冠鱼狗 *Megaceryle lugubris* — 冠鱼狗**
 
-**Evidence:**
+**记录状态：** 确认
 
+附照片的论文（阙品甲等，2019）
 
-**References:**
+------------------------------------------------------------------------
 
+**3455. 蓝翡翠 *Halcyon pileata* — 蓝翡翠**
 
----
+**记录状态：** 确认
 
-#### 3437. 冠鱼狗 *Megaceryle lugubris* — 冠鱼狗
+附照片的论文（杨乐等，2018）
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**3458. 白胸翡翠 *Halcyon smyrnensis* — 白胸翡翠**
 
+**记录状态：** 确认
 
-**References:**
+附照片的论文（梁丹等，2014；阙品甲等，2017）
 
-
----
-
-#### 3455. 蓝翡翠 *Halcyon pileata* — 蓝翡翠
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 3458. 白胸翡翠 *Halcyon smyrnensis* — 白胸翡翠
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ## Piciformes
 
 ### Megalaimidae
 
-#### 3579. 大拟啄木鸟 *Psilopogon virens* — 大拟啄木鸟
+**3579. 大拟啄木鸟 *Psilopogon virens* — 大拟啄木鸟**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S290259902)
 
+------------------------------------------------------------------------
 
-**References:**
+**3592. 金喉拟啄木鸟 *Psilopogon franklinii* — 金喉拟啄木鸟**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://ebird.org/checklist/S291119028)
 
-#### 3592. 金喉拟啄木鸟 *Psilopogon franklinii* — 金喉拟啄木鸟
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ### Indicatoridae
 
-#### 3714. 黄腰响蜜䴕 *Indicator xanthonotus* — 黄腰响蜜䴕
+**3714. 黄腰响蜜䴕 *Indicator xanthonotus* — 黄腰响蜜䴕**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S99439145)
 
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ### Picidae
 
-#### 3718. 蚁䴕 *Jynx torquilla* — 蚁䴕
+**3718. 蚁䴕 *Jynx torquilla* — 蚁䴕**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S322898927)
 
+------------------------------------------------------------------------
 
-**References:**
+**3719. 斑姬啄木鸟 *Picumnus innominatus* — 斑姬啄木鸟**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://ebird.org/checklist/S101935612)
 
-#### 3719. 斑姬啄木鸟 *Picumnus innominatus* — 斑姬啄木鸟
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**3746. 白眉棕啄木鸟 *Sasia ochracea* — 白眉棕啄木鸟**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S228782649)
 
-**References:**
+------------------------------------------------------------------------
 
+**3750. 栗啄木鸟 *Micropternus brachyurus* — 栗啄木鸟**
 
----
+**记录状态：** 确认
 
-#### 3746. 白眉棕啄木鸟 *Sasia ochracea* — 白眉棕啄木鸟
+[附照片的公民科学记录](https://ebird.org/checklist/S334334999)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**3755. 竹啄木鸟 *Gecinulus grantia* — 竹啄木鸟**
 
+**记录状态：** 确认
 
-**References:**
+[附照片的公民科学记录](https://ebird.org/checklist/S354335477)
 
+------------------------------------------------------------------------
 
----
+**3758. 喜山金背啄木鸟 *Dinopium shorii* — 喜山金背啄木鸟**
 
-#### 3750. 栗啄木鸟 *Micropternus brachyurus* — 栗啄木鸟
+**记录状态：** 未评估
 
-**Status:** Not assessed
+**证据说明：**
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**3759. 金背三趾啄木鸟 *Dinopium javanense* — 金背啄木鸟**
 
-**References:**
+**记录状态：** 未评估
 
+**证据说明：**
 
----
+------------------------------------------------------------------------
 
-#### 3755. 竹啄木鸟 *Gecinulus grantia* — 竹啄木鸟
+**3761. 小金背啄木鸟 *Dinopium benghalense* — 小金背啄木鸟**
 
-**Status:** Not assessed
+**记录状态：** 未评估
 
-**Evidence:**
+**证据说明：**
 
+------------------------------------------------------------------------
 
-**References:**
+**3764. 黄冠啄木鸟 *Picus chlorolophus* — 黄冠啄木鸟**
 
+**记录状态：** 确认
 
----
+附图的论文（阙品甲等，2019）
 
-#### 3758. 喜山金背啄木鸟 *Dinopium shorii* — 喜山金背啄木鸟
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**3765. 鳞腹绿啄木鸟 *Picus squamatus* — 鳞腹绿啄木鸟**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S154125019)
 
-**References:**
+------------------------------------------------------------------------
 
+**3771. 灰头绿啄木鸟 *Picus canus* — 灰头绿啄木鸟**
 
----
+**记录状态：** 确认
 
-#### 3759. 金背三趾啄木鸟 *Dinopium javanense* — 金背啄木鸟
+[附照片的公民科学记录](https://ebird.org/checklist/S19395659)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**3777. 大黄冠啄木鸟 *Chrysophlegma flavinucha* — 大黄冠啄木鸟**
 
+**记录状态：** 确认
 
-**References:**
+[附照片的公民科学记录](https://ebird.org/checklist/S326263697)
 
+------------------------------------------------------------------------
 
----
+**3795. 大灰啄木鸟 *Mulleripicus pulverulentus* — 大灰啄木鸟**
 
-#### 3761. 小金背啄木鸟 *Dinopium benghalense* — 小金背啄木鸟
+**记录状态：** 未评估
 
-**Status:** Not assessed
+**证据说明：**
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**3799. 黑啄木鸟 *Dryocopus martius* — 黑啄木鸟**
 
-**References:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S269800477)
 
----
+------------------------------------------------------------------------
 
-#### 3764. 黄冠啄木鸟 *Picus chlorolophus* — 黄冠啄木鸟
+**3801. 白腹黑啄木鸟 *Dryocopus javensis* — 白腹黑啄木鸟**
 
-**Status:** Not assessed
+**记录状态：** 未评估
 
-**Evidence:**
+**证据说明：**
 
+------------------------------------------------------------------------
 
-**References:**
+**3848. 黄嘴栗啄木鸟 *Blythipicus pyrrhotis* — 黄嘴栗啄木鸟**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://ebird.org/checklist/S227684638)
 
-#### 3765. 鳞腹绿啄木鸟 *Picus squamatus* — 鳞腹绿啄木鸟
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**3850. 大金背啄木鸟 *Chrysocolaptes guttacristatus* — 大金背啄木鸟**
 
-**Evidence:**
+**记录状态：** 未评估
 
+**证据说明：**
 
-**References:**
+------------------------------------------------------------------------
 
+**3889. 三趾啄木鸟 *Picoides tridactylus* — 三趾啄木鸟**
 
----
+**记录状态：** 确认
 
-#### 3771. 灰头绿啄木鸟 *Picus canus* — 灰头绿啄木鸟
+[附照片的公民科学记录](https://www.birdreport.cn/home/record/page.html?param=eyJhY3Rpdml0eUlkIjo4OTI0OTcsInRzIjoxNzg3MjE4MTA4MTUzLCJyZXBvcnRJZCI6IjA5YmUwNmJkLWQ3YTEtNDg3OS04MWU3LWMwY2FhOGE3YzU0NiJ9&sign=d41d8cd98f00b204e9800998ecf8427e)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**3899. 褐额啄木鸟 *Dendrocoptes auriceps* — 褐额啄木鸟**
 
+**记录状态：** 确认
 
-**References:**
+[附照片的公民科学记录](https://ebird.org/checklist/S246919490)
 
+------------------------------------------------------------------------
 
----
+**3916. 棕腹啄木鸟 *Dendrocopos hyperythrus* — 棕腹啄木鸟**
 
-#### 3777. 大黄冠啄木鸟 *Chrysophlegma flavinucha* — 大黄冠啄木鸟
+**记录状态：** 确认
 
-**Status:** Not assessed
+[附照片的公民科学记录](https://ebird.org/checklist/S78814689)
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**3918. 茶胸斑啄木鸟 *Dendrocopos macei* — 纹腹啄木鸟**
 
-**References:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S228112079)
 
----
+------------------------------------------------------------------------
 
-#### 3795. 大灰啄木鸟 *Mulleripicus pulverulentus* — 大灰啄木鸟
+**3922. 黄颈啄木鸟 *Dendrocopos darjellensis* — 黄颈啄木鸟**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S99677443)
 
+------------------------------------------------------------------------
 
-**References:**
+**3924. 大斑啄木鸟 *Dendrocopos major* — 大斑啄木鸟**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://ebird.org/checklist/S251039678)
 
-#### 3799. 黑啄木鸟 *Dryocopus martius* — 黑啄木鸟
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**3929. 红枕啄木鸟 *Dryobates cathpharius* — 赤胸啄木鸟**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S95188878)
 
-**References:**
-
-
----
-
-#### 3801. 白腹黑啄木鸟 *Dryocopus javensis* — 白腹黑啄木鸟
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 3848. 黄嘴栗啄木鸟 *Blythipicus pyrrhotis* — 黄嘴栗啄木鸟
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 3850. 大金背啄木鸟 *Chrysocolaptes guttacristatus* — 大金背啄木鸟
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 3889. 三趾啄木鸟 *Picoides tridactylus* — 三趾啄木鸟
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 3899. 褐额啄木鸟 *Dendrocoptes auriceps* — 褐额啄木鸟
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 3916. 棕腹啄木鸟 *Dendrocopos hyperythrus* — 棕腹啄木鸟
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 3918. 茶胸斑啄木鸟 *Dendrocopos macei* — 纹腹啄木鸟
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 3922. 黄颈啄木鸟 *Dendrocopos darjellensis* — 黄颈啄木鸟
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 3924. 大斑啄木鸟 *Dendrocopos major* — 大斑啄木鸟
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 3929. 红枕啄木鸟 *Dryobates cathpharius* — 赤胸啄木鸟
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ## Falconiformes
 
 ### Falconidae
 
-#### 3993. 红隼 *Falco tinnunculus* — 红隼
+**3993. 红隼 *Falco tinnunculus* — 红隼**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S289836930)
 
+------------------------------------------------------------------------
 
-**References:**
+**3996. 红脚隼 *Falco amurensis* — 红脚隼**
 
+**记录状态：** 未评估
 
----
+**证据说明：**
 
-#### 3996. 红脚隼 *Falco amurensis* — 红脚隼
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**3997. 灰背隼 *Falco columbarius* — 灰背隼**
 
-**Evidence:**
+**记录状态：** 未评估
 
+**证据说明：**
 
-**References:**
+------------------------------------------------------------------------
 
+**4004. 猛隼 *Falco severus* — 猛隼**
 
----
+**记录状态：** 确认
 
-#### 3997. 灰背隼 *Falco columbarius* — 灰背隼
+附照片的论文（梁丹等，2014）
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**4008. 燕隼 *Falco subbuteo* — 燕隼**
 
+**记录状态：** 确认
 
-**References:**
+[附照片的公民科学记录](https://ebird.org/checklist/S354340457)
 
+------------------------------------------------------------------------
 
----
+**4015. 游隼 *Falco peregrinus* — 游隼**
 
-#### 4004. 猛隼 *Falco severus* — 猛隼
+**记录状态：** 确认
 
-**Status:** Not assessed
+[附照片的公民科学记录](https://ebird.org/checklist/S197569051)
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**4020. 猎隼 *Falco cherrug* — 猎隼**
 
-**References:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://macaulaylibrary.org/asset/170985121)
 
----
-
-#### 4008. 燕隼 *Falco subbuteo* — 燕隼
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 4015. 游隼 *Falco peregrinus* — 游隼
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 4020. 猎隼 *Falco cherrug* — 猎隼
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ## Psittaciformes
 
 ### Psittaculidae
 
-#### 4276. 红领绿鹦鹉 *Psittacula krameri* — 红领绿鹦鹉
+**4276. 红领绿鹦鹉 *Psittacula krameri* — 红领绿鹦鹉**
 
-**Status:** Not assessed
+**记录状态：** 未评估
 
-**Evidence:**
+**证据说明：**
 
+------------------------------------------------------------------------
 
-**References:**
+**4278. 青头鹦鹉 *Psittacula himalayana* — 青头鹦鹉**
 
+**记录状态：** 确认
 
----
+附照片的论文（刘阳等，2013）
 
-#### 4278. 青头鹦鹉 *Psittacula himalayana* — 青头鹦鹉
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**4279. 灰头鹦鹉 *Psittacula finschii* — 灰头鹦鹉**
 
-**Evidence:**
+**记录状态：** 确认
 
+巩鑫（2026，个人通信）2026年6月在墨脱县拍到1只
 
-**References:**
+------------------------------------------------------------------------
 
+**4284. 大紫胸鹦鹉 *Psittacula derbiana* — 大紫胸鹦鹉**
 
----
+**记录状态：** 确认
 
-#### 4279. 灰头鹦鹉 *Psittacula finschii* — 灰头鹦鹉
+[附照片的公民科学记录](https://macaulaylibrary.org/asset/205784821)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**4285. 绯胸鹦鹉 *Psittacula alexandri* — 绯胸鹦鹉**
 
+**记录状态：** 未评估
 
-**References:**
+**证据说明：**
 
+------------------------------------------------------------------------
 
----
+**4343. 短尾鹦鹉 *Loriculus vernalis* — 短尾鹦鹉**
 
-#### 4284. 大紫胸鹦鹉 *Psittacula derbiana* — 大紫胸鹦鹉
+**记录状态：** 未评估
 
-**Status:** Not assessed
+**证据说明：**
 
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 4285. 绯胸鹦鹉 *Psittacula alexandri* — 绯胸鹦鹉
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 4343. 短尾鹦鹉 *Loriculus vernalis* — 短尾鹦鹉
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ## Passeriformes
 
 ### Eurylaimidae
 
-#### 4437. 长尾阔嘴鸟 *Psarisomus dalhousiae* — 长尾阔嘴鸟
+**4437. 长尾阔嘴鸟 *Psarisomus dalhousiae* — 长尾阔嘴鸟**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+附照片的论文（王渊等，2016）
 
+------------------------------------------------------------------------
 
-**References:**
+**4443. 灰眼先丝冠鸟 *Serilophus rubropygius* — 银胸丝冠鸟**
 
+**记录状态：** 未评估
 
----
+**证据说明：**
 
-#### 4443. 灰眼先丝冠鸟 *Serilophus rubropygius* — 银胸丝冠鸟
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ### Pittidae
 
-#### 4467. 蓝枕八色鸫 *Hydrornis nipalensis* — 蓝枕八色鸫
+**4467. 蓝枕八色鸫 *Hydrornis nipalensis* — 蓝枕八色鸫**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+附照片的论文（温立嘉等，2014）
 
+------------------------------------------------------------------------
 
-**References:**
+**4480. 印度八色鸫 *Pitta brachyura* —**
 
+**记录状态：** 确认
 
----
+附照片的论文（周生灵等，2026）
 
-#### 4480. 印度八色鸫 *Pitta brachyura*
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**4484. 绿胸八色鸫 *Pitta sordida* — 绿胸八色鸫**
 
-**Evidence:**
+**记录状态：** 未评估
 
+**证据说明：**
 
-**References:**
-
-
----
-
-#### 4484. 绿胸八色鸫 *Pitta sordida* — 绿胸八色鸫
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ### Campephagidae
 
-#### 6185. 灰喉山椒鸟 *Pericrocotus solaris* — 灰喉山椒鸟
+**6185. 灰喉山椒鸟 *Pericrocotus solaris* — 灰喉山椒鸟**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+附照片的论文（王渊等，2016）
 
+------------------------------------------------------------------------
 
-**References:**
+**6187. 短嘴山椒鸟 *Pericrocotus brevirostris* — 短嘴山椒鸟**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://ebird.org/checklist/S228183345)
 
-#### 6187. 短嘴山椒鸟 *Pericrocotus brevirostris* — 短嘴山椒鸟
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**6189. 长尾山椒鸟 *Pericrocotus ethologus* — 长尾山椒鸟**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S226958573)
 
-**References:**
+------------------------------------------------------------------------
 
+**6190. 赤红山椒鸟 *Pericrocotus flammeus* — 赤红山椒鸟**
 
----
+**记录状态：** 确认
 
-#### 6189. 长尾山椒鸟 *Pericrocotus ethologus* — 长尾山椒鸟
+[附照片的公民科学记录](https://ebird.org/checklist/S222794707)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**6193. 小灰山椒鸟 *Pericrocotus cantonensis* — 小灰山椒鸟**
 
+**记录状态：** 确认
 
-**References:**
+附照片的论文（杨永炳和杨乐，2026）
 
+------------------------------------------------------------------------
 
----
+**6213. 大鹃鵙 *Coracina javensis* — 大鹃鵙**
 
-#### 6190. 赤红山椒鸟 *Pericrocotus flammeus* — 赤红山椒鸟
+**记录状态：** 未评估
 
-**Status:** Not assessed
+**证据说明：**
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**6251. 暗灰鹃鵙 *Lalage melaschistos* — 暗灰鹃鵙**
 
-**References:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S95005787)
 
----
-
-#### 6193. 小灰山椒鸟 *Pericrocotus cantonensis* — 小灰山椒鸟
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 6213. 大鹃鵙 *Coracina javensis* — 大鹃鵙
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 6251. 暗灰鹃鵙 *Lalage melaschistos* — 暗灰鹃鵙
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ### Artamidae
 
-#### 6293. 灰燕鵙 *Artamus fuscus* — 灰燕鵙
+**6293. 灰燕鵙 *Artamus fuscus* — 灰燕鵙**
 
-**Status:** Not assessed
+**记录状态：** 未评估
 
-**Evidence:**
+**证据说明：**
 
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ### Aegithinidae
 
-#### 6319. 黑翅雀鹎 *Aegithina tiphia* — 黑翅雀鹎
+**6319. 黑翅雀鹎 *Aegithina tiphia* — 黑翅雀鹎**
 
-**Status:** Not assessed
+**记录状态：** 未评估
 
-**Evidence:**
+**证据说明：**
 
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ### Vangidae
 
-#### 6418. 褐背鹟鵙 *Hemipus picatus* — 褐背鹟鵙
+**6418. 褐背鹟鵙 *Hemipus picatus* — 褐背鹟鵙**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S290784744)
 
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ### Vireonidae
 
-#### 6463. 棕腹鵙鹛 *Pteruthius rufiventer* — 棕腹鵙鹛
+**6463. 棕腹鵙鹛 *Pteruthius rufiventer* — 棕腹鵙鹛**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S98739471)；阙品甲等（2019）报告的本种实为栗背奇鹛
 
+------------------------------------------------------------------------
 
-**References:**
+**6465. 红翅鵙鹛 *Pteruthius aeralatus* — 红翅鵙鹛**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://ebird.org/checklist/S50815823)
 
-#### 6465. 红翅鵙鹛 *Pteruthius aeralatus* — 红翅鵙鹛
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**6466. 淡绿鵙鹛 *Pteruthius xanthochlorus* — 淡绿鵙鹛**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S290259645)
 
-**References:**
+------------------------------------------------------------------------
 
+**6467. 栗喉鵙鹛 *Pteruthius melanotis* — 栗喉鵙鹛**
 
----
+**记录状态：** 确认
 
-#### 6466. 淡绿鵙鹛 *Pteruthius xanthochlorus* — 淡绿鵙鹛
+[附照片的公民科学记录](https://ebird.org/checklist/S290259645)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**6470. 白腹凤鹛 *Erpornis zantholeuca* — 白腹凤鹛**
 
+**记录状态：** 确认
 
-**References:**
+附照片的论文（阙品甲等，2019）
 
-
----
-
-#### 6467. 栗喉鵙鹛 *Pteruthius melanotis* — 栗喉鵙鹛
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 6470. 白腹凤鹛 *Erpornis zantholeuca* — 白腹凤鹛
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ### Oriolidae
 
-#### 6550. 朱鹂 *Oriolus traillii* — 朱鹂
+**6550. 朱鹂 *Oriolus traillii* — 朱鹂**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://www.birdreport.cn/home/line/page.html?param=eyJhY3Rpdml0eUlkIjoyMjIxNjIxLCJ0cyI6MTc4NzIxMTU5NzExM30=&sign=d41d8cd98f00b204e9800998ecf8427e)
 
+------------------------------------------------------------------------
 
-**References:**
+**6555. 黑头黄鹂 *Oriolus xanthornus* — 黑头黄鹂**
 
+**记录状态：** 确认
 
----
+李梓豪（2026，个人通信）2022年12月在墨脱县拍到1只
 
-#### 6555. 黑头黄鹂 *Oriolus xanthornus* — 黑头黄鹂
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**6564. 印度金黄鹂 *Oriolus kundoo* — 印度金黄鹂**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S186958707)
 
-**References:**
-
-
----
-
-#### 6564. 印度金黄鹂 *Oriolus kundoo* — 印度金黄鹂
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ### Rhipiduridae
 
-#### 6652. 白喉扇尾鹟 *Rhipidura albicollis* — 白喉扇尾鹟
+**6652. 白喉扇尾鹟 *Rhipidura albicollis* — 白喉扇尾鹟**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S94964999)
 
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ### Dicruridae
 
-#### 6693. 古铜色卷尾 *Dicrurus aeneus* — 古铜色卷尾
+**6693. 古铜色卷尾 *Dicrurus aeneus* — 古铜色卷尾**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S82252889)
 
+------------------------------------------------------------------------
 
-**References:**
+**6694. 小盘尾 *Dicrurus remifer* — 小盘尾**
 
+**记录状态：** 确认
 
----
+附照片的论文（阙品甲等，2019）
 
-#### 6694. 小盘尾 *Dicrurus remifer* — 小盘尾
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**6695. 鸦嘴卷尾 *Dicrurus annectens* — 鸦嘴卷尾**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S334334999)
 
-**References:**
+------------------------------------------------------------------------
 
+**6701. 发冠卷尾 *Dicrurus hottentottus* — 发冠卷尾**
 
----
+**记录状态：** 确认
 
-#### 6695. 鸦嘴卷尾 *Dicrurus annectens* — 鸦嘴卷尾
+[附照片的公民科学记录](https://ebird.org/checklist/S232771374)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**6713. 灰卷尾 *Dicrurus leucophaeus* — 灰卷尾**
 
+**记录状态：** 确认
 
-**References:**
+[附照片的公民科学记录](https://ebird.org/checklist/S78816846)
 
+------------------------------------------------------------------------
 
----
+**6716. 黑卷尾 *Dicrurus macrocercus* — 黑卷尾**
 
-#### 6701. 发冠卷尾 *Dicrurus hottentottus* — 发冠卷尾
+**记录状态：** 确认
 
-**Status:** Not assessed
+[附照片的公民科学记录](https://ebird.org/checklist/S19231544)
 
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 6713. 灰卷尾 *Dicrurus leucophaeus* — 灰卷尾
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 6716. 黑卷尾 *Dicrurus macrocercus* — 黑卷尾
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ### Monarchidae
 
-#### 6726. 黑枕王鹟 *Hypothymis azurea* — 黑枕王鹟
+**6726. 黑枕王鹟 *Hypothymis azurea* — 黑枕王鹟**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附录音的公民科学记录](https://ebird.org/checklist/S288809084)
 
+------------------------------------------------------------------------
 
-**References:**
+**6734. 印度寿带 *Terpsiphone paradisi* — 印度寿带**
 
+**记录状态：** 确认
 
----
+附照片的论文（米小其等，2016）
 
-#### 6734. 印度寿带 *Terpsiphone paradisi* — 印度寿带
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ### Laniidae
 
-#### 6885. 青藏楔尾伯劳 *Lanius giganteus* — 青藏楔尾伯劳
+**6885. 青藏楔尾伯劳 *Lanius giganteus* — 青藏楔尾伯劳**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附录音的公民科学记录](https://ebird.org/checklist/S196988079)；刘善思（2022）报告的灰伯劳实为本种
 
+------------------------------------------------------------------------
 
-**References:**
+**6897. 虎纹伯劳 *Lanius tigrinus* — 虎纹伯劳**
 
+**记录状态：** 未评估
 
----
+**证据说明：**
 
-#### 6897. 虎纹伯劳 *Lanius tigrinus* — 虎纹伯劳
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**6898. 褐背伯劳 *Lanius vittatus* — 褐背伯劳**
 
-**Evidence:**
+**记录状态：** 确认
 
+附照片的论文（彭可欣等，2022）
 
-**References:**
+------------------------------------------------------------------------
 
+**6899. 栗背伯劳 *Lanius collurioides* — 栗背伯劳**
 
----
+**记录状态：** 确认
 
-#### 6898. 褐背伯劳 *Lanius vittatus* — 褐背伯劳
+[附照片的公民科学记录](https://www.birdreport.cn/home/record/page.html?param=eyJhY3Rpdml0eUlkIjoyMDE1MjkxLCJ0cyI6MTc4NzIxMjE4NjU5NywicmVwb3J0SWQiOiIxMWY1ZTUzNi1hMzVkLTQ2ZTQtODZhMy04ZjUxMWJlOTJkYWYifQ==&sign=d41d8cd98f00b204e9800998ecf8427e)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**6903. 棕背伯劳 *Lanius schach* — 棕背伯劳**
 
+**记录状态：** 确认
 
-**References:**
+冯浩展（2026，个人通信）2023年8月在亚东县拍到1只
 
+------------------------------------------------------------------------
 
----
+**6904. 红尾伯劳 *Lanius cristatus* — 红尾伯劳**
 
-#### 6899. 栗背伯劳 *Lanius collurioides* — 栗背伯劳
+**记录状态：** 确认
 
-**Status:** Not assessed
+[附照片的公民科学记录](https://ebird.org/checklist/S341460172)
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**6905. 灰背伯劳 *Lanius tephronotus* — 灰背伯劳**
 
-**References:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S353145285)
 
----
-
-#### 6903. 棕背伯劳 *Lanius schach* — 棕背伯劳
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 6904. 红尾伯劳 *Lanius cristatus* — 红尾伯劳
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 6905. 灰背伯劳 *Lanius tephronotus* — 灰背伯劳
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ### Corvidae
 
-#### 6910. 黄嘴山鸦 *Pyrrhocorax graculus* — 黄嘴山鸦
+**6910. 黄嘴山鸦 *Pyrrhocorax graculus* — 黄嘴山鸦**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S194708900)
 
+------------------------------------------------------------------------
 
-**References:**
+**6911. 红嘴山鸦 *Pyrrhocorax pyrrhocorax* — 红嘴山鸦**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://ebird.org/checklist/S41226165)
 
-#### 6911. 红嘴山鸦 *Pyrrhocorax pyrrhocorax* — 红嘴山鸦
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**6918. 灰树鹊 *Dendrocitta formosae* — 灰树鹊**
 
-**Evidence:**
+**记录状态：**
 
+[附照片的公民科学记录](https://ebird.org/checklist/S224257430)
 
-**References:**
+------------------------------------------------------------------------
 
+**6922. 黑额树鹊 *Dendrocitta frontalis* — 黑额树鹊**
 
----
+**记录状态：** 确认
 
-#### 6918. 灰树鹊 *Dendrocitta formosae* — 灰树鹊
+[附照片的公民科学记录](https://ebird.org/checklist/S78647760)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**6924. 蓝绿鹊 *Cissa chinensis* — 蓝绿鹊**
 
+**记录状态：** 确认
 
-**References:**
+[附照片的公民科学记录](https://macaulaylibrary.org/asset/651915580)
 
+------------------------------------------------------------------------
 
----
+**6930. 黄嘴蓝鹊 *Urocissa flavirostris* — 黄嘴蓝鹊**
 
-#### 6922. 黑额树鹊 *Dendrocitta frontalis* — 黑额树鹊
+**记录状态：** 确认
 
-**Status:** Not assessed
+[附照片的公民科学记录](https://ebird.org/checklist/S289836930)
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**6936. 黑头噪鸦 *Perisoreus internigrans* — 黑头噪鸦**
 
-**References:**
+**记录状态：** 可能
 
+中国科学院青藏高原综合科学考察队（1983）采集了本种的标本，但暂未找到标本照片
 
----
+------------------------------------------------------------------------
 
-#### 6924. 蓝绿鹊 *Cissa chinensis* — 蓝绿鹊
+**6976. 松鸦 *Garrulus glandarius* — 松鸦**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S99260317)
 
+------------------------------------------------------------------------
 
-**References:**
+**6982. 青藏喜鹊 *Pica bottanensis* — 青藏喜鹊**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://ebird.org/checklist/S225089624)
 
-#### 6930. 黄嘴蓝鹊 *Urocissa flavirostris* — 黄嘴蓝鹊
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**6984. 欧亚喜鹊 *Pica pica* — 欧亚喜鹊**
 
-**Evidence:**
+**记录状态：** 未评估
 
+**证据说明：**
 
-**References:**
+------------------------------------------------------------------------
 
+**6994. 星鸦 *Nucifraga hemispila* — 星鸦**
 
----
+**记录状态：** 确认
 
-#### 6936. 黑头噪鸦 *Perisoreus internigrans* — 黑头噪鸦
+[附照片的公民科学记录](https://ebird.org/checklist/S197001082)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**6995. 大斑星鸦 *Nucifraga multipunctata* — 星鸦**
 
+**记录状态：** 排除
 
-**References:**
+张桂林等（1996）报告了本种在阿里的分布，但所记录的生境为海拔4000米的高寒草原和荒漠，明显与现有认知不符；此外暂未找到其他支持本种分布于西藏的证据
 
+------------------------------------------------------------------------
 
----
+**6996. 达乌里寒鸦 *Coloeus dauuricus* — 达乌里寒鸦**
 
-#### 6976. 松鸦 *Garrulus glandarius* — 松鸦
+**记录状态：** 确认
 
-**Status:** Not assessed
+[附照片的公民科学记录](https://ebird.org/checklist/S251372312)
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**6997. 寒鸦 *Coloeus monedula* — 寒鸦**
 
-**References:**
+**记录状态：** 未评估
 
+**证据说明：**
 
----
+------------------------------------------------------------------------
 
-#### 6982. 青藏喜鹊 *Pica bottanensis* — 青藏喜鹊
+**7016. 渡鸦 *Corvus corax* — 渡鸦**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S254904219)
 
+------------------------------------------------------------------------
 
-**References:**
+**7018. 白颈鸦 *Corvus torquatus* — 白颈鸦**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://www.inaturalist.org/observations/345432832)
 
-#### 6984. 欧亚喜鹊 *Pica pica* — 欧亚喜鹊
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**7019. 小嘴乌鸦 *Corvus corone* — 小嘴乌鸦**
 
-**Evidence:**
+**记录状态：** 未评估
 
+**证据说明：**
 
-**References:**
+------------------------------------------------------------------------
 
+**7021. 家鸦 *Corvus splendens* — 家鸦**
 
----
+**记录状态：** 确认
 
-#### 6994. 星鸦 *Nucifraga hemispila* — 星鸦
+[附照片的公民科学记录](https://www.birdreport.cn/home/line/page.html?param=eyJhY3Rpdml0eUlkIjo5MzE4MjgsInRzIjoxNzg3MjEzMTgzODM3fQ==&sign=d41d8cd98f00b204e9800998ecf8427e)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**7024. 大嘴乌鸦 *Corvus macrorhynchos* — 大嘴乌鸦**
 
+**记录状态：** 确认
 
-**References:**
+[附照片的公民科学记录](https://ebird.org/checklist/S204597185)
 
-
----
-
-#### 6995. 大斑星鸦 *Nucifraga multipunctata* — 星鸦
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 6996. 达乌里寒鸦 *Coloeus dauuricus* — 达乌里寒鸦
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 6997. 寒鸦 *Coloeus monedula* — 寒鸦
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 7016. 渡鸦 *Corvus corax* — 渡鸦
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 7018. 白颈鸦 *Corvus torquatus* — 白颈鸦
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 7019. 小嘴乌鸦 *Corvus corone* — 小嘴乌鸦
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 7021. 家鸦 *Corvus splendens* — 家鸦
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 7024. 大嘴乌鸦 *Corvus macrorhynchos* — 大嘴乌鸦
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ### Stenostiridae
 
-#### 7122. 黄腹扇尾鹟 *Chelidorhynx hypoxanthus* — 黄腹扇尾鹟
+**7122. 黄腹扇尾鹟 *Chelidorhynx hypoxanthus* — 黄腹扇尾鹟**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S290259645)
 
+------------------------------------------------------------------------
 
-**References:**
+**7124. 方尾鹟 *Culicicapa ceylonensis* — 方尾鹟**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://ebird.org/checklist/S95132237)
 
-#### 7124. 方尾鹟 *Culicicapa ceylonensis* — 方尾鹟
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ### Paridae
 
-#### 7146. 火冠雀 *Cephalopyrus flammiceps* — 火冠雀
+**7146. 火冠雀 *Cephalopyrus flammiceps* — 火冠雀**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S343771021)
 
+------------------------------------------------------------------------
 
-**References:**
+**7147. 黄眉林雀 *Sylviparus modestus* — 黄眉林雀**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://ebird.org/checklist/S101985583)
 
-#### 7147. 黄眉林雀 *Sylviparus modestus* — 黄眉林雀
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**7148. 冕雀 *Melanochlora sultanea* — 冕雀**
 
-**Evidence:**
+**记录状态：** 确认
 
+附照片的论文（阙品甲等，2019）
 
-**References:**
+------------------------------------------------------------------------
 
+**7152. 地山雀 *Pseudopodoces humilis* — 地山雀**
 
----
+**记录状态：** 确认
 
-#### 7148. 冕雀 *Melanochlora sultanea* — 冕雀
+[附照片的公民科学记录](https://ebird.org/checklist/S254901683)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**7153. 绿背山雀 *Parus monticolus* — 绿背山雀**
 
+**记录状态：** 确认
 
-**References:**
+[附照片的公民科学记录](https://ebird.org/checklist/S50834967)
 
+------------------------------------------------------------------------
 
----
+**7155. 大山雀 *Parus cinereus* — 大山雀**
 
-#### 7152. 地山雀 *Pseudopodoces humilis* — 地山雀
+**记录状态：** 确认
 
-**Status:** Not assessed
+[附照片的公民科学记录](https://ebird.org/checklist/S251375657)
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**7158. 眼纹黄山雀 *Machlolophus xanthogenys* — 眼纹黄山雀**
 
-**References:**
+**记录状态：** 确认
 
+附照片的论文（Chang等，2010）
 
----
+------------------------------------------------------------------------
 
-#### 7153. 绿背山雀 *Parus monticolus* — 绿背山雀
+**7160. 黄颊山雀 *Machlolophus spilonotus* — 黄颊山雀**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S95041500)
 
+------------------------------------------------------------------------
 
-**References:**
+**7175. 黄腹山雀 *Periparus venustulus* — 黄腹山雀**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://www.birdreport.cn/home/record/page.html?param=eyJhY3Rpdml0eUlkIjoxNDE3NjMyLCJ0cyI6MTc4NzIxMzY3NDkyMiwicmVwb3J0SWQiOiJhZWVhNTc1ZC1hM2IzLTQxMWUtYTc4My1hZmU0NDA1MzExYjIifQ==&sign=d41d8cd98f00b204e9800998ecf8427e)
 
-#### 7155. 大山雀 *Parus cinereus* — 大山雀
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**7178. 煤山雀 *Periparus ater* — 煤山雀**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S154122252)
 
-**References:**
+------------------------------------------------------------------------
 
+**7179. 棕枕山雀 *Periparus rufonuchalis* — 棕枕山雀**
 
----
+**记录状态：** 确认
 
-#### 7158. 眼纹黄山雀 *Machlolophus xanthogenys* — 眼纹黄山雀
+[附照片的公民科学记录](https://www.birdreport.cn/home/record/page.html?param=eyJhY3Rpdml0eUlkIjoyMDI4NDIyLCJ0cyI6MTc4NzIxMzgzNTk0OCwicmVwb3J0SWQiOiJjNjI0N2VjYi03NjBhLTQ2NDYtOGJhYy1jODhmYjFhYTMwOGIifQ==&sign=d41d8cd98f00b204e9800998ecf8427e)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**7180. 黑冠山雀 *Periparus rubidiventris* — 黑冠山雀**
 
+**记录状态：** 确认
 
-**References:**
+附照片的论文（阙品甲等，2017）
 
+------------------------------------------------------------------------
 
----
+**7181. 褐冠山雀 *Lophophanes dichrous* — 褐冠山雀**
 
-#### 7160. 黄颊山雀 *Machlolophus spilonotus* — 黄颊山雀
+**记录状态：** 确认
 
-**Status:** Not assessed
+[附照片的公民科学记录](https://ebird.org/checklist/S197095574)
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**7193. 白眉山雀 *Poecile superciliosus* — 白眉山雀**
 
-**References:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://www.inaturalist.org/observations/104708358)
 
----
+------------------------------------------------------------------------
 
-#### 7175. 黄腹山雀 *Periparus venustulus* — 黄腹山雀
+**7198. 黑喉山雀 *Poecile hypermelaenus* — 黑喉山雀**
 
-**Status:** Not assessed
+**记录状态：** 可能
 
-**Evidence:**
+中国科学院青藏高原综合科学考察队（1983）采集了本种的标本，但暂未找到标本照片
 
+------------------------------------------------------------------------
 
-**References:**
+**7199. 川褐头山雀 *Poecile weigoldicus* — 四川褐头山雀**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://ebird.org/checklist/S254910240)
 
-#### 7178. 煤山雀 *Periparus ater* — 煤山雀
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 7179. 棕枕山雀 *Periparus rufonuchalis* — 棕枕山雀
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 7180. 黑冠山雀 *Periparus rubidiventris* — 黑冠山雀
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 7181. 褐冠山雀 *Lophophanes dichrous* — 褐冠山雀
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 7193. 白眉山雀 *Poecile superciliosus* — 白眉山雀
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 7198. 黑喉山雀 *Poecile hypermelaenus* — 黑喉山雀
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 7199. 川褐头山雀 *Poecile weigoldicus* — 四川褐头山雀
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ### Alaudidae
 
-#### 7278. 小云雀 *Alauda gulgula* — 小云雀
+**7278. 小云雀 *Alauda gulgula* — 小云雀**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S230373320)
 
+------------------------------------------------------------------------
 
-**References:**
+**7285. 凤头百灵 *Galerida cristata* — 凤头百灵**
 
+**记录状态：** 未评估
 
----
+**证据说明：**
 
-#### 7285. 凤头百灵 *Galerida cristata* — 凤头百灵
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**7287. 角百灵 *Eremophila alpestris* — 角百灵**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S254735388)
 
-**References:**
+------------------------------------------------------------------------
 
+**7290. 大短趾百灵 *Calandrella brachydactyla* — 大短趾百灵**
 
----
+**记录状态：** 未评估
 
-#### 7287. 角百灵 *Eremophila alpestris* — 角百灵
+**证据说明：**
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**7292. 蒙古短趾百灵 *Calandrella dukhunensis* — 中华短趾百灵**
 
+**记录状态：** 确认
 
-**References:**
+[附照片的公民科学记录](https://www.birdreport.cn/home/record/page.html?param=eyJhY3Rpdml0eUlkIjoxNDIwOTEsInRzIjoxNzg3MjE0MzMzMTIxLCJyZXBvcnRJZCI6IjM2ZThiODUwLTE2Y2UtNDMzYi1iNWIzLTNmYWZhNjQ2NGViZiJ9&sign=d41d8cd98f00b204e9800998ecf8427e)
 
+------------------------------------------------------------------------
 
----
+**7293. 细嘴短趾百灵 *Calandrella acutirostris* — 细嘴短趾百灵**
 
-#### 7290. 大短趾百灵 *Calandrella brachydactyla* — 大短趾百灵
+**记录状态：** 确认
 
-**Status:** Not assessed
+[附照片的公民科学记录](https://ebird.org/checklist/S341981664)
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**7296. 长嘴百灵 *Melanocorypha maxima* — 长嘴百灵**
 
-**References:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S59119349)
 
----
+------------------------------------------------------------------------
 
-#### 7292. 蒙古短趾百灵 *Calandrella dukhunensis* — 中华短趾百灵
+**7303. 亚洲短趾百灵 *Alaudala cheleensis* — 短趾百灵**
 
-**Status:** Not assessed
+**记录状态：** 未评估
 
-**Evidence:**
+**证据说明：**
 
-
-**References:**
-
-
----
-
-#### 7293. 细嘴短趾百灵 *Calandrella acutirostris* — 细嘴短趾百灵
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 7296. 长嘴百灵 *Melanocorypha maxima* — 长嘴百灵
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 7303. 亚洲短趾百灵 *Alaudala cheleensis* — 短趾百灵
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ### Cisticolidae
 
-#### 7389. 长尾缝叶莺 *Orthotomus sutorius* — 长尾缝叶莺
+**7389. 长尾缝叶莺 *Orthotomus sutorius* — 长尾缝叶莺**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S101773341)
 
+------------------------------------------------------------------------
 
-**References:**
+**7402. 喜山山鹪莺 *Prinia crinigera* — 喜山山鹪莺**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://ebird.org/checklist/S204504766)
 
-#### 7402. 喜山山鹪莺 *Prinia crinigera* — 喜山山鹪莺
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**7403. 山鹪莺 *Prinia striata* — 山鹪莺**
 
-**Evidence:**
+**记录状态：** 未评估
 
+**证据说明：**
 
-**References:**
+------------------------------------------------------------------------
 
+**7407. 黑胸山鹪莺 *Prinia atrogularis* — 黑喉山鹪莺**
 
----
+**记录状态：** 确认
 
-#### 7403. 山鹪莺 *Prinia striata* — 山鹪莺
+[附照片的公民科学记录](https://ebird.org/checklist/S290784744)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**7412. 暗冕山鹪莺 *Prinia rufescens* — 暗冕山鹪莺**
 
+**记录状态：** 未评估
 
-**References:**
+**证据说明：**
 
+------------------------------------------------------------------------
 
----
+**7413. 灰胸山鹪莺 *Prinia hodgsonii* — 灰胸山鹪莺**
 
-#### 7407. 黑胸山鹪莺 *Prinia atrogularis* — 黑喉山鹪莺
+**记录状态：** 未评估
 
-**Status:** Not assessed
+**证据说明：**
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**7418. 黄腹山鹪莺 *Prinia flaviventris* — 黄腹山鹪莺**
 
-**References:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S352623563)
 
----
-
-#### 7412. 暗冕山鹪莺 *Prinia rufescens* — 暗冕山鹪莺
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 7413. 灰胸山鹪莺 *Prinia hodgsonii* — 灰胸山鹪莺
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 7418. 黄腹山鹪莺 *Prinia flaviventris* — 黄腹山鹪莺
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ### Acrocephalidae
 
-#### 7502. 厚嘴苇莺 *Arundinax aedon* — 厚嘴苇莺
+**7502. 厚嘴苇莺 *Arundinax aedon* — 厚嘴苇莺**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+附照片的论文（单鹏飞等，2022）
 
+------------------------------------------------------------------------
 
-**References:**
+**7503. 靴篱莺 *Iduna caligata* — 靴篱莺**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://ebird.org/checklist/S230305784)
 
-#### 7503. 靴篱莺 *Iduna caligata* — 靴篱莺
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**7510. 水蒲苇莺 *Acrocephalus schoenobaenus* — 蒲苇莺**
 
-**Evidence:**
+**记录状态：** 确认
 
+本人和郭晓龙2025年5月在墨脱县拍到1只
 
-**References:**
+------------------------------------------------------------------------
 
+**7511. 黑眉苇莺 *Acrocephalus bistrigiceps* — 黑眉苇莺**
 
----
+**记录状态：** 确认
 
-#### 7510. 水蒲苇莺 *Acrocephalus schoenobaenus* — 蒲苇莺
+附照片的论文（王广龙等，2024）
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**7515. 稻田苇莺 *Acrocephalus agricola* — 稻田苇莺**
 
+**记录状态：** 确认
 
-**References:**
+[附照片的公民科学记录](https://ebird.org/checklist/S239000807)
 
+------------------------------------------------------------------------
 
----
+**7517. 钝翅苇莺 *Acrocephalus concinens* — 钝翅苇莺**
 
-#### 7511. 黑眉苇莺 *Acrocephalus bistrigiceps* — 黑眉苇莺
+**记录状态：** 未评估
 
-**Status:** Not assessed
+**证据说明：**
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**7518. 布氏苇莺 *Acrocephalus dumetorum* — 布氏苇莺**
 
-**References:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S244010729)
 
----
+------------------------------------------------------------------------
 
-#### 7515. 稻田苇莺 *Acrocephalus agricola* — 稻田苇莺
+**7530. 东方大苇莺 *Acrocephalus orientalis* — 东方大苇莺**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+附照片的论文（王广龙等，2024）
 
+------------------------------------------------------------------------
 
-**References:**
+**7531. 噪大苇莺 *Acrocephalus stentoreus* — 噪苇莺**
 
+**记录状态：** 未评估
 
----
+**证据说明：**
 
-#### 7517. 钝翅苇莺 *Acrocephalus concinens* — 钝翅苇莺
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 7518. 布氏苇莺 *Acrocephalus dumetorum* — 布氏苇莺
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 7530. 东方大苇莺 *Acrocephalus orientalis* — 东方大苇莺
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 7531. 噪大苇莺 *Acrocephalus stentoreus* — 噪苇莺
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ### Locustellidae
 
-#### 7572. 小蝗莺 *Helopsaltes certhiola* — 小蝗莺
+**7572. 小蝗莺 *Helopsaltes certhiola* — 小蝗莺**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+附照片的论文（王广龙等，2024）
 
+------------------------------------------------------------------------
 
-**References:**
+**7577. 棕褐短翅蝗莺 *Locustella luteoventris* — 棕褐短翅蝗莺**
 
+**记录状态：** 未评估
 
----
+**证据说明：**
 
-#### 7577. 棕褐短翅蝗莺 *Locustella luteoventris* — 棕褐短翅蝗莺
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**7579. 巨嘴短翅蝗莺 *Locustella major* — 巨嘴短翅蝗莺**
 
-**Evidence:**
+**记录状态：** 未评估
 
+**证据说明：**
 
-**References:**
+------------------------------------------------------------------------
 
+**7587. 北短翅蝗莺 *Locustella davidi* — 北短翅蝗莺**
 
----
+**记录状态：** 确认
 
-#### 7579. 巨嘴短翅蝗莺 *Locustella major* — 巨嘴短翅蝗莺
+[附照片的公民科学记录](https://www.birdreport.cn/home/record/page.html?param=eyJhY3Rpdml0eUlkIjoxNjUxOTI4LCJ0cyI6MTc4NzI4MzkwNTgzNiwicmVwb3J0SWQiOiJmZTBiNzU0YS03ZWM1LTRkMGQtODM5NS1lZTNlYTJhOTRmMTMifQ==&sign=d41d8cd98f00b204e9800998ecf8427e)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**7588. 斑胸短翅蝗莺 *Locustella thoracica* — 斑胸短翅蝗莺**
 
+**记录状态：** 未评估
 
-**References:**
+**证据说明：**
 
+------------------------------------------------------------------------
 
----
+**7595. 高山短翅蝗莺 *Locustella mandelli* — 高山短翅蝗莺**
 
-#### 7587. 北短翅蝗莺 *Locustella davidi* — 北短翅蝗莺
+**记录状态：** 确认
 
-**Status:** Not assessed
+[附录音的公民科学记录](https://ebird.org/checklist/S225733139)
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**7600. 沼泽大尾莺 *Megalurus palustris* — 沼泽大尾莺**
 
-**References:**
+**记录状态：** 未评估
 
+**证据说明：**
 
----
-
-#### 7588. 斑胸短翅蝗莺 *Locustella thoracica* — 斑胸短翅蝗莺
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 7595. 高山短翅蝗莺 *Locustella mandelli* — 高山短翅蝗莺
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 7600. 沼泽大尾莺 *Megalurus palustris* — 沼泽大尾莺
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ### Pnoepygidae
 
-#### 7631. 鳞胸鹪鹛 *Pnoepyga albiventer* — 鳞胸鹪鹛
+**7631. 鳞胸鹪鹛 *Pnoepyga albiventer* — 鳞胸鹪鹛**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附录音的公民科学记录](https://xeno-canto.org/1000927)
 
+------------------------------------------------------------------------
 
-**References:**
+**7633. 尼泊尔鹪鹛 *Pnoepyga immaculata* — 尼泊尔鹪鹛**
 
+**记录状态：** 确认
 
----
+附照片的论文（Chang等，2010）
 
-#### 7633. 尼泊尔鹪鹛 *Pnoepyga immaculata* — 尼泊尔鹪鹛
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**7634. 小鳞胸鹪鹛 *Pnoepyga pusilla* — 小鳞胸鹪鹛**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附论文的公民科学记录](https://ebird.org/checklist/S223595894)
 
-**References:**
-
-
----
-
-#### 7634. 小鳞胸鹪鹛 *Pnoepyga pusilla* — 小鳞胸鹪鹛
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ### Hirundinidae
 
-#### 7648. 崖沙燕 *Riparia riparia* — 崖沙燕
+**7648. 崖沙燕 *Riparia riparia* — 崖沙燕**
 
-**Status:** Not assessed
+**记录状态：** 未评估
 
-**Evidence:**
+**证据说明：**
 
+------------------------------------------------------------------------
 
-**References:**
+**7649. 淡色沙燕 *Riparia diluta* — 淡色崖沙燕**
 
+**记录状态：** 确认
 
----
+Tang等（2022）报告了来自曲水县的本种样本
 
-#### 7649. 淡色沙燕 *Riparia diluta* — 淡色崖沙燕
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**7684. 岩燕 *Ptyonoprogne rupestris* — 岩燕**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S222405993)
 
-**References:**
+------------------------------------------------------------------------
 
+**7699. 家燕 *Hirundo rustica* — 家燕**
 
----
+**记录状态：** 确认
 
-#### 7684. 岩燕 *Ptyonoprogne rupestris* — 岩燕
+[附照片的公民科学记录](https://ebird.org/checklist/S254203008)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**7696. 线尾燕 *Hirundo smithii* — 线尾燕**
 
+**记录状态：** 确认
 
-**References:**
+[附照片的公民科学记录](https://ebird.org/checklist/S380807776)
 
+------------------------------------------------------------------------
 
----
+**7704. 西方毛脚燕 *Delichon urbicum* — 毛脚燕**
 
-#### 7699. 家燕 *Hirundo rustica* — 家燕
+**记录状态：** 未评估
 
-**Status:** Not assessed
+**证据说明：**
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**7705. 黑喉毛脚燕 *Delichon nipalense* — 黑喉毛脚燕**
 
-**References:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S156066587)
 
----
+------------------------------------------------------------------------
 
-#### 7696. 线尾燕 *Hirundo smithii* — 线尾燕
+**7706. 白腹毛脚燕 *Delichon lagopodum* — 毛脚燕**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S284912714)
 
+------------------------------------------------------------------------
 
-**References:**
+**7707. 烟腹毛脚燕 *Delichon dasypus* — 烟腹毛脚燕**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://ebird.org/checklist/S282095527)
 
-#### 7704. 西方毛脚燕 *Delichon urbicum* — 毛脚燕
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**7716. 金腰燕 *Cecropis daurica* — 金腰燕**
 
-**Evidence:**
+**记录状态：** 确认
 
+有较多公民科学记录，但均没有照片；本人2026年5月在墨脱县目击1只
 
-**References:**
-
-
----
-
-#### 7705. 黑喉毛脚燕 *Delichon nipalense* — 黑喉毛脚燕
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 7706. 白腹毛脚燕 *Delichon lagopodum* — 毛脚燕
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 7707. 烟腹毛脚燕 *Delichon dasypus* — 烟腹毛脚燕
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 7716. 金腰燕 *Cecropis daurica* — 金腰燕
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ### Aegithalidae
 
-#### 7729. 凤头雀莺 *Leptopoecile elegans* — 凤头雀莺
+**7729. 凤头雀莺 *Leptopoecile elegans* — 凤头雀莺**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S289639220)
 
+------------------------------------------------------------------------
 
-**References:**
+**7730. 花彩雀莺 *Leptopoecile sophiae* — 花彩雀莺**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://ebird.org/checklist/S65142666)
 
-#### 7730. 花彩雀莺 *Leptopoecile sophiae* — 花彩雀莺
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**7736. 红头长尾山雀 *Aegithalos concinnus* — 红头长尾山雀**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S290260283)
 
-**References:**
+------------------------------------------------------------------------
 
+**7738. 黑眉长尾山雀 *Aegithalos iouschistos* — 棕额长尾山雀/黑眉长尾山雀**
 
----
+**记录状态：** 确认
 
-#### 7736. 红头长尾山雀 *Aegithalos concinnus* — 红头长尾山雀
+[附照片的公民科学记录](https://ebird.org/checklist/S86324125)
 
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 7738. 黑眉长尾山雀 *Aegithalos iouschistos* — 棕额长尾山雀/黑眉长尾山雀
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ### Cettiidae
 
-#### 7749. 灰腹地莺 *Tesia cyaniventer* — 灰腹地莺
+**7749. 灰腹地莺 *Tesia cyaniventer* — 灰腹地莺**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附录音的公民科学记录](https://xeno-canto.org/1103054)
 
+------------------------------------------------------------------------
 
-**References:**
+**7750. 金冠地莺 *Tesia olivea* — 金冠地莺**
 
+**记录状态：** 确认
 
----
+[附录音的公民科学记录](https://xeno-canto.org/991833)
 
-#### 7750. 金冠地莺 *Tesia olivea* — 金冠地莺
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**7753. 大树莺 *Cettia major* — 大树莺**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://xeno-canto.org/1001838)
 
-**References:**
+------------------------------------------------------------------------
 
+**7754. 棕顶树莺 *Cettia brunnifrons* — 棕顶树莺**
 
----
+**记录状态：** 确认
 
-#### 7753. 大树莺 *Cettia major* — 大树莺
+[附照片的公民科学记录](https://xeno-canto.org/975252)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**7755. 栗头地莺 *Cettia castaneocoronata* — 栗头树莺**
 
+**记录状态：** 确认
 
-**References:**
+[附照片的公民科学记录](https://ebird.org/checklist/S297832897)
 
+------------------------------------------------------------------------
 
----
+**7757. 黄腹鹟莺 *Abroscopus superciliaris* — 黄腹鹟莺**
 
-#### 7754. 棕顶树莺 *Cettia brunnifrons* — 棕顶树莺
+**记录状态：** 确认
 
-**Status:** Not assessed
+[附照片的公民科学记录](https://ebird.org/checklist/S238025417)
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**7758. 棕脸鹟莺 *Abroscopus albogularis* — 棕脸鹟莺**
 
-**References:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S229171217)
 
----
+------------------------------------------------------------------------
 
-#### 7755. 栗头地莺 *Cettia castaneocoronata* — 栗头树莺
+**7759. 黑脸鹟莺 *Abroscopus schisticeps* — 黑脸鹟莺**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S309673894)
 
+------------------------------------------------------------------------
 
-**References:**
+**7761. 金头拟缝叶莺 *Phyllergates cucullatus* — 栗头织叶莺**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://ebird.org/checklist/S95132237)
 
-#### 7757. 黄腹鹟莺 *Abroscopus superciliaris* — 黄腹鹟莺
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**7762. 宽嘴鹟莺 *Tickellia hodgsoni* — 宽嘴鹟莺**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S349852786)
 
-**References:**
+------------------------------------------------------------------------
 
+**7771. 强脚树莺 *Horornis fortipes* — 强脚树莺**
 
----
+**记录状态：** 确认
 
-#### 7758. 棕脸鹟莺 *Abroscopus albogularis* — 棕脸鹟莺
+[附录音的公民科学记录](https://xeno-canto.org/997731)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**7772. 喜山黄腹树莺 *Horornis brunnescens* — 喜山黄腹树莺**
 
+**记录状态：** 确认
 
-**References:**
+[附录音的公民科学记录](https://xeno-canto.org/1079683)
 
+------------------------------------------------------------------------
 
----
+**7774. 异色树莺 *Horornis flavolivaceus* — 异色树莺**
 
-#### 7759. 黑脸鹟莺 *Abroscopus schisticeps* — 黑脸鹟莺
+**记录状态：** 确认
 
-**Status:** Not assessed
+[附照片的公民科学记录](https://ebird.org/checklist/S247512696)
 
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 7761. 金头拟缝叶莺 *Phyllergates cucullatus* — 栗头织叶莺
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 7762. 宽嘴鹟莺 *Tickellia hodgsoni* — 宽嘴鹟莺
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 7771. 强脚树莺 *Horornis fortipes* — 强脚树莺
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 7772. 喜山黄腹树莺 *Horornis brunnescens* — 喜山黄腹树莺
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 7774. 异色树莺 *Horornis flavolivaceus* — 异色树莺
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ### Phylloscopidae
 
-#### 7775. 林柳莺 *Phylloscopus sibilatrix* — 林柳莺
+**7775. 林柳莺 *Phylloscopus sibilatrix* — 林柳莺**
 
-**Status:** Not assessed
+**记录状态：** 可能
 
-**Evidence:**
+中国科学院青藏高原综合科学考察队（1983）采集了本种的标本，现藏于中国科学院动物研究所标本馆，但没有提供照片
 
+------------------------------------------------------------------------
 
-**References:**
+**7778. 橙斑翅柳莺 *Phylloscopus pulcher* — 橙斑翅柳莺**
 
+**记录状态：** 确认
 
----
+[附录音的公民科学记录](https://xeno-canto.org/1001834)
 
-#### 7778. 橙斑翅柳莺 *Phylloscopus pulcher* — 橙斑翅柳莺
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**7779. 灰喉柳莺 *Phylloscopus maculipennis* — 灰喉柳莺**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S50740720)
 
-**References:**
+------------------------------------------------------------------------
 
+**7780. 黄眉柳莺 *Phylloscopus inornatus* — 黄眉柳莺**
 
----
+**记录状态：** 未评估
 
-#### 7779. 灰喉柳莺 *Phylloscopus maculipennis* — 灰喉柳莺
+**证据说明：**
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**7781. 淡眉柳莺 *Phylloscopus humei* — 淡眉柳莺**
 
+**记录状态：** 确认
 
-**References:**
+[附录音的公民科学记录](https://ebird.org/checklist/S250644500)
 
+------------------------------------------------------------------------
 
----
+**7784. 黄腰柳莺 *Phylloscopus proregulus* — 黄腰柳莺**
 
-#### 7780. 黄眉柳莺 *Phylloscopus inornatus* — 黄眉柳莺
+**记录状态：** 未评估
 
-**Status:** Not assessed
+**证据说明：**
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**7786. 四川柳莺 *Phylloscopus forresti* — 四川柳莺**
 
-**References:**
+**记录状态：** 确认
 
+记录中心私密记录2024101700500附有本种的录音，地点为昌都
 
----
+------------------------------------------------------------------------
 
-#### 7781. 淡眉柳莺 *Phylloscopus humei* — 淡眉柳莺
+**7787. 淡黄腰柳莺 *Phylloscopus chloronotus* — 淡黄腰柳莺**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附录音的公民科学记录](https://xeno-canto.org/1150129)
 
+------------------------------------------------------------------------
 
-**References:**
+**7790. 棕眉柳莺 *Phylloscopus armandii* — 棕眉柳莺**
 
+**记录状态：** 确认
 
----
+[附录音的公民科学记录](https://ebird.org/checklist/S251379311)
 
-#### 7784. 黄腰柳莺 *Phylloscopus proregulus* — 黄腰柳莺
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**7791. 灰柳莺 *Phylloscopus griseolus* — 灰柳莺**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S268676413)
 
-**References:**
+------------------------------------------------------------------------
 
+**7792. 黄腹柳莺 *Phylloscopus affinis* — 黄腹柳莺**
 
----
+**记录状态：** 确认
 
-#### 7786. 四川柳莺 *Phylloscopus forresti* — 四川柳莺
+[附照片的公民科学记录](https://ebird.org/checklist/S73904227)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**7793. 褐柳莺 *Phylloscopus fuscatus* — 褐柳莺**
 
+**记录状态：** 确认
 
-**References:**
+[附照片的公民科学记录](https://ebird.org/checklist/S246134731)
 
+------------------------------------------------------------------------
 
----
+**7794. 烟柳莺 *Phylloscopus fuligiventer* — 烟柳莺**
 
-#### 7787. 淡黄腰柳莺 *Phylloscopus chloronotus* — 淡黄腰柳莺
+**记录状态：** 确认
 
-**Status:** Not assessed
+[附照片的公民科学记录](https://ebird.org/checklist/S197429213)
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**7796. 棕腹柳莺 *Phylloscopus subaffinis* — 棕腹柳莺**
 
-**References:**
+**记录状态：** 未评估
 
+**证据说明：**
 
----
+------------------------------------------------------------------------
 
-#### 7790. 棕眉柳莺 *Phylloscopus armandii* — 棕眉柳莺
+**7798. 东方叽喳柳莺 *Phylloscopus sindianus* — 中亚叽喳柳莺**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://www.birdreport.cn/home/record/page.html?param=eyJhY3Rpdml0eUlkIjoyMDI4NDIyLCJ0cyI6MTc4NzI4NzQwNzY0NSwicmVwb3J0SWQiOiJjNjI0N2VjYi03NjBhLTQ2NDYtOGJhYy1jODhmYjFhYTMwOGIifQ==&sign=d41d8cd98f00b204e9800998ecf8427e)
 
+------------------------------------------------------------------------
 
-**References:**
+**7801. 叽喳柳莺 *Phylloscopus collybita* — 叽喳柳莺**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://ebird.org/checklist/S222812476)
 
-#### 7791. 灰柳莺 *Phylloscopus griseolus* — 灰柳莺
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**7802. 冕柳莺 *Phylloscopus coronatus* — 冕柳莺**
 
-**Evidence:**
+**记录状态：** 未评估
 
+**证据说明：**
 
-**References:**
+------------------------------------------------------------------------
 
+**7812. 金眶鹟莺 *Phylloscopus burkii* — 金眶鹟莺**
 
----
+**记录状态：** 确认
 
-#### 7792. 黄腹柳莺 *Phylloscopus affinis* — 黄腹柳莺
+[附录音的公民科学记录](https://xeno-canto.org/1103879)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**7813. 灰冠鹟莺 *Phylloscopus tephrocephalus* — 灰冠鹟莺**
 
+**记录状态：** 确认
 
-**References:**
+[附照片的公民科学记录](https://www.birdreport.cn/home/line/page.html?param=eyJhY3Rpdml0eUlkIjoyMTA3NTgzLCJ0cyI6MTc4NzI4NzU5ODExMX0=&sign=d41d8cd98f00b204e9800998ecf8427e)
 
+------------------------------------------------------------------------
 
----
+**7814. 灰脸鹟莺 *Phylloscopus poliogenys* — 灰脸鹟莺**
 
-#### 7793. 褐柳莺 *Phylloscopus fuscatus* — 褐柳莺
+**记录状态：** 确认
 
-**Status:** Not assessed
+[附照片的公民科学记录](https://ebird.org/checklist/S101773341)
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**7815. 白眶鹟莺 *Phylloscopus intermedius* — 白眶鹟莺**
 
-**References:**
+**记录状态：** 确认
 
+[附录音的公民科学记录](https://ebird.org/checklist/S314662921)
 
----
+------------------------------------------------------------------------
 
-#### 7794. 烟柳莺 *Phylloscopus fuligiventer* — 烟柳莺
+**7819. 韦氏鹟莺 *Phylloscopus whistleri* — 韦氏鹟莺**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附录音的公民科学记录](https://xeno-canto.org/906940)
 
+------------------------------------------------------------------------
 
-**References:**
+**7823. 暗绿柳莺 *Phylloscopus trochiloides* — 暗绿柳莺**
 
+**记录状态：** 确认
 
----
+[附录音的公民科学记录](https://ebird.org/checklist/S252356174)
 
-#### 7796. 棕腹柳莺 *Phylloscopus subaffinis* — 棕腹柳莺
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**7824. 乌嘴柳莺 *Phylloscopus magnirostris* — 乌嘴柳莺**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附录音的公民科学记录](https://xeno-canto.org/997217)
 
-**References:**
+------------------------------------------------------------------------
 
+**7828. 极北柳莺 *Phylloscopus borealis* — 极北柳莺**
 
----
+**记录状态：** 未评估
 
-#### 7798. 东方叽喳柳莺 *Phylloscopus sindianus* — 中亚叽喳柳莺
+**证据说明：**
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**7830. 栗头鹟莺 *Phylloscopus castaniceps* — 栗头鹟莺**
 
+**记录状态：** 确认
 
-**References:**
+[附照片的公民科学记录](https://ebird.org/checklist/S95132237)
 
+------------------------------------------------------------------------
 
----
+**7835. 黄胸柳莺 *Phylloscopus cantator* — 黄胸柳莺**
 
-#### 7801. 叽喳柳莺 *Phylloscopus collybita* — 叽喳柳莺
+**记录状态：** 确认
 
-**Status:** Not assessed
+附照片的论文（阙品甲等，2017）
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**7836. 大冕柳莺 *Phylloscopus occipitalis* —**
 
-**References:**
+**记录状态：** 确认
 
+附照片和录音的论文(谭心渌和宋森，2026)
 
----
+------------------------------------------------------------------------
 
-#### 7802. 冕柳莺 *Phylloscopus coronatus* — 冕柳莺
+**7837. 西南冠纹柳莺 *Phylloscopus reguloides* — 西南冠纹柳莺**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附录音的公民科学记录](https://xeno-canto.org/996915)
 
+------------------------------------------------------------------------
 
-**References:**
+**7843. 灰头柳莺 *Phylloscopus xanthoschistos* — 灰头柳莺**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://ebird.org/checklist/S154124172)
 
-#### 7812. 金眶鹟莺 *Phylloscopus burkii* — 金眶鹟莺
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 7813. 灰冠鹟莺 *Phylloscopus tephrocephalus* — 灰冠鹟莺
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 7814. 灰脸鹟莺 *Phylloscopus poliogenys* — 灰脸鹟莺
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 7815. 白眶鹟莺 *Phylloscopus intermedius* — 白眶鹟莺
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 7819. 韦氏鹟莺 *Phylloscopus whistleri* — 韦氏鹟莺
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 7823. 暗绿柳莺 *Phylloscopus trochiloides* — 暗绿柳莺
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 7824. 乌嘴柳莺 *Phylloscopus magnirostris* — 乌嘴柳莺
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 7828. 极北柳莺 *Phylloscopus borealis* — 极北柳莺
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 7830. 栗头鹟莺 *Phylloscopus castaniceps* — 栗头鹟莺
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 7835. 黄胸柳莺 *Phylloscopus cantator* — 黄胸柳莺
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 7836. 大冕柳莺 *Phylloscopus occipitalis*
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 7837. 西南冠纹柳莺 *Phylloscopus reguloides* — 西南冠纹柳莺
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 7843. 灰头柳莺 *Phylloscopus xanthoschistos* — 灰头柳莺
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ### Pycnonotidae
 
-#### 7950. 黄臀鹎 *Pycnonotus xanthorrhous* — 黄臀鹎
+**7950. 黄臀鹎 *Pycnonotus xanthorrhous* — 黄臀鹎**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S251039678)
 
+------------------------------------------------------------------------
 
-**References:**
+**7954. 红耳鹎 *Pycnonotus jocosus* — 红耳鹎**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://ebird.org/checklist/S99009039)
 
-#### 7954. 红耳鹎 *Pycnonotus jocosus* — 红耳鹎
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**7955. 黑喉红臀鹎 *Pycnonotus cafer* — 黑喉红臀鹎**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S224050568)
 
-**References:**
+------------------------------------------------------------------------
 
+**7957. 白颊鹎 *Pycnonotus leucogenys* — 白颊鹎**
 
----
+**记录状态：** 确认
 
-#### 7955. 黑喉红臀鹎 *Pycnonotus cafer* — 黑喉红臀鹎
+附照片的论文（张高峰等，2006）
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**7970. 黄腹冠鹎 *Alophoixus flaveolus* — 黄腹冠鹎**
 
+**记录状态：** 确认
 
-**References:**
+[附照片的公民科学记录](https://ebird.org/checklist/S82252889)
 
+------------------------------------------------------------------------
 
----
+**7973. 纵纹绿鹎 *Alcurus striatus* — 纵纹绿鹎**
 
-#### 7957. 白颊鹎 *Pycnonotus leucogenys* — 白颊鹎
+**记录状态：** 确认
 
-**Status:** Not assessed
+[附照片的公民科学记录](https://ebird.org/checklist/S81570407)
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**7982. 灰短脚鹎 *Hemixos flavala* — 灰短脚鹎**
 
-**References:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S290782010)
 
----
+------------------------------------------------------------------------
 
-#### 7970. 黄腹冠鹎 *Alophoixus flaveolus* — 黄腹冠鹎
+**7989. 绿翅短脚鹎 *Ixos mcclellandii* — 绿翅短脚鹎**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S290260083)
 
+------------------------------------------------------------------------
 
-**References:**
+**8011. 黑短脚鹎 *Hypsipetes leucocephalus* — 黑短脚鹎**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://ebird.org/checklist/S253724052)
 
-#### 7973. 纵纹绿鹎 *Alcurus striatus* — 纵纹绿鹎
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 7982. 灰短脚鹎 *Hemixos flavala* — 灰短脚鹎
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 7989. 绿翅短脚鹎 *Ixos mcclellandii* — 绿翅短脚鹎
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 8011. 黑短脚鹎 *Hypsipetes leucocephalus* — 黑短脚鹎
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ### Sylviidae
 
-#### 8027. 白喉林莺 *Curruca curruca* — 白喉林莺
+**8027. 白喉林莺 *Curruca curruca* — 白喉林莺**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S47065874)
 
+------------------------------------------------------------------------
 
-**References:**
+**8032. 东歌林莺 *Curruca crassirostris* — 东歌林莺**
 
+**记录状态：** 确认
 
----
+附照片的论文（米小其等，2016）
 
-#### 8032. 东歌林莺 *Curruca crassirostris* — 东歌林莺
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**8037. 灰白喉林莺 *Curruca communis* — 灰白喉林莺**
 
-**Evidence:**
+**记录状态：** 确认
 
+附照片的论文（米小其等，2016）
 
-**References:**
-
-
----
-
-#### 8037. 灰白喉林莺 *Curruca communis* — 灰白喉林莺
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ### Paradoxornithidae
 
-#### 8048. 火尾绿鹛 *Myzornis pyrrhoura* — 火尾绿鹛
+**8048. 火尾绿鹛 *Myzornis pyrrhoura* — 火尾绿鹛**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S210885775)
 
+------------------------------------------------------------------------
 
-**References:**
+**8049. 宝兴鹛雀 *Moupinia poecilotis* — 宝兴鹛雀**
 
+**记录状态：** 确认
 
----
+附照片的论文（杨永炳等，2022）
 
-#### 8049. 宝兴鹛雀 *Moupinia poecilotis* — 宝兴鹛雀
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**8050. 金胸雀鹛 *Lioparus chrysotis* — 金胸雀鹛**
 
-**Evidence:**
+**记录状态：** 确认
 
+附照片的论文（岩道等，2022）
 
-**References:**
+------------------------------------------------------------------------
 
+**8057. 中华雀鹛 *Fulvetta striaticollis* — 中华雀鹛**
 
----
+**记录状态：** 确认
 
-#### 8050. 金胸雀鹛 *Lioparus chrysotis* — 金胸雀鹛
+[附照片的公民科学记录](https://ebird.org/checklist/S100209747)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**8058. 路德雀鹛 *Fulvetta ludlowi* — 路氏雀鹛**
 
+**记录状态：** 确认
 
-**References:**
+[附照片的公民科学记录](https://ebird.org/checklist/S323235183)
 
+------------------------------------------------------------------------
 
----
+**8059. 白眉雀鹛 *Fulvetta vinipectus* — 白眉雀鹛**
 
-#### 8057. 中华雀鹛 *Fulvetta striaticollis* — 中华雀鹛
+**记录状态：** 确认
 
-**Status:** Not assessed
+[附照片的公民科学记录](https://ebird.org/checklist/S41226165)
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**8065. 斑胸鸦雀 *Paradoxornis flavirostris* — 斑胸鸦雀**
 
-**References:**
+**记录状态：** 未评估
 
+**证据说明：**
 
----
+------------------------------------------------------------------------
 
-#### 8058. 路德雀鹛 *Fulvetta ludlowi* — 路氏雀鹛
+**8067. 红嘴鸦雀 *Paradoxornis aemodius* — 红嘴鸦雀**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+中国科学院青藏高原综合科学考察队（1983）采集了本种的标本，现藏于[西北高原生物研究所标本馆](http://museum.ioz.ac.cn/specimens_detail.aspx?pth=2163C0001200000218)
 
+------------------------------------------------------------------------
 
-**References:**
+**8068. 褐鸦雀 *Paradoxornis unicolor* — 褐鸦雀**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://ebird.org/checklist/S276991177)
 
-#### 8059. 白眉雀鹛 *Fulvetta vinipectus* — 白眉雀鹛
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**8072. 白胸鸦雀 *Paradoxornis ruficeps* — 白胸鸦雀**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S101935612)
 
-**References:**
+------------------------------------------------------------------------
 
+**8076. 黄额鸦雀 *Suthora fulvifrons* — 黄额鸦雀**
 
----
+**记录状态：** 确认
 
-#### 8065. 斑胸鸦雀 *Paradoxornis flavirostris* — 斑胸鸦雀
+[附照片的公民科学记录](https://ebird.org/checklist/S350684458)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**8078. 橙额鸦雀 *Suthora nipalensis* — 黑喉鸦雀**
 
+**记录状态：** 确认
 
-**References:**
+[附照片的公民科学记录](https://ebird.org/checklist/S289836930)
 
+------------------------------------------------------------------------
 
----
+**8079. 黑眉鸦雀 *Suthora atrosuperciliaris* — 黑眉鸦雀**
 
-#### 8067. 红嘴鸦雀 *Paradoxornis aemodius* — 红嘴鸦雀
+**记录状态：** 确认
 
-**Status:** Not assessed
+[附照片的公民科学记录](https://ebird.org/checklist/S50793449)
 
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 8068. 褐鸦雀 *Paradoxornis unicolor* — 褐鸦雀
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 8072. 白胸鸦雀 *Paradoxornis ruficeps* — 白胸鸦雀
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 8076. 黄额鸦雀 *Suthora fulvifrons* — 黄额鸦雀
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 8078. 橙额鸦雀 *Suthora nipalensis* — 黑喉鸦雀
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 8079. 黑眉鸦雀 *Suthora atrosuperciliaris* — 黑眉鸦雀
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ### Zosteropidae
 
-#### 8086. 白领凤鹛 *Parayuhina diademata* — 白领凤鹛
+**8086. 白领凤鹛 *Parayuhina diademata* — 白领凤鹛**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+刘子祥等（2014）报告了本种，但没有照片；后来有[附照片的公民科学记录](https://www.birdreport.cn/home/record/page.html?param=eyJhY3Rpdml0eUlkIjo5NDUzNTQsInRzIjoxNzg3Mjg5MDI3MjM2LCJyZXBvcnRJZCI6ImE2OTJmOTc2LTVkZmEtNGE1NS1iMDUwLTY0ZDdhMWFjMjNjNiJ9&sign=d41d8cd98f00b204e9800998ecf8427e)
 
+------------------------------------------------------------------------
 
-**References:**
+**8088. 栗耳凤鹛 *Staphida castaniceps* — 栗耳凤鹛**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://ebird.org/checklist/S328297027)
 
-#### 8088. 栗耳凤鹛 *Staphida castaniceps* — 栗耳凤鹛
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**8090. 黑颏凤鹛 *Yuhina nigrimenta* — 黑颏凤鹛**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S95132237)
 
-**References:**
+------------------------------------------------------------------------
 
+**8092. 黄颈凤鹛 *Yuhina flavicollis* — 黄颈凤鹛**
 
----
+**记录状态：** 确认
 
-#### 8090. 黑颏凤鹛 *Yuhina nigrimenta* — 黑颏凤鹛
+[附照片的公民科学记录](https://ebird.org/checklist/S289836930)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**8094. 白项凤鹛 *Yuhina bakeri* — 白颈凤鹛**
 
+**记录状态：** 确认
 
-**References:**
+[附照片的公民科学记录](https://ebird.org/checklist/S289836930)
 
+------------------------------------------------------------------------
 
----
+**8095. 纹喉凤鹛 *Yuhina gularis* — 纹喉凤鹛**
 
-#### 8092. 黄颈凤鹛 *Yuhina flavicollis* — 黄颈凤鹛
+**记录状态：** 确认
 
-**Status:** Not assessed
+[附照片的公民科学记录](https://ebird.org/checklist/S289836930)
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**8096. 棕臀凤鹛 *Yuhina occipitalis* — 棕臀凤鹛**
 
-**References:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S50771015)
 
----
+------------------------------------------------------------------------
 
-#### 8094. 白项凤鹛 *Yuhina bakeri* — 白颈凤鹛
+**8130. 红胁绣眼鸟 *Zosterops erythropleurus* — 红胁绣眼鸟**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://www.inaturalist.org/observations/264780875)
 
+------------------------------------------------------------------------
 
-**References:**
+**8134. 灰腹绣眼鸟 *Zosterops palpebrosus* — 灰腹绣眼鸟**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://ebird.org/checklist/S284101116)
 
-#### 8095. 纹喉凤鹛 *Yuhina gularis* — 纹喉凤鹛
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 8096. 棕臀凤鹛 *Yuhina occipitalis* — 棕臀凤鹛
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 8130. 红胁绣眼鸟 *Zosterops erythropleurus* — 红胁绣眼鸟
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 8134. 灰腹绣眼鸟 *Zosterops palpebrosus* — 灰腹绣眼鸟
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ### Timaliidae
 
-#### 8243. 金头穗鹛 *Cyanoderma chrysaeum* — 金头穗鹛
+**8243. 金头穗鹛 *Cyanoderma chrysaeum* — 金头穗鹛**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S290784744)
 
+------------------------------------------------------------------------
 
-**References:**
+**8248. 黑颏穗鹛 *Cyanoderma pyrrhops* — 黑颏穗鹛**
 
+**记录状态：** 确认
 
----
+附照片的论文（董江天和杨晓君，2010）
 
-#### 8248. 黑颏穗鹛 *Cyanoderma pyrrhops* — 黑颏穗鹛
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**8249. 红头穗鹛 *Cyanoderma ruficeps* — 红头穗鹛**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S349852786)
 
-**References:**
+------------------------------------------------------------------------
 
+**8250. 棕喉鹩鹛 *Spelaeornis caudatus* — 棕喉鹩鹛**
 
----
+**记录状态：** 排除
 
-#### 8249. 红头穗鹛 *Cyanoderma ruficeps* — 红头穗鹛
+暂时没有证据支持本种分布于藏南地区之外的西藏
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**8251. 锈喉鹩鹛 *Spelaeornis badeigularis* — 锈喉鹩鹛**
 
+**记录状态：** 确认
 
-**References:**
+[附照片的公民科学记录](https://ebird.org/checklist/S155373524)
 
+------------------------------------------------------------------------
 
----
+**8252. 斑翅鹩鹛 *Spelaeornis troglodytoides* — 斑翅鹩鹛**
 
-#### 8250. 棕喉鹩鹛 *Spelaeornis caudatus* — 棕喉鹩鹛
+**记录状态：** 确认
 
-**Status:** Not assessed
+桑杰达瓦（2025，个人通信）2025年在墨脱县拍到1只
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**8260. 黑冠钩嘴鹛 *Pomatorhinus ferruginosus* — 红嘴钩嘴鹛**
 
-**References:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S79852685)
 
----
+------------------------------------------------------------------------
 
-#### 8251. 锈喉鹩鹛 *Spelaeornis badeigularis* — 锈喉鹩鹛
+**8263. 剑嘴鹛 *Pomatorhinus superciliaris* — 细嘴钩嘴鹛**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+附照片的论文（王宁等，2020；岩道等，2022)
 
+------------------------------------------------------------------------
 
-**References:**
+**8264. 棕颈钩嘴鹛 *Pomatorhinus ruficollis* — 棕颈钩嘴鹛**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://ebird.org/checklist/S290690773)
 
-#### 8252. 斑翅鹩鹛 *Spelaeornis troglodytoides* — 斑翅鹩鹛
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**8266. 灰头钩嘴鹛 *Pomatorhinus schisticeps* — 灰头钩嘴鹛**
 
-**Evidence:**
+**记录状态：** 确认
 
+附照片的论文（林植和何芬奇，2016）
 
-**References:**
+------------------------------------------------------------------------
 
+**8272. 锈脸钩嘴鹛 *Erythrogenys erythrogenys* — 锈脸钩嘴鹛**
 
----
+**记录状态：** 确认
 
-#### 8260. 黑冠钩嘴鹛 *Pomatorhinus ferruginosus* — 红嘴钩嘴鹛
+[附照片的公民科学记录](https://ebird.org/checklist/S245902228)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**8275. 斑胸钩嘴鹛 *Erythrogenys gravivox* — 斑胸钩嘴鹛**
 
+**记录状态：** 确认
 
-**References:**
+[附照片的公民科学记录](https://www.birdreport.cn/home/habitat/page.html?taxon_id=5019&taxon_name=%E6%96%91%E8%83%B8%E9%92%A9%E5%98%B4%E9%B9%9B)
 
+------------------------------------------------------------------------
 
----
+**8281. 黑头穗鹛 *Stachyris nigriceps* — 黑头穗鹛**
 
-#### 8263. 剑嘴鹛 *Pomatorhinus superciliaris* — 细嘴钩嘴鹛
+**记录状态：** 确认
 
-**Status:** Not assessed
+[附照片的公民科学记录](https://ebird.org/checklist/S101764921)
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**8285. 黑胸楔嘴穗鹛 *Stachyris humei* — 黑胸楔嘴穗鹛**
 
-**References:**
+**记录状态：** 确认
 
+附照片的论文（赵超等，2015）
 
----
-
-#### 8264. 棕颈钩嘴鹛 *Pomatorhinus ruficollis* — 棕颈钩嘴鹛
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 8266. 灰头钩嘴鹛 *Pomatorhinus schisticeps* — 灰头钩嘴鹛
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 8272. 锈脸钩嘴鹛 *Erythrogenys erythrogenys* — 锈脸钩嘴鹛
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 8275. 斑胸钩嘴鹛 *Erythrogenys gravivox* — 斑胸钩嘴鹛
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 8281. 黑头穗鹛 *Stachyris nigriceps* — 黑头穗鹛
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 8285. 黑胸楔嘴穗鹛 *Stachyris humei* — 黑胸楔嘴穗鹛
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ### Pellorneidae
 
-#### 8304. 黄喉雀鹛 *Schoeniparus cinereus* — 黄喉雀鹛
+**8304. 黄喉雀鹛 *Schoeniparus cinereus* — 黄喉雀鹛**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S289693474)
 
+------------------------------------------------------------------------
 
-**References:**
+**8305. 栗头雀鹛 *Schoeniparus castaneceps* — 栗头雀鹛**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://ebird.org/checklist/S290260283)
 
-#### 8305. 栗头雀鹛 *Schoeniparus castaneceps* — 栗头雀鹛
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**8320. 棕胸雅鹛 *Pellorneum tickelli* — 棕胸雅鹛**
 
-**Evidence:**
+**记录状态：** 确认
 
+附照片的论文（岩道等，2022）
 
-**References:**
+------------------------------------------------------------------------
 
+**8341. 纹胸鹪鹛 *Napothera epilepidota* — 纹胸鹪鹛**
 
----
+**记录状态：** 未评估
 
-#### 8320. 棕胸雅鹛 *Pellorneum tickelli* — 棕胸雅鹛
+**证据说明：**
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**8342. 长嘴鹩鹛 *Napothera malacoptila* — 长嘴鹩鹛**
 
+**记录状态：** 确认
 
-**References:**
+[附照片的公民科学记录](https://ebird.org/checklist/S50771015)
 
-
----
-
-#### 8341. 纹胸鹪鹛 *Napothera epilepidota* — 纹胸鹪鹛
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 8342. 长嘴鹩鹛 *Napothera malacoptila* — 长嘴鹩鹛
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ### Leiothrichidae
 
-#### 8360. 白眶雀鹛 *Alcippe nipalensis* — 白眶雀鹛
+**8360. 白眶雀鹛 *Alcippe nipalensis* — 白眶雀鹛**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S101826170)
 
+------------------------------------------------------------------------
 
-**References:**
+**8366. 条纹噪鹛 *Grammatoptila striata* — 条纹噪鹛**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://ebird.org/checklist/S101985583)
 
-#### 8366. 条纹噪鹛 *Grammatoptila striata* — 条纹噪鹛
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**8370. 斑胁姬鹛 *Cutia nipalensis* — 斑胁姬鹛**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S101887293)
 
-**References:**
+------------------------------------------------------------------------
 
+**8371. 纯色噪鹛 *Trochalopteron subunicolor* — 纯色噪鹛**
 
----
+**记录状态：** 确认
 
-#### 8370. 斑胁姬鹛 *Cutia nipalensis* — 斑胁姬鹛
+[附照片的公民科学记录](https://ebird.org/checklist/S289652250)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**8373. 蓝翅噪鹛 *Trochalopteron squamatum* — 蓝翅噪鹛**
 
+**记录状态：** 确认
 
-**References:**
+[附照片的公民科学记录](https://www.inaturalist.org/observations/343831904)
 
+------------------------------------------------------------------------
 
----
+**8374. 细纹噪鹛 *Trochalopteron lineatum* — 细纹噪鹛**
 
-#### 8371. 纯色噪鹛 *Trochalopteron subunicolor* — 纯色噪鹛
+**记录状态：** 确认
 
-**Status:** Not assessed
+[附照片的公民科学记录](https://ebird.org/checklist/S154122252)
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**8375. 丽星噪鹛 *Trochalopteron imbricatum* — 丽星噪鹛**
 
-**References:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S85696048)
 
----
+------------------------------------------------------------------------
 
-#### 8373. 蓝翅噪鹛 *Trochalopteron squamatum* — 蓝翅噪鹛
+**8377. 杂色噪鹛 *Trochalopteron variegatum* — 杂色噪鹛**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S154122252)
 
+------------------------------------------------------------------------
 
-**References:**
+**8378. 黑顶噪鹛 *Trochalopteron affine* — 黑顶噪鹛**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://ebird.org/checklist/S41226165)
 
-#### 8374. 细纹噪鹛 *Trochalopteron lineatum* — 细纹噪鹛
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**8380. 灰腹噪鹛 *Trochalopteron henrici* — 灰腹噪鹛**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S101628376)
 
-**References:**
+------------------------------------------------------------------------
 
+**8381. 橙翅噪鹛 *Trochalopteron elliotii* — 橙翅噪鹛**
 
----
+**记录状态：** 确认
 
-#### 8375. 丽星噪鹛 *Trochalopteron imbricatum* — 丽星噪鹛
+[附照片的公民科学记录](https://www.inaturalist.org/observations/11207730)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**8384. 红头噪鹛 *Trochalopteron erythrocephalum* — 红头噪鹛**
 
+**记录状态：** 确认
 
-**References:**
+[附照片的公民科学记录](https://ebird.org/checklist/S102182986)
 
+------------------------------------------------------------------------
 
----
+**8396. 黑顶奇鹛 *Heterophasia capistrata* — 黑顶奇鹛**
 
-#### 8377. 杂色噪鹛 *Trochalopteron variegatum* — 杂色噪鹛
+**记录状态：** 确认
 
-**Status:** Not assessed
+[附照片的公民科学记录](https://ebird.org/checklist/S86324125)
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**8397. 丽色奇鹛 *Heterophasia pulchella* — 丽色奇鹛**
 
-**References:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S210885775)
 
----
+------------------------------------------------------------------------
 
-#### 8378. 黑顶噪鹛 *Trochalopteron affine* — 黑顶噪鹛
+**8401. 纹头斑翅鹛 *Actinodura nipalensis* — 纹头斑翅鹛**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S85696048)
 
+------------------------------------------------------------------------
 
-**References:**
+**8403. 纹胸斑翅鹛 *Actinodura waldeni* — 纹胸斑翅鹛**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://ebird.org/checklist/S50771015)
 
-#### 8380. 灰腹噪鹛 *Trochalopteron henrici* — 灰腹噪鹛
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**8405. 蓝翅希鹛 *Actinodura cyanouroptera* — 蓝翅希鹛**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S287152151)
 
-**References:**
+------------------------------------------------------------------------
 
+**8406. 斑喉希鹛 *Actinodura strigula* — 斑喉希鹛**
 
----
+**记录状态：** 确认
 
-#### 8381. 橙翅噪鹛 *Trochalopteron elliotii* — 橙翅噪鹛
+[附照片的公民科学记录](https://ebird.org/checklist/S290259645)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**8407. 锈额斑翅鹛 *Actinodura egertoni* — 栗额斑翅鹛**
 
+**记录状态：** 确认
 
-**References:**
+[附照片的公民科学记录](https://ebird.org/checklist/S290782010)
 
+------------------------------------------------------------------------
 
----
+**8410. 红嘴相思鸟 *Leiothrix lutea* — 红嘴相思鸟**
 
-#### 8384. 红头噪鹛 *Trochalopteron erythrocephalum* — 红头噪鹛
+**记录状态：** 确认
 
-**Status:** Not assessed
+[附照片的公民科学记录](https://ebird.org/checklist/S228782649)
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**8411. 银耳相思鸟 *Leiothrix argentauris* — 银耳相思鸟**
 
-**References:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://macaulaylibrary.org/asset/549589101)
 
----
+------------------------------------------------------------------------
 
-#### 8396. 黑顶奇鹛 *Heterophasia capistrata* — 黑顶奇鹛
+**8412. 火尾希鹛 *Minla ignotincta* — 火尾希鹛**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S85696048)
 
+------------------------------------------------------------------------
 
-**References:**
+**8413. 栗背奇鹛 *Leioptila annectens* — 栗背奇鹛**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://ebird.org/checklist/S78647760)
 
-#### 8397. 丽色奇鹛 *Heterophasia pulchella* — 丽色奇鹛
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**8414. 黑冠薮鹛 *Liocichla bugunorum* — 黑冠薮鹛**
 
-**Evidence:**
+**记录状态：** 排除
 
+暂时没有证据支持本种分布于藏南地区之外的西藏
 
-**References:**
+------------------------------------------------------------------------
 
+**8417. 灰头薮鹛 *Liocichla phoenicea* — 灰头薮鹛**
 
----
+**记录状态：** 确认
 
-#### 8401. 纹头斑翅鹛 *Actinodura nipalensis* — 纹头斑翅鹛
+[附照片的公民科学记录](https://ebird.org/checklist/S268677816)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**8458. 小黑领噪鹛 *Garrulax monileger* — 小黑领噪鹛**
 
+**记录状态：** 确认
 
-**References:**
+有较多公民科学记录，但均没有照片；本人2024年1月在墨脱县目击约25只
 
+------------------------------------------------------------------------
 
----
+**8461. 白冠噪鹛 *Garrulax leucolophus* — 白冠噪鹛**
 
-#### 8403. 纹胸斑翅鹛 *Actinodura waldeni* — 纹胸斑翅鹛
+**记录状态：** 确认
 
-**Status:** Not assessed
+[附照片的公民科学记录](https://ebird.org/checklist/S211190651)
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**8469. 棕颏噪鹛 *Ianthocincla rufogularis* — 棕颏噪鹛**
 
-**References:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S197197922)
 
----
+------------------------------------------------------------------------
 
-#### 8405. 蓝翅希鹛 *Actinodura cyanouroptera* — 蓝翅希鹛
+**8471. 灰翅噪鹛 *Ianthocincla cineracea* — 灰翅噪鹛**
 
-**Status:** Not assessed
+**记录状态：** 可能
 
-**Evidence:**
+史湘莹等（2023）报告了本种，但没有照片
 
+------------------------------------------------------------------------
 
-**References:**
+**8472. 眼纹噪鹛 *Ianthocincla ocellata* — 眼纹噪鹛**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://ebird.org/checklist/S73904318)
 
-#### 8406. 斑喉希鹛 *Actinodura strigula* — 斑喉希鹛
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**8473. 大噪鹛 *Ianthocincla maxima* — 大噪鹛**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S83122019)
 
-**References:**
+------------------------------------------------------------------------
 
+**8483. 栗颈噪鹛 *Pterorhinus ruficollis* — 栗颈噪鹛**
 
----
+**记录状态：** 确认
 
-#### 8407. 锈额斑翅鹛 *Actinodura egertoni* — 栗额斑翅鹛
+[附照片的公民科学记录](https://ebird.org/checklist/S352623563)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**8486. 白颊噪鹛 *Pterorhinus sannio* — 白颊噪鹛**
 
+**记录状态：** 未评估
 
-**References:**
+**证据说明：**
 
+------------------------------------------------------------------------
 
----
+**8488. 黑领噪鹛 *Pterorhinus pectoralis* — 黑领噪鹛**
 
-#### 8410. 红嘴相思鸟 *Leiothrix lutea* — 红嘴相思鸟
+**记录状态：** 确认
 
-**Status:** Not assessed
+山水自然保护中心2023年12月墨脱县红外相机数据，已核实
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**8491. 矛纹草鹛 *Pterorhinus lanceolatus* — 矛纹草鹛**
 
-**References:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://www.birdreport.cn/home/line/page.html?param=eyJhY3Rpdml0eUlkIjo4MjczNDAsInRzIjoxNzg3MjkxMDE4NDI3fQ==&sign=d41d8cd98f00b204e9800998ecf8427e)
 
----
+------------------------------------------------------------------------
 
-#### 8411. 银耳相思鸟 *Leiothrix argentauris* — 银耳相思鸟
+**8492. 大草鹛 *Pterorhinus waddelli* — 大草鹛**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S41260449)
 
+------------------------------------------------------------------------
 
-**References:**
+**8493. 棕草鹛 *Pterorhinus koslowi* — 棕草鹛**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://ebird.org/checklist/S325042385)
 
-#### 8412. 火尾希鹛 *Minla ignotincta* — 火尾希鹛
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**8494. 白喉噪鹛 *Pterorhinus albogularis* — 白喉噪鹛**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S78646687)
 
-**References:**
+------------------------------------------------------------------------
 
+**8496. 灰胁噪鹛 *Pterorhinus caerulatus* — 灰胁噪鹛**
 
----
+**记录状态：** 确认
 
-#### 8413. 栗背奇鹛 *Leioptila annectens* — 栗背奇鹛
+[附照片的公民科学记录](https://ebird.org/checklist/S289652250)
 
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 8414. 黑冠薮鹛 *Liocichla bugunorum* — 黑冠薮鹛
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 8417. 灰头薮鹛 *Liocichla phoenicea* — 灰头薮鹛
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 8458. 小黑领噪鹛 *Garrulax monileger* — 小黑领噪鹛
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 8461. 白冠噪鹛 *Garrulax leucolophus* — 白冠噪鹛
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 8469. 棕颏噪鹛 *Ianthocincla rufogularis* — 棕颏噪鹛
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 8471. 灰翅噪鹛 *Ianthocincla cineracea* — 灰翅噪鹛
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 8472. 眼纹噪鹛 *Ianthocincla ocellata* — 眼纹噪鹛
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 8473. 大噪鹛 *Ianthocincla maxima* — 大噪鹛
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 8483. 栗颈噪鹛 *Pterorhinus ruficollis* — 栗颈噪鹛
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 8486. 白颊噪鹛 *Pterorhinus sannio* — 白颊噪鹛
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 8488. 黑领噪鹛 *Pterorhinus pectoralis* — 黑领噪鹛
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 8491. 矛纹草鹛 *Pterorhinus lanceolatus* — 矛纹草鹛
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 8492. 大草鹛 *Pterorhinus waddelli* — 大草鹛
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 8493. 棕草鹛 *Pterorhinus koslowi* — 棕草鹛
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 8494. 白喉噪鹛 *Pterorhinus albogularis* — 白喉噪鹛
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 8496. 灰胁噪鹛 *Pterorhinus caerulatus* — 灰胁噪鹛
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ### Bombycillidae
 
-#### 8501. 小太平鸟 *Bombycilla japonica* — 小太平鸟
+**8501. 小太平鸟 *Bombycilla japonica* — 小太平鸟**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S160088157)
 
+------------------------------------------------------------------------
 
-**References:**
+**8502. 太平鸟 *Bombycilla garrulus* — 太平鸟**
 
+**记录状态：** 确认
 
----
+附照片的论文（宋刚和张帅，2023）
 
-#### 8502. 太平鸟 *Bombycilla garrulus* — 太平鸟
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ### Regulidae
 
-#### 8519. 戴菊 *Regulus regulus* — 戴菊
+**8519. 戴菊 *Regulus regulus* — 戴菊**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S311710988)
 
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ### Tichodromidae
 
-#### 8520. 红翅旋壁雀 *Tichodroma muraria* — 红翅旋壁雀
+**8520. 红翅旋壁雀 *Tichodroma muraria* — 红翅旋壁雀**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S225089624)
 
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ### Sittidae
 
-#### 8522. 白脸䴓 *Sitta przewalskii* — 白脸䴓
+**8522. 白脸䴓 *Sitta przewalskii* — 白脸䴓**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S155461679)
 
+------------------------------------------------------------------------
 
-**References:**
+**8525. 丽䴓 *Sitta formosa* — 丽䴓**
 
+**记录状态：** 确认
 
----
+附照片的论文（阙品甲等，2019）
 
-#### 8525. 丽䴓 *Sitta formosa* — 丽䴓
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**8527. 绒额䴓 *Sitta frontalis* — 绒额䴓**
 
-**Evidence:**
+**记录状态：** 可能
 
+黄瀚晨等（2026个人通信）2020年10月在定结县目击1只，但没有照片
 
-**References:**
+------------------------------------------------------------------------
 
+**8533. 滇䴓 *Sitta yunnanensis* — 滇䴓**
 
----
+**记录状态：** 确认
 
-#### 8527. 绒额䴓 *Sitta frontalis* — 绒额䴓
+[附照片的公民科学记录](https://ebird.org/checklist/S251374066)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**8542. 白尾䴓 *Sitta himalayensis* — 白尾䴓**
 
+**记录状态：** 确认
 
-**References:**
+[附照片的公民科学记录](https://ebird.org/checklist/S290259645)
 
+------------------------------------------------------------------------
 
----
+**8545. 栗臀䴓 *Sitta nagaensis* — 栗臀䴓**
 
-#### 8533. 滇䴓 *Sitta yunnanensis* — 滇䴓
+**记录状态：** 确认
 
-**Status:** Not assessed
+[附照片的公民科学记录](https://ebird.org/checklist/S102191638)
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**8549. 栗腹䴓 *Sitta cinnamoventris* — 栗腹䴓**
 
-**References:**
+**记录状态：** 确认
 
+附照片的论文（阙品甲等，2017）
 
----
-
-#### 8542. 白尾䴓 *Sitta himalayensis* — 白尾䴓
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 8545. 栗臀䴓 *Sitta nagaensis* — 栗臀䴓
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 8549. 栗腹䴓 *Sitta cinnamoventris* — 栗腹䴓
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ### Certhiidae
 
-#### 8552. 霍氏旋木雀 *Certhia hodgsoni* — 霍氏旋木雀
+**8552. 霍氏旋木雀 *Certhia hodgsoni* — 霍氏旋木雀**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S101628376)
 
+------------------------------------------------------------------------
 
-**References:**
+**8556. 高山旋木雀 *Certhia himalayana* — 高山旋木雀**
 
+**记录状态：** 确认
 
----
+叶腾（2026，个人通信）2025年11月在墨脱县拍到1只
 
-#### 8556. 高山旋木雀 *Certhia himalayana* — 高山旋木雀
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**8557. 锈红腹旋木雀 *Certhia nipalensis* — 锈红腹旋木雀**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S290259645)
 
-**References:**
+------------------------------------------------------------------------
 
+**8559. 褐喉旋木雀 *Certhia discolor* — 褐喉旋木雀**
 
----
+**记录状态：** 确认
 
-#### 8557. 锈红腹旋木雀 *Certhia nipalensis* — 锈红腹旋木雀
+[附照片的公民科学记录](https://ebird.org/checklist/S95041500)
 
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 8559. 褐喉旋木雀 *Certhia discolor* — 褐喉旋木雀
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ### Troglodytidae
 
-#### 8628. 鹪鹩 *Troglodytes troglodytes* — 鹪鹩
+**8628. 鹪鹩 *Troglodytes troglodytes* — 鹪鹩**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S312867366)
 
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ### Elachuridae
 
-#### 8677. 丽星鹩鹛 *Elachura formosa* — 丽星鹩鹛
+**8677. 丽星鹩鹛 *Elachura formosa* — 丽星鹩鹛**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+阙品甲等（2019）报告了本种，但没有照片或录音，后来有[附照片的公民科学记录](https://ebird.org/checklist/S330890374)
 
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ### Sturnidae
 
-#### 8761. 紫翅椋鸟 *Sturnus vulgaris* — 紫翅椋鸟
+**8761. 紫翅椋鸟 *Sturnus vulgaris* — 紫翅椋鸟**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://www.birdreport.cn/home/record/page.html?param=eyJhY3Rpdml0eUlkIjo2MDA0NzYsInRzIjoxNzg3MjkxOTcyODI2LCJyZXBvcnRJZCI6IjIxMmJjMGU1LWIzOGYtNDRjMS1iOTc3LWE1YzIyYzBjYzNlZiJ9&sign=d41d8cd98f00b204e9800998ecf8427e)
 
+------------------------------------------------------------------------
 
-**References:**
+**8763. 粉红椋鸟 *Pastor roseus* — 粉红椋鸟**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://www.birdreport.cn/home/record/page.html?param=eyJhY3Rpdml0eUlkIjoyMTc2ODYxLCJ0cyI6MTc4NzI5MTk5NjMxMiwicmVwb3J0SWQiOiIzOWM5NDdmMy1kMmRjLTQwYjctYjc4MC02NTI0MmM2OGI1YzkifQ==&sign=d41d8cd98f00b204e9800998ecf8427e)
 
-#### 8763. 粉红椋鸟 *Pastor roseus* — 粉红椋鸟
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**8764. 北椋鸟 *Agropsar sturninus* — 北椋鸟**
 
-**Evidence:**
+**记录状态：** 确认
 
+附照片的论文（范丽卿等，2021）
 
-**References:**
+------------------------------------------------------------------------
 
+**8775. 黑冠椋鸟 *Sturnia pagodarum* — 黑冠椋鸟**
 
----
+**记录状态：** 确认
 
-#### 8764. 北椋鸟 *Agropsar sturninus* — 北椋鸟
+[附照片的公民科学记录](https://ebird.org/checklist/S327588857)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**8776. 灰头椋鸟 *Sturnia malabarica* — 灰头椋鸟**
 
+**记录状态：** 确认
 
-**References:**
+[附照片的公民科学记录](https://www.birdreport.cn/home/record/page.html?param=eyJhY3Rpdml0eUlkIjoyMTA4NDE5LCJ0cyI6MTc4NzI5MjA2Mjk2NywicmVwb3J0SWQiOiIzYjVkOGYyMC0zZGFmLTQ5ODEtOGRhYy1iNjljNjdiYjUxMTUifQ==&sign=d41d8cd98f00b204e9800998ecf8427e)
 
+------------------------------------------------------------------------
 
----
+**8778. 丝光椋鸟 *Spodiopsar sericeus* — 丝光椋鸟**
 
-#### 8775. 黑冠椋鸟 *Sturnia pagodarum* — 黑冠椋鸟
+**记录状态：** 确认
 
-**Status:** Not assessed
+[附照片的公民科学记录](https://www.birdreport.cn/home/record/page.html?param=eyJhY3Rpdml0eUlkIjoxOTgwMDk3LCJ0cyI6MTc4NzI5NDQ1ODMzOSwicmVwb3J0SWQiOiIzNDM5YWI2Yy0xZDhmLTRiZWYtODk4OC0wYzZkMTMzMTYwZmMifQ==&sign=d41d8cd98f00b204e9800998ecf8427e)
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**8779. 灰椋鸟 *Spodiopsar cineraceus* — 灰椋鸟**
 
-**References:**
+**记录状态：** 确认
 
+附照片的论文（杨乐等，2018）
 
----
+------------------------------------------------------------------------
 
-#### 8776. 灰头椋鸟 *Sturnia malabarica* — 灰头椋鸟
+**8781. 家八哥 *Acridotheres tristis* — 家八哥**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+附照片的论文（刘锋等，2020）
 
+------------------------------------------------------------------------
 
-**References:**
+**8786. 林八哥 *Acridotheres grandis* — 林八哥**
 
+**记录状态：** 确认
 
----
+附照片的论文（罗伟雄等，2016）
 
-#### 8778. 丝光椋鸟 *Spodiopsar sericeus* — 丝光椋鸟
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**8807. 斑翅椋鸟 *Saroglossa spilopterus* — 斑翅椋鸟**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S337551850)
 
-**References:**
-
-
----
-
-#### 8779. 灰椋鸟 *Spodiopsar cineraceus* — 灰椋鸟
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 8781. 家八哥 *Acridotheres tristis* — 家八哥
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 8786. 林八哥 *Acridotheres grandis* — 林八哥
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 8807. 斑翅椋鸟 *Saroglossa spilopterus* — 斑翅椋鸟
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ### Cinclidae
 
-#### 8838. 河乌 *Cinclus cinclus* — 河乌
+**8838. 河乌 *Cinclus cinclus* — 河乌**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S251671432)
 
+------------------------------------------------------------------------
 
-**References:**
+**8839. 褐河乌 *Cinclus pallasii* — 褐河乌**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://www.inaturalist.org/observations/323853462)
 
-#### 8839. 褐河乌 *Cinclus pallasii* — 褐河乌
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ### Turdidae
 
-#### 8843. 蓝大翅鸲 *Grandala coelicolor* — 蓝大翅鸲
+**8843. 蓝大翅鸲 *Grandala coelicolor* — 蓝大翅鸲**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S297639097)
 
+------------------------------------------------------------------------
 
-**References:**
+**8865. 长尾地鸫 *Zoothera dixoni* — 长尾地鸫**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://ebird.org/checklist/S78126691)
 
-#### 8865. 长尾地鸫 *Zoothera dixoni* — 长尾地鸫
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**8866. 淡背地鸫 *Zoothera mollissima* — 淡背地鸫**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S309673894)
 
-**References:**
+------------------------------------------------------------------------
 
+**8867. 喜山淡背地鸫 *Zoothera salimalii* — 喜山淡背地鸫**
 
----
+**记录状态：** 确认
 
-#### 8866. 淡背地鸫 *Zoothera mollissima* — 淡背地鸫
+Alström等（2016）报告了来自康马县的本种样本
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**8871. 大长嘴地鸫 *Zoothera monticola* — 大长嘴地鸫**
 
+**记录状态：** 确认
 
-**References:**
+附图的论文（王宁等，2020）
 
+------------------------------------------------------------------------
 
----
+**8874. 虎斑地鸫 *Zoothera aurea* — 虎斑地鸫**
 
-#### 8867. 喜山淡背地鸫 *Zoothera salimalii* — 喜山淡背地鸫
+**记录状态：** 未评估
 
-**Status:** Not assessed
+**证据说明：**
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**8875. 小虎斑地鸫 *Zoothera dauma* — 小虎斑地鸫**
 
-**References:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://www.birdreport.cn/home/record/page.html?param=eyJhY3Rpdml0eUlkIjoxNDc5MzAwLCJ0cyI6MTc4NzI5NDQ5NDQ0MCwicmVwb3J0SWQiOiJiMTFjNjNmYS02ZDU1LTQyNTEtYmNjNC00N2E2NTBjMWYzZGIifQ==&sign=d41d8cd98f00b204e9800998ecf8427e)
 
----
+------------------------------------------------------------------------
 
-#### 8871. 大长嘴地鸫 *Zoothera monticola* — 大长嘴地鸫
+**8888. 紫宽嘴鸫 *Cochoa purpurea* — 紫宽嘴鸫**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S346892721)
 
+------------------------------------------------------------------------
 
-**References:**
+**8889. 绿宽嘴鸫 *Cochoa viridis* — 绿宽嘴鸫**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://ebird.org/checklist/S70147875)
 
-#### 8874. 虎斑地鸫 *Zoothera aurea* — 虎斑地鸫
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**8931. 橙头地鸫 *Geokichla citrina* — 橙头地鸫**
 
-**Evidence:**
+**记录状态：** 可能
 
+吴建普等（2016）报告了该物种，但没有照片
 
-**References:**
+------------------------------------------------------------------------
 
+**8912. 杂色地鸫 *Geokichla wardii* —**
 
----
+**记录状态：** 确认
 
-#### 8875. 小虎斑地鸫 *Zoothera dauma* — 小虎斑地鸫
+附照片的论文（廖之锴等，2024）
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**8932. 宝兴歌鸫 *Turdus mupinensis* — 宝兴歌鸫**
 
+**记录状态：** 确认
 
-**References:**
+附照片的论文（朱高凡等，2023）
 
+------------------------------------------------------------------------
 
----
+**8954. 棕背黑头鸫 *Turdus kessleri* — 棕背黑头鸫**
 
-#### 8888. 紫宽嘴鸫 *Cochoa purpurea* — 紫宽嘴鸫
+**记录状态：** 确认
 
-**Status:** Not assessed
+[附照片的公民科学记录](https://ebird.org/checklist/S252531244)
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**8955. 藏乌鸫 *Turdus maximus* — 藏乌鸫**
 
-**References:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S65142666)
 
----
+------------------------------------------------------------------------
 
-#### 8889. 绿宽嘴鸫 *Cochoa viridis* — 绿宽嘴鸫
+**8957. 白颈鸫 *Turdus albocinctus* — 白颈鸫**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S289478605)
 
+------------------------------------------------------------------------
 
-**References:**
+**8958. 灰头鸫 *Turdus rubrocanus* — 灰头鸫**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://ebird.org/checklist/S252531244)
 
-#### 8931. 橙头地鸫 *Geokichla citrina* — 橙头地鸫
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**8960. 赤颈鸫 *Turdus ruficollis* — 赤颈鸫**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S230323700)
 
-**References:**
+------------------------------------------------------------------------
 
+**8961. 黑喉鸫 *Turdus atrogularis* — 黑喉鸫**
 
----
+**记录状态：** 确认
 
-#### 8912. 杂色地鸫 *Geokichla wardii*
+[附照片的公民科学记录](https://ebird.org/checklist/S230323700)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**8962. 红尾斑鸫 *Turdus naumanni* — 红尾斑鸫**
 
+**记录状态：** 确认
 
-**References:**
+[附照片的公民科学记录](https://ebird.org/checklist/S211313896)
 
+------------------------------------------------------------------------
 
----
+**8963. 斑鸫 *Turdus eunomus* — 斑鸫**
 
-#### 8932. 宝兴歌鸫 *Turdus mupinensis* — 宝兴歌鸫
+**记录状态：** 确认
 
-**Status:** Not assessed
+[附照片的公民科学记录](https://ebird.org/checklist/S160167075)，但该个体具有一些中间型的特征
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**8965. 灰翅鸫 *Turdus boulboul* — 灰翅鸫**
 
-**References:**
+**记录状态：** 确认
 
+附照片的论文（王宁等，2020）
 
----
+------------------------------------------------------------------------
 
-#### 8954. 棕背黑头鸫 *Turdus kessleri* — 棕背黑头鸫
+**8968. 灰背鸫 *Turdus hortulorum* — 灰背鸫**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://www.birdreport.cn/home/record/page.html?param=eyJhY3Rpdml0eUlkIjoxNjUzMDExLCJ0cyI6MTc4NzI5NTEyODMyNiwicmVwb3J0SWQiOiIzNTFhMTU2NC04NTdhLTRkZGQtOWIyOS05MmFlNzI3MDUwNWEifQ==&sign=d41d8cd98f00b204e9800998ecf8427e)，同期同地点[被报告为黑胸鸫的](https://www.birdreport.cn/home/record/page.html?param=eyJhY3Rpdml0eUlkIjoxNzExNDQ1LCJ0cyI6MTc4NzI5NTM2MTk2MiwicmVwb3J0SWQiOiJlMDIyZmVjNi1mMzIyLTRmNTAtOTliNC02YWEwMGZhZGRjNmUifQ==&sign=d41d8cd98f00b204e9800998ecf8427e)应为同一个体，注意到该个体初级覆羽为稚羽，判断其为第一年雄鸟，因而胸腹部具有纵纹和点斑的特征并不能判断其为黑胸鸫或中间型个体
 
+------------------------------------------------------------------------
 
-**References:**
+**8969. 蒂氏鸫 *Turdus unicolor* — 蒂氏鸫**
 
+**记录状态：** 确认
 
----
+Yu（2008）报告了本种，但照片为黑白，后来有[附照片的公民科学记录](https://ebird.org/checklist/S230446994)
 
-#### 8955. 藏乌鸫 *Turdus maximus* — 藏
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**8970. 黑胸鸫 *Turdus dissimilis* — 黑胸鸫**
 
-**Evidence:**
+**记录状态：** 未评估
 
+**证据说明：**
 
-**References:**
+------------------------------------------------------------------------
 
+**8973. 白眉鸫 *Turdus obscurus* — 白眉鸫**
 
----
+**记录状态：** 确认
 
-#### 8957. 白颈鸫 *Turdus albocinctus* — 白颈鸫
+[附照片的公民科学记录](https://ebird.org/checklist/S211313896)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**8974. 白腹鸫 *Turdus pallidus* — 白腹鸫**
 
+**记录状态：** 存疑
 
-**References:**
+中国科学院青藏高原综合科学考察队（1983）采集了本种的标本，但暂未找到标本照片，且标本采自日土和藏北，时间均为8月，明显与现有认知不符
 
-
----
-
-#### 8958. 灰头鸫 *Turdus rubrocanus* — 灰头鸫
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 8960. 赤颈鸫 *Turdus ruficollis* — 赤颈鸫
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 8961. 黑喉鸫 *Turdus atrogularis* — 黑喉鸫
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 8962. 红尾斑鸫 *Turdus naumanni* — 红尾斑鸫
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 8963. 斑鸫 *Turdus eunomus* — 斑鸫
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 8965. 灰翅鸫 *Turdus boulboul* — 灰翅鸫
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 8968. 灰背鸫 *Turdus hortulorum* — 灰背鸫
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 8969. 蒂氏鸫 *Turdus unicolor* — 蒂氏鸫
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 8970. 黑胸鸫 *Turdus dissimilis* — 黑胸鸫
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 8973. 白眉鸫 *Turdus obscurus* — 白眉鸫
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 8974. 白腹鸫 *Turdus pallidus* — 白腹鸫
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ### Muscicapidae
 
-#### 9050. 鹊鸲 *Copsychus saularis* — 鹊鸲
+**9050. 鹊鸲 *Copsychus saularis* — 鹊鸲**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S222812476)
 
+------------------------------------------------------------------------
 
-**References:**
+**9055. 白腰鹊鸲 *Copsychus malabaricus* — 白腰鹊鸲**
 
+**记录状态：** 未评估
 
----
+**证据说明：**
 
-#### 9055. 白腰鹊鸲 *Copsychus malabaricus* — 白腰鹊鸲
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**9094. 棕尾褐鹟 *Muscicapa ferruginea* — 棕尾褐鹟**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S245822156)
 
-**References:**
+------------------------------------------------------------------------
 
+**9095. 乌鹟 *Muscicapa sibirica* — 乌鹟**
 
----
+**记录状态：** 确认
 
-#### 9094. 棕尾褐鹟 *Muscicapa ferruginea* — 棕尾褐鹟
+[附照片的公民科学记录](https://ebird.org/checklist/S361873898)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**9096. 北灰鹟 *Muscicapa dauurica* — 北灰鹟**
 
+**记录状态：** 未评估
 
-**References:**
+**证据说明：**
 
+------------------------------------------------------------------------
 
----
+**9099. 褐胸鹟 *Muscicapa muttui* — 褐胸鹟**
 
-#### 9095. 乌鹟 *Muscicapa sibirica* — 乌鹟
+**记录状态：** 确认
 
-**Status:** Not assessed
+[附照片的公民科学记录](https://ebird.org/checklist/S229171217)
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**9105. 斑鹟 *Muscicapa striata* — 斑鹟**
 
-**References:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S287020715)
 
----
+------------------------------------------------------------------------
 
-#### 9096. 北灰鹟 *Muscicapa dauurica* — 北灰鹟
+**9112. 大仙鹟 *Niltava grandis* — 大仙鹟**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S309673894)
 
+------------------------------------------------------------------------
 
-**References:**
+**9113. 小仙鹟 *Niltava macgrigoriae* — 小仙鹟**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://ebird.org/checklist/S298188924)
 
-#### 9099. 褐胸鹟 *Muscicapa muttui* — 褐胸鹟
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**9115. 棕腹仙鹟 *Niltava sundara* — 棕腹仙鹟**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S95132237)
 
-**References:**
+------------------------------------------------------------------------
 
+**9117. 棕腹蓝仙鹟 *Niltava oatesi* — 棕腹蓝仙鹟**
 
----
+**记录状态：** 确认
 
-#### 9105. 斑鹟 *Muscicapa striata* — 斑鹟
+[附照片和录音的公民科学记录](https://ebird.org/checklist/S349852786)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**9119. 琉璃蓝鹟 *Cyanoptila cumatilis* — 白腹暗蓝鹟**
 
+**记录状态：** 未评估
 
-**References:**
+**证据说明：**
 
+------------------------------------------------------------------------
 
----
+**9129. 铜蓝鹟 *Eumyias thalassinus* — 铜蓝鹟**
 
-#### 9112. 大仙鹟 *Niltava grandis* — 大仙鹟
+**记录状态：** 确认
 
-**Status:** Not assessed
+[附照片的公民科学记录](https://ebird.org/checklist/S358077943)
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**9133. 白喉姬鹟 *Anthipes monileger* — 白喉姬鹟**
 
-**References:**
+**记录状态：** 确认
 
+附照片的论文（岩道等，2022）
 
----
+------------------------------------------------------------------------
 
-#### 9113. 小仙鹟 *Niltava macgrigoriae* — 小仙鹟
+**9139. 灰颊仙鹟 *Cyornis poliogenys* — 灰颊仙鹟**
 
-**Status:** Not assessed
+**记录状态：** 未评估
 
-**Evidence:**
+**证据说明：**
 
+------------------------------------------------------------------------
 
-**References:**
+**9140. 纯蓝仙鹟 *Cyornis unicolor* — 纯蓝仙鹟**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://ebird.org/checklist/S348647444)
 
-#### 9115. 棕腹仙鹟 *Niltava sundara* — 棕腹仙鹟
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**9141. 蓝喉仙鹟 *Cyornis rubeculoides* — 蓝喉仙鹟**
 
-**Evidence:**
+**记录状态：** 确认
 
+Ng等（2023）报告了来自墨脱县的本种样本
 
-**References:**
+------------------------------------------------------------------------
 
+**9143. 大蓝仙鹟 *Cyornis magnirostris* —**
 
----
+**记录状态：** 确认
 
-#### 9117. 棕腹蓝仙鹟 *Niltava oatesi* — 棕腹蓝仙鹟
+附照片的论文（岩道等，2022）
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**9208. 白腹短翅鸲 *Luscinia phaenicuroides* — 白腹短翅鸲**
 
+**记录状态：** 确认
 
-**References:**
+[附照片的公民科学记录](https://ebird.org/checklist/S197095574)
 
+------------------------------------------------------------------------
 
----
+**9209. 蓝喉歌鸲 *Luscinia svecica* — 蓝喉歌鸲**
 
-#### 9119. 琉璃蓝鹟 *Cyanoptila cumatilis* — 白腹暗蓝鹟
+**记录状态：** 确认
 
-**Status:** Not assessed
+[附照片的公民科学记录](https://ebird.org/checklist/S73904110)
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**9210. 金胸歌鸲 *Calliope pectardens* — 金胸歌鸲**
 
-**References:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S359420555)
 
----
+------------------------------------------------------------------------
 
-#### 9129. 铜蓝鹟 *Eumyias thalassinus* — 铜蓝鹟
+**9212. 红喉歌鸲 *Calliope calliope* — 红喉歌鸲**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S197700324)
 
+------------------------------------------------------------------------
 
-**References:**
+**9213. 黑胸歌鸲 *Calliope pectoralis* — 黑胸歌鸲**
 
+**记录状态：** 确认
 
----
+“十六”等（2026，个人通信）2026年5月在吉隆县拍到1只雄鸟
 
-#### 9133. 白喉姬鹟 *Anthipes monileger* — 白喉姬鹟
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**9214. 白须黑胸歌鸲 *Calliope tschebaiewi* — 白须黑胸歌鸲**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S252353471)
 
-**References:**
+------------------------------------------------------------------------
 
+**9215. 白尾蓝地鸲 *Myiomela leucura* — 白尾蓝地鸲**
 
----
+**记录状态：** 确认
 
-#### 9139. 灰颊仙鹟 *Cyornis poliogenys* — 灰颊仙鹟
+[附照片的公民科学记录](https://ebird.org/checklist/S227684534)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**9218. 小燕尾 *Enicurus scouleri* — 小燕尾**
 
+**记录状态：** 确认
 
-**References:**
+[附照片的公民科学记录](https://ebird.org/checklist/S289836930)
 
+------------------------------------------------------------------------
 
----
+**9219. 白冠燕尾 *Enicurus leschenaulti* — 白额燕尾**
 
-#### 9140. 纯蓝仙鹟 *Cyornis unicolor* — 纯蓝仙鹟
+**记录状态：** 确认
 
-**Status:** Not assessed
+有较多公民科学记录，但均没有照片；本人2025年1月在墨脱县目击1只
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**9221. 斑背燕尾 *Enicurus maculatus* — 斑背燕尾**
 
-**References:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S298590798)
 
----
+------------------------------------------------------------------------
 
-#### 9141. 蓝喉仙鹟 *Cyornis rubeculoides* — 蓝喉仙鹟
+**9224. 黑背燕尾 *Enicurus immaculatus* — 黑背燕尾**
 
-**Status:** Not assessed
+**记录状态：** 未评估
 
-**Evidence:**
+**证据说明：**
 
+------------------------------------------------------------------------
 
-**References:**
+**9225. 灰背燕尾 *Enicurus schistaceus* — 灰背燕尾**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://ebird.org/checklist/S224231605)
 
-#### 9143. 大蓝仙鹟 *Cyornis magnirostris*
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**9235. 紫啸鸫 *Myophonus caeruleus* — 紫啸鸫**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S154122252)
 
-**References:**
+------------------------------------------------------------------------
 
+**9242. 栗腹歌鸲 *Larvivora brunnea* — 栗腹歌鸲**
 
----
+**记录状态：** 确认
 
-#### 9208. 白腹短翅鸲 *Luscinia phaenicuroides* — 白腹短翅鸲
+[附照片的公民科学记录](https://ebird.org/checklist/S52130975)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**9243. 蓝歌鸲 *Larvivora cyane* — 蓝歌鸲**
 
+**记录状态：** 未评估
 
-**References:**
+**证据说明：**
 
+------------------------------------------------------------------------
 
----
+**9248. 红尾歌鸲 *Larvivora sibilans* — 红尾歌鸲**
 
-#### 9209. 蓝喉歌鸲 *Luscinia svecica* — 蓝喉歌鸲
+**记录状态：** 未评估
 
-**Status:** Not assessed
+**证据说明：**
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**9250. 锈腹短翅鸫 *Brachypteryx hyperythra* — 锈腹短翅鸫**
 
-**References:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S227684534)
 
----
+------------------------------------------------------------------------
 
-#### 9210. 金胸歌鸲 *Calliope pectardens* — 金胸歌鸲
+**9251. 白喉短翅鸫 *Brachypteryx leucophris* — 白喉短翅鸫**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://www.birdreport.cn/home/record/page.html?param=eyJhY3Rpdml0eUlkIjo4Mzc4NzEsInRzIjoxNzg3Mjk4NTU3ODQ5LCJyZXBvcnRJZCI6ImJlOTg0ODE3LWEzYWYtNDU4My05NTdlLTZmNDViZDdiMWUxMSJ9&sign=d41d8cd98f00b204e9800998ecf8427e)
 
+------------------------------------------------------------------------
 
-**References:**
+**9252. 喜山短翅鸫 *Brachypteryx cruralis* — 喜山蓝短翅鸫**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://ebird.org/checklist/S276991177)
 
-#### 9212. 红喉歌鸲 *Calliope calliope* — 红喉歌鸲
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**9265. 锈胸蓝姬鹟 *Ficedula erithacus* — 锈胸蓝姬鹟**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S352565663)
 
-**References:**
+------------------------------------------------------------------------
 
+**9266. 棕胸蓝姬鹟 *Ficedula hyperythra* — 棕胸蓝姬鹟**
 
----
+**记录状态：** 确认
 
-#### 9213. 黑胸歌鸲 *Calliope pectoralis* — 黑胸歌鸲
+[附照片的公民科学记录](https://ebird.org/checklist/S95041500)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**9267. 灰蓝姬鹟 *Ficedula tricolor* — 灰蓝姬鹟**
 
+**记录状态：** 确认
 
-**References:**
+[附照片的公民科学记录](https://ebird.org/checklist/S95280164)
 
+------------------------------------------------------------------------
 
----
+**9269. 侏蓝姬鹟 *Ficedula hodgsoni* — 侏蓝姬鹟**
 
-#### 9214. 白须黑胸歌鸲 *Calliope tschebaiewi* — 白须黑胸歌鸲
+**记录状态：** 确认
 
-**Status:** Not assessed
+[附照片的公民科学记录](https://ebird.org/checklist/S227796105)
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**9270. 橙胸姬鹟 *Ficedula strophiata* — 橙胸姬鹟**
 
-**References:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S227698572)
 
----
+------------------------------------------------------------------------
 
-#### 9215. 白尾蓝地鸲 *Myiomela leucura* — 白尾蓝地鸲
+**9271. 玉头姬鹟 *Ficedula sapphira* — 玉头姬鹟**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S95041500)
 
+------------------------------------------------------------------------
 
-**References:**
+**9272. 白眉蓝姬鹟 *Ficedula superciliaris* — 白眉蓝姬鹟**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://ebird.org/checklist/S86324125)
 
-#### 9218. 小燕尾 *Enicurus scouleri* — 小燕尾
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**9273. 小斑姬鹟 *Ficedula westermanni* — 小斑姬鹟**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S95041500)
 
-**References:**
+------------------------------------------------------------------------
 
+**9277. 红喉姬鹟 *Ficedula albicilla* — 红喉姬鹟**
 
----
+**记录状态：** 确认
 
-#### 9219. 白冠燕尾 *Enicurus leschenaulti* — 白额燕尾
+阙品甲等（2017）报告了本种，但没有照片；后来有[附照片的公民科学记录](https://ebird.org/checklist/S334334999)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**9295. 红胁蓝尾鸲 *Tarsiger cyanurus* — 红胁蓝尾鸲**
 
+**记录状态：** 未评估
 
-**References:**
+**证据说明：**
 
+------------------------------------------------------------------------
 
----
+**9297. 蓝眉林鸲 *Tarsiger rufilatus* — 蓝眉林鸲**
 
-#### 9221. 斑背燕尾 *Enicurus maculatus* — 斑背燕尾
+**记录状态：** 确认
 
-**Status:** Not assessed
+[附照片的公民科学记录](https://ebird.org/checklist/S253869931)
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**9298. 棕腹林鸲 *Tarsiger hyperythrus* — 棕腹林鸲**
 
-**References:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S101985583)
 
----
+------------------------------------------------------------------------
 
-#### 9224. 黑背燕尾 *Enicurus immaculatus* — 黑背燕尾
+**9299. 白眉林鸲 *Tarsiger indicus* — 白眉林鸲**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S289652250)
 
+------------------------------------------------------------------------
 
-**References:**
+**9301. 金色林鸲 *Tarsiger chrysaeus* — 金色林鸲**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://ebird.org/checklist/S355226235)
 
-#### 9225. 灰背燕尾 *Enicurus schistaceus* — 灰背燕尾
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**9303. 栗背短翅鸫 *Heteroxenicus stellatus* — 栗背短翅鸫**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S353050251)
 
-**References:**
+------------------------------------------------------------------------
 
+**9306. 蓝额红尾鸲 *Phoenicurus frontalis* — 蓝额红尾鸲**
 
----
+**记录状态：** 确认
 
-#### 9235. 紫啸鸫 *Myophonus caeruleus* — 紫啸鸫
+[附照片的公民科学记录](https://ebird.org/checklist/S247168234)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**9307. 蓝头红尾鸲 *Phoenicurus coeruleocephala* — 蓝头红尾鸲**
 
+**记录状态：** 确认
 
-**References:**
+[附照片的公民科学记录](https://ebird.org/checklist/S50939287)
 
+------------------------------------------------------------------------
 
----
+**9308. 白喉红尾鸲 *Phoenicurus schisticeps* — 白喉红尾鸲**
 
-#### 9242. 栗腹歌鸲 *Larvivora brunnea* — 栗腹歌鸲
+**记录状态：** 确认
 
-**Status:** Not assessed
+[附照片的公民科学记录](https://ebird.org/checklist/S101628376)
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**9309. 白顶溪鸲 *Phoenicurus leucocephalus* — 白顶溪鸲**
 
-**References:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S251676421)
 
----
+------------------------------------------------------------------------
 
-#### 9243. 蓝歌鸲 *Larvivora cyane* — 蓝歌鸲
+**9311. 红尾水鸲 *Phoenicurus fuliginosus* — 红尾水鸲**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S78814689)
 
+------------------------------------------------------------------------
 
-**References:**
+**9312. 北红尾鸲 *Phoenicurus auroreus* — 北红尾鸲**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://ebird.org/checklist/S224489071)
 
-#### 9248. 红尾歌鸲 *Larvivora sibilans* — 红尾歌鸲
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**9313. 黑喉红尾鸲 *Phoenicurus hodgsoni* — 黑喉红尾鸲**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S309217090)
 
-**References:**
+------------------------------------------------------------------------
 
+**9314. 红腹红尾鸲 *Phoenicurus erythrogastrus* — 红腹红尾鸲**
 
----
+**记录状态：** 确认
 
-#### 9250. 锈腹短翅鸫 *Brachypteryx hyperythra* — 锈腹短翅鸫
+[附照片的公民科学记录](https://ebird.org/checklist/S50987111)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**9315. 赭红尾鸲 *Phoenicurus ochruros* — 赭红尾鸲**
 
+**记录状态：** 确认
 
-**References:**
+[附照片的公民科学记录](https://ebird.org/checklist/S323248611)
 
+------------------------------------------------------------------------
 
----
+**9317. 欧亚红尾鸲 *Phoenicurus phoenicurus* — 欧亚红尾鸲**
 
-#### 9251. 白喉短翅鸫 *Brachypteryx leucophris* — 白喉短翅鸫
+**记录状态：** 未评估
 
-**Status:** Not assessed
+**证据说明：**
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**9318. 蓝头矶鸫 *Monticola cinclorhyncha* — 蓝头矶鸫**
 
-**References:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S337734595)
 
----
+------------------------------------------------------------------------
 
-#### 9252. 喜山短翅鸫 *Brachypteryx cruralis* — 喜山蓝短翅鸫
+**9319. 栗腹矶鸫 *Monticola rufiventris* — 栗腹矶鸫**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S302570797)
 
+------------------------------------------------------------------------
 
-**References:**
+**9327. 白背矶鸫 *Monticola saxatilis* — 白背矶鸫**
 
+**记录状态：** 可能
 
----
+中国科学院青藏高原综合科学考察队（1983）采集了本种的标本，但暂未找到标本照片
 
-#### 9265. 锈胸蓝姬鹟 *Ficedula erithacus* — 锈胸蓝姬鹟
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**9328. 蓝矶鸫 *Monticola solitarius* — 蓝矶鸫**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S344316216)
 
-**References:**
+------------------------------------------------------------------------
 
+**9333. 灰林䳭 *Saxicola ferreus* — 灰林䳭**
 
----
+**记录状态：** 确认
 
-#### 9266. 棕胸蓝姬鹟 *Ficedula hyperythra* — 棕胸蓝姬鹟
+[附照片的公民科学记录](https://ebird.org/checklist/S230422842)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**9337. 白斑黑石䳭 *Saxicola caprata* — 白斑黑石䳭**
 
+**记录状态：** 未评估
 
-**References:**
+**证据说明：**
 
+------------------------------------------------------------------------
 
----
+**9338. 白喉石䳭 *Saxicola insignis* — 白喉石䳭**
 
-#### 9267. 灰蓝姬鹟 *Ficedula tricolor* — 灰蓝姬鹟
+**记录状态：** 确认
 
-**Status:** Not assessed
+[附照片的公民科学记录](https://www.birdreport.cn/home/record/page.html?param=eyJhY3Rpdml0eUlkIjoyMDA0MjI1LCJ0cyI6MTc4NzI5OTI2NTQ2MSwicmVwb3J0SWQiOiIzY2M5ZGE4OS0yYzJlLTRmMWItYmVhMy0wYzFhZDE2MDcxMDAifQ==&sign=d41d8cd98f00b204e9800998ecf8427e)
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**9340. 黑喉石䳭 *Saxicola maurus* — 黑喉石䳭**
 
-**References:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S85696048)
 
----
+------------------------------------------------------------------------
 
-#### 9269. 侏蓝姬鹟 *Ficedula hodgsoni* — 侏蓝姬鹟
+**9359. 漠䳭 *Oenanthe deserti* — 漠䳭**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S230450664)
 
+------------------------------------------------------------------------
 
-**References:**
+**9361. 白顶䳭 *Oenanthe pleschanka* — 白顶䳭**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://www.birdreport.cn/home/record/page.html?param=eyJhY3Rpdml0eUlkIjoxNDk4MjU5LCJ0cyI6MTc4NzI5OTM0Mzk4MSwicmVwb3J0SWQiOiJiN2IxNDZiYS02MmMzLTQ4NTktYTI3Ny0wZTA4MjQzY2EyZjEifQ==&sign=d41d8cd98f00b204e9800998ecf8427e)
 
-#### 9270. 橙胸姬鹟 *Ficedula strophiata* — 橙胸姬鹟
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**9369. 沙䳭 *Oenanthe isabellina* — 沙䳭**
 
-**Evidence:**
+**记录状态：** 未评估
 
+**证据说明：**
 
-**References:**
-
-
----
-
-#### 9271. 玉头姬鹟 *Ficedula sapphira* — 玉头姬鹟
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 9272. 白眉蓝姬鹟 *Ficedula superciliaris* — 白眉蓝姬鹟
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 9273. 小斑姬鹟 *Ficedula westermanni* — 小斑姬鹟
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 9277. 红喉姬鹟 *Ficedula albicilla* — 红喉姬鹟
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 9295. 红胁蓝尾鸲 *Tarsiger cyanurus* — 红胁蓝尾鸲
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 9297. 蓝眉林鸲 *Tarsiger rufilatus* — 蓝眉林鸲
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 9298. 棕腹林鸲 *Tarsiger hyperythrus* — 棕腹林鸲
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 9299. 白眉林鸲 *Tarsiger indicus* — 白眉林鸲
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 9301. 金色林鸲 *Tarsiger chrysaeus* — 金色林鸲
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 9303. 栗背短翅鸫 *Heteroxenicus stellatus* — 栗背短翅鸫
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 9306. 蓝额红尾鸲 *Phoenicurus frontalis* — 蓝额红尾鸲
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 9307. 蓝头红尾鸲 *Phoenicurus coeruleocephala* — 蓝头红尾鸲
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 9308. 白喉红尾鸲 *Phoenicurus schisticeps* — 白喉红尾鸲
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 9309. 白顶溪鸲 *Phoenicurus leucocephalus* — 白顶溪鸲
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 9311. 红尾水鸲 *Phoenicurus fuliginosus* — 红尾水鸲
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 9312. 北红尾鸲 *Phoenicurus auroreus* — 北红尾鸲
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 9313. 黑喉红尾鸲 *Phoenicurus hodgsoni* — 黑喉红尾鸲
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 9314. 红腹红尾鸲 *Phoenicurus erythrogastrus* — 红腹红尾鸲
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 9315. 赭红尾鸲 *Phoenicurus ochruros* — 赭红尾鸲
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 9317. 欧亚红尾鸲 *Phoenicurus phoenicurus* — 欧亚红尾鸲
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 9318. 蓝头矶鸫 *Monticola cinclorhyncha* — 蓝头矶鸫
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 9319. 栗腹矶鸫 *Monticola rufiventris* — 栗腹矶鸫
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 9327. 白背矶鸫 *Monticola saxatilis* — 白背矶鸫
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 9328. 蓝矶鸫 *Monticola solitarius* — 蓝矶鸫
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 9333. 灰林䳭 *Saxicola ferreus* — 灰林䳭
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 9337. 白斑黑石䳭 *Saxicola caprata* — 白斑黑石䳭
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 9338. 白喉石䳭 *Saxicola insignis* — 白喉石䳭
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 9340. 黑喉石䳭 *Saxicola maurus* — 黑喉石䳭
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 9359. 漠䳭 *Oenanthe deserti* — 漠䳭
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 9361. 白顶䳭 *Oenanthe pleschanka* — 白顶䳭
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 9369. 沙䳭 *Oenanthe isabellina* — 沙䳭
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ### Dicaeidae
 
-#### 9404. 黄腹啄花鸟 *Pachyglossa melanozantha* — 黄腹啄花鸟
+**9404. 黄腹啄花鸟 *Pachyglossa melanozantha* — 黄腹啄花鸟**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S50771015)
 
+------------------------------------------------------------------------
 
-**References:**
+**9421. 纯色啄花鸟 *Dicaeum minullum* — 纯色啄花鸟**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://ebird.org/checklist/S348647443)
 
-#### 9421. 纯色啄花鸟 *Dicaeum minullum* — 纯色啄花鸟
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**9436. 红胸啄花鸟 *Dicaeum ignipectus* — 红胸啄花鸟**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S50771015)
 
-**References:**
+------------------------------------------------------------------------
 
+**9448. 朱背啄花鸟 *Dicaeum cruentatum* — 朱背啄花鸟**
 
----
+**记录状态：** 未评估
 
-#### 9436. 红胸啄花鸟 *Dicaeum ignipectus* — 红胸啄花鸟
+**证据说明：**
 
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 9448. 朱背啄花鸟 *Dicaeum cruentatum* — 朱背啄花鸟
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ### Nectariniidae
 
-#### 9460. 纹背捕蛛鸟 *Arachnothera magna* — 纹背捕蛛鸟
+**9460. 纹背捕蛛鸟 *Arachnothera magna* — 纹背捕蛛鸟**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S222794707)
 
+------------------------------------------------------------------------
 
-**References:**
+**9487. 火尾太阳鸟 *Aethopyga ignicauda* — 火尾太阳鸟**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://ebird.org/checklist/S86211758)
 
-#### 9487. 火尾太阳鸟 *Aethopyga ignicauda* — 火尾太阳鸟
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**9488. 黑胸太阳鸟 *Aethopyga saturata* — 黑胸太阳鸟**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S290260083)
 
-**References:**
+------------------------------------------------------------------------
 
+**9489. 蓝喉太阳鸟 *Aethopyga gouldiae* — 蓝喉太阳鸟**
 
----
+**记录状态：** 确认
 
-#### 9488. 黑胸太阳鸟 *Aethopyga saturata* — 黑胸太阳鸟
+[附照片的公民科学记录](https://ebird.org/checklist/S226958573)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**9490. 绿喉太阳鸟 *Aethopyga nipalensis* — 绿喉太阳鸟**
 
+**记录状态：** 确认
 
-**References:**
+[附照片的公民科学记录](https://ebird.org/checklist/S289693474)
 
-
----
-
-#### 9489. 蓝喉太阳鸟 *Aethopyga gouldiae* — 蓝喉太阳鸟
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 9490. 绿喉太阳鸟 *Aethopyga nipalensis* — 绿喉太阳鸟
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ### Chloropseidae
 
-#### 9609. 金额叶鹎 *Chloropsis aurifrons* — 金额叶鹎
+**9609. 金额叶鹎 *Chloropsis aurifrons* — 金额叶鹎**
 
-**Status:** Not assessed
+**记录状态：** 未评估
 
-**Evidence:**
+**证据说明：**
 
+------------------------------------------------------------------------
 
-**References:**
+**9611. 橙腹叶鹎 *Chloropsis hardwickii* — 西南橙腹叶鹎**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://ebird.org/checklist/S211195688)
 
-#### 9611. 橙腹叶鹎 *Chloropsis hardwickii* — 西南橙腹叶鹎
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ### Irenidae
 
-#### 9613. 和平鸟 *Irena puella* — 和平鸟
+**9613. 和平鸟 *Irena puella* — 和平鸟**
 
-**Status:** Not assessed
+**记录状态：** 可能
 
-**Evidence:**
+柳思铭（2026，个人通信）2026年2月在墨脱县目击1只雄鸟，但没有照片
 
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ### Estrildidae
 
-#### 9786. 斑文鸟 *Lonchura punctulata* — 斑文鸟
+**9786. 斑文鸟 *Lonchura punctulata* — 斑文鸟**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S230305784)
 
+------------------------------------------------------------------------
 
-**References:**
+**9789. 白腰文鸟 *Lonchura striata* — 白腰文鸟**
 
+**记录状态：** 确认
 
----
+黄强和张罗虹（2006）报告了本种，但没有照片；后来有[附照片的公民科学记录](https://ebird.org/checklist/S223833263)
 
-#### 9789. 白腰文鸟 *Lonchura striata* — 白腰文鸟
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ### Prunellidae
 
-#### 9898. 高原岩鹨 *Prunella himalayana* — 高原岩鹨
+**9898. 高原岩鹨 *Prunella himalayana* — 高原岩鹨**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S85956646)
 
+------------------------------------------------------------------------
 
-**References:**
+**9899. 领岩鹨 *Prunella collaris* — 领岩鹨**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://ebird.org/checklist/S86211759)
 
-#### 9899. 领岩鹨 *Prunella collaris* — 领岩鹨
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**9900. 栗背岩鹨 *Prunella immaculata* — 栗背岩鹨**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S101991187)
 
-**References:**
+------------------------------------------------------------------------
 
+**9901. 鸲岩鹨 *Prunella rubeculoides* — 鸲岩鹨**
 
----
+**记录状态：** 确认
 
-#### 9900. 栗背岩鹨 *Prunella immaculata* — 栗背岩鹨
+[附照片的公民科学记录](https://ebird.org/checklist/S70623004)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**9902. 黑喉岩鹨 *Prunella atrogularis* — 黑喉岩鹨**
 
+**记录状态：** 未评估
 
-**References:**
+**证据说明：**
 
+------------------------------------------------------------------------
 
----
+**9907. 棕胸岩鹨 *Prunella strophiata* — 棕胸岩鹨**
 
-#### 9901. 鸲岩鹨 *Prunella rubeculoides* — 鸲岩鹨
+**记录状态：** 确认
 
-**Status:** Not assessed
+[附照片的公民科学记录](https://ebird.org/checklist/S41226165)
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**9909. 褐岩鹨 *Prunella fulvescens* — 褐岩鹨**
 
-**References:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S41260449)
 
----
-
-#### 9902. 黑喉岩鹨 *Prunella atrogularis* — 黑喉岩鹨
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 9907. 棕胸岩鹨 *Prunella strophiata* — 棕胸岩鹨
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 9909. 褐岩鹨 *Prunella fulvescens* — 褐岩鹨
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ### Passeridae
 
-#### 9911. 石雀 *Petronia petronia* — 石雀
+**9911. 石雀 *Petronia petronia* — 石雀**
 
-**Status:** Not assessed
+**记录状态：** 未评估
 
-**Evidence:**
+**证据说明：**
 
+------------------------------------------------------------------------
 
-**References:**
+**9912. 白斑翅雪雀 *Montifringilla nivalis* — 白斑翅雪雀**
 
+**记录状态：** 未评估
 
----
+**证据说明：**
 
-#### 9912. 白斑翅雪雀 *Montifringilla nivalis* — 白斑翅雪雀
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**9913. 藏雪雀 *Montifringilla henrici* — 藏雪雀**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S78811389)
 
-**References:**
+------------------------------------------------------------------------
 
+**9914. 褐翅雪雀 *Montifringilla adamsi* — 褐翅雪雀**
 
----
+**记录状态：** 确认
 
-#### 9913. 藏雪雀 *Montifringilla henrici* — 藏雪雀
+[附照片的公民科学记录](https://ebird.org/checklist/S92495122)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**9915. 白腰雪雀 *Onychostruthus taczanowskii* — 白腰雪雀**
 
+**记录状态：** 确认
 
-**References:**
+[附照片的公民科学记录](https://ebird.org/checklist/S250929144)
 
+------------------------------------------------------------------------
 
----
+**9917. 棕颈雪雀 *Pyrgilauda ruficollis* — 棕颈雪雀**
 
-#### 9914. 褐翅雪雀 *Montifringilla adamsi* — 褐翅雪雀
+**记录状态：** 确认
 
-**Status:** Not assessed
+[附照片的公民科学记录](https://ebird.org/checklist/S101623119)
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**9918. 棕背雪雀 *Pyrgilauda blanfordi* — 棕背雪雀**
 
-**References:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S95658221)
 
----
+------------------------------------------------------------------------
 
-#### 9915. 白腰雪雀 *Onychostruthus taczanowskii* — 白腰雪雀
+**9936. 山麻雀 *Passer cinnamomeus* — 山麻雀**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S290259902)
 
+------------------------------------------------------------------------
 
-**References:**
+**9937. 麻雀 *Passer montanus* — 麻雀**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://ebird.org/checklist/S254898337)
 
-#### 9917. 棕颈雪雀 *Pyrgilauda ruficollis* — 棕颈雪雀
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**9952. 家麻雀 *Passer domesticus* — 家麻雀**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://www.birdreport.cn/home/line/page.html?param=eyJhY3Rpdml0eUlkIjo5MzE4MjgsInRzIjoxNzg3MzAxNDU5NDA0fQ==&sign=d41d8cd98f00b204e9800998ecf8427e)
 
-**References:**
-
-
----
-
-#### 9918. 棕背雪雀 *Pyrgilauda blanfordi* — 棕背雪雀
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 9936. 山麻雀 *Passer cinnamomeus* — 山麻雀
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 9937. 麻雀 *Passer montanus* — 麻雀
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 9952. 家麻雀 *Passer domesticus* — 家麻雀
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ### Motacillidae
 
-#### 9958. 灰鹡鸰 *Motacilla cinerea* — 灰鹡鸰
+**9958. 灰鹡鸰 *Motacilla cinerea* — 灰鹡鸰**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S204504766)
 
+------------------------------------------------------------------------
 
-**References:**
+**9959. 西黄鹡鸰 *Motacilla flava* — 西黄鹡鸰**
 
+**记录状态：** 未评估
 
----
+**证据说明：**
 
-#### 9959. 西黄鹡鸰 *Motacilla flava* — 西黄鹡鸰
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**9960. 黄头鹡鸰 *Motacilla citreola* — 黄头鹡鸰**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S230328461)
 
-**References:**
+------------------------------------------------------------------------
 
+**9961. 黄鹡鸰 *Motacilla tschutschensis* — 黄鹡鸰**
 
----
+**记录状态：** 未评估
 
-#### 9960. 黄头鹡鸰 *Motacilla citreola* — 黄头鹡鸰
+**证据说明：**
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**9963. 大斑鹡鸰 *Motacilla maderaspatensis* —**
 
+**记录状态：** 确认
 
-**References:**
+[附照片的公民科学记录](https://ebird.org/checklist/S340690096)
 
+------------------------------------------------------------------------
 
----
+**9964. 白鹡鸰 *Motacilla alba* — 白鹡鸰**
 
-#### 9961. 黄鹡鸰 *Motacilla tschutschensis* — 黄鹡鸰
+**记录状态：** 确认
 
-**Status:** Not assessed
+[附照片的公民科学记录](https://ebird.org/checklist/S253994941)
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**9978. 布氏鹨 *Anthus godlewskii* — 布氏鹨**
 
-**References:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S344316216)
 
----
+------------------------------------------------------------------------
 
-#### 9963. 大斑鹡鸰 *Motacilla maderaspatensis*
+**9992. 理氏鹨 *Anthus richardi* — 田鹨**
 
-**Status:** Not assessed
+**记录状态：** 排除
 
-**Evidence:**
+阙品甲等（2017）报告的本种实为布氏鹨，目前暂未发现本种在西藏有分布的其他证据
 
+------------------------------------------------------------------------
 
-**References:**
+**10014. 林鹨 *Anthus trivialis* — 林鹨**
 
+**记录状态：** 确认
 
----
+廖之锴（2025，个人通信）2025年4月在墨脱县拍到1只
 
-#### 9964. 白鹡鸰 *Motacilla alba* — 白鹡鸰
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**10015. 树鹨 *Anthus hodgsoni* — 树鹨**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S50771015)
 
-**References:**
+------------------------------------------------------------------------
 
+**10016. 红喉鹨 *Anthus cervinus* — 红喉鹨**
 
----
+**记录状态：** 确认
 
-#### 9978. 布氏鹨 *Anthus godlewskii* — 布氏鹨
+[附照片的公民科学记录](https://www.birdreport.cn/home/record/page.html?param=eyJhY3Rpdml0eUlkIjoyMDU1MTIwLCJ0cyI6MTc4NzMwMTg0MTY4NiwicmVwb3J0SWQiOiIwOGFmYTRkZC1kMmQxLTQ5NDItOGE1Yi1jNDFlMzFlNzcyMTYifQ==&sign=d41d8cd98f00b204e9800998ecf8427e)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**10017. 粉红胸鹨 *Anthus roseatus* — 粉红胸鹨**
 
+**记录状态：** 确认
 
-**References:**
+[附照片的公民科学记录](https://ebird.org/checklist/S222812476)
 
-
----
-
-#### 9992. 理氏鹨 *Anthus richardi* — 田鹨
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 10014. 林鹨 *Anthus trivialis* — 林鹨
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 10015. 树鹨 *Anthus hodgsoni* — 树鹨
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 10016. 红喉鹨 *Anthus cervinus* — 红喉鹨
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 10017. 粉红胸鹨 *Anthus roseatus* — 粉红胸鹨
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ### Fringillidae
 
-#### 10023. 燕雀 *Fringilla montifringilla* — 燕雀
+**10023. 燕雀 *Fringilla montifringilla* — 燕雀**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S99353008)
 
+------------------------------------------------------------------------
 
-**References:**
+**10027. 苍头燕雀 *Fringilla coelebs* — 苍头燕雀**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://ebird.org/checklist/S292728123)
 
-#### 10027. 苍头燕雀 *Fringilla coelebs* — 苍头燕雀
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**10067. 黄颈拟蜡嘴雀 *Mycerobas affinis* — 黄颈拟蜡嘴雀**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S102193194)
 
-**References:**
+------------------------------------------------------------------------
 
+**10068. 白点翅拟蜡嘴雀 *Mycerobas melanozanthos* — 白点翅拟蜡嘴雀**
 
----
+**记录状态：** 确认
 
-#### 10067. 黄颈拟蜡嘴雀 *Mycerobas affinis* — 黄颈拟蜡嘴雀
+[附照片的公民科学记录](https://ebird.org/checklist/S79902393)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**10069. 白斑翅拟蜡嘴雀 *Mycerobas carnipes* — 白斑翅拟蜡嘴雀**
 
+**记录状态：** 确认
 
-**References:**
+[附照片的公民科学记录](https://ebird.org/checklist/S41226165)
 
+------------------------------------------------------------------------
 
----
+**10075. 血雀 *Carpodacus sipahi* — 血雀**
 
-#### 10068. 白点翅拟蜡嘴雀 *Mycerobas melanozanthos* — 白点翅拟蜡嘴雀
+**记录状态：** 确认
 
-**Status:** Not assessed
+[附照片的公民科学记录](https://ebird.org/checklist/S95132237)
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**10076. 普通朱雀 *Carpodacus erythrinus* — 普通朱雀**
 
-**References:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S73904227)
 
----
+------------------------------------------------------------------------
 
-#### 10069. 白斑翅拟蜡嘴雀 *Mycerobas carnipes* — 白斑翅拟蜡嘴雀
+**10079. 喜山红腰朱雀 *Carpodacus grandis* — 喜山红腰朱雀**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://www.birdreport.cn/home/record/page.html?param=eyJhY3Rpdml0eUlkIjoyMTc2ODYxLCJ0cyI6MTc4NzMwMjM1MzU4OSwicmVwb3J0SWQiOiIzOWM5NDdmMy1kMmRjLTQwYjctYjc4MC02NTI0MmM2OGI1YzkifQ==&sign=d41d8cd98f00b204e9800998ecf8427e)
 
+------------------------------------------------------------------------
 
-**References:**
+**10080. 曙红朱雀 *Carpodacus waltoni* — 曙红朱雀**
 
+**记录状态：** 确认
 
----
+Tietze等（2013）报告了来自拉萨市的本种样本
 
-#### 10075. 血雀 *Carpodacus sipahi* — 血雀
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**10082. 红眉朱雀 *Carpodacus pulcherrimus* — 红眉朱雀**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附录音的公民科学记录](https://ebird.org/checklist/S85430206)
 
-**References:**
+------------------------------------------------------------------------
 
+**10083. 棕朱雀 *Carpodacus edwardsii* — 棕朱雀**
 
----
+**记录状态：** 确认
 
-#### 10076. 普通朱雀 *Carpodacus erythrinus* — 普通朱雀
+[附照片的公民科学记录](https://ebird.org/checklist/S310212043)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**10084. 玫红眉朱雀 *Carpodacus rodochroa* — 粉眉朱雀**
 
+**记录状态：** 确认
 
-**References:**
+[附照片的公民科学记录](https://ebird.org/checklist/S204689908)
 
+------------------------------------------------------------------------
 
----
+**10086. 喜山点翅朱雀 *Carpodacus rodopeplus* — 点翅朱雀**
 
-#### 10079. 喜山红腰朱雀 *Carpodacus grandis* — 喜山红腰朱雀
+**记录状态：** 确认
 
-**Status:** Not assessed
+[附照片的公民科学记录](https://ebird.org/checklist/S86211758)
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**10087. 酒红朱雀 *Carpodacus vinaceus* — 酒红朱雀**
 
-**References:**
+**记录状态：** 未评估
 
+**证据说明：**
 
----
+------------------------------------------------------------------------
 
-#### 10080. 曙红朱雀 *Carpodacus waltoni* — 曙红朱雀
+**10091. 藏雀 *Carpodacus roborowskii* — 藏雀**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S41244241)
 
+------------------------------------------------------------------------
 
-**References:**
+**10093. 拟大朱雀 *Carpodacus rubicilloides* — 拟大朱雀**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://ebird.org/checklist/S92495122)
 
-#### 10082. 红眉朱雀 *Carpodacus pulcherrimus* — 红眉朱雀
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**10094. 大朱雀 *Carpodacus rubicilla* — 大朱雀**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S50987111)
 
-**References:**
+------------------------------------------------------------------------
 
+**10095. 长尾雀 *Carpodacus sibiricus* — 中华长尾雀**
 
----
+**记录状态：** 确认
 
-#### 10083. 棕朱雀 *Carpodacus edwardsii* — 棕朱雀
+[附照片的公民科学记录](https://ebird.org/checklist/S224489071)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**10096. 红眉松雀 *Carpodacus subhimachalus* — 红眉松雀**
 
+**记录状态：** 确认
 
-**References:**
+[附照片的公民科学记录](https://ebird.org/checklist/S196982098)
 
+------------------------------------------------------------------------
 
----
+**10097. 红胸朱雀 *Carpodacus puniceus* — 红胸朱雀**
 
-#### 10084. 玫红眉朱雀 *Carpodacus rodochroa* — 粉眉朱雀
+**记录状态：** 未评估
 
-**Status:** Not assessed
+**证据说明：**
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**10099. 斑翅朱雀 *Carpodacus trifasciatus* — 斑翅朱雀**
 
-**References:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S289478605)
 
----
+------------------------------------------------------------------------
 
-#### 10086. 喜山点翅朱雀 *Carpodacus rodopeplus* — 点翅朱雀
+**10100. 喜山白眉朱雀 *Carpodacus thura* — 喜山白眉朱雀**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S41226165)
 
+------------------------------------------------------------------------
 
-**References:**
+**10101. 白眉朱雀 *Carpodacus dubius* — 白眉朱雀**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://ebird.org/checklist/S314320854)
 
-#### 10087. 酒红朱雀 *Carpodacus vinaceus* — 酒红朱雀
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**10143. 褐灰雀 *Pyrrhula nipalensis* — 褐灰雀**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附照片和录音的公民科学记录](https://ebird.org/checklist/S232284786)
 
-**References:**
+------------------------------------------------------------------------
 
+**10147. 红头灰雀 *Pyrrhula erythrocephala* — 红头灰雀**
 
----
+**记录状态：** 确认
 
-#### 10091. 藏雀 *Carpodacus roborowskii* — 藏雀
+[附照片的公民科学记录](https://ebird.org/checklist/S197095732)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**10148. 灰头灰雀 *Pyrrhula erythaca* — 灰头灰雀**
 
+**记录状态：** 确认
 
-**References:**
+[附照片的公民科学记录](https://ebird.org/checklist/S289836930)
 
+------------------------------------------------------------------------
 
----
+**10151. 蒙古沙雀 *Bucanetes mongolicus* — 蒙古沙雀**
 
-#### 10093. 拟大朱雀 *Carpodacus rubicilloides* — 拟大朱雀
+**记录状态：** 确认
 
-**Status:** Not assessed
+附照片的论文（王宁和邓涛，2014）
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**10153. 赤朱雀 *Agraphospiza rubescens* — 赤朱雀**
 
-**References:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S227698572)
 
----
+------------------------------------------------------------------------
 
-#### 10094. 大朱雀 *Carpodacus rubicilla* — 大朱雀
+**10154. 金枕黑雀 *Pyrrhoplectes epauletta* — 金枕黑雀**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S101764921)
 
+------------------------------------------------------------------------
 
-**References:**
+**10155. 红眉金翅雀 *Callacanthis burtoni* — 红眉金翅雀**
 
+**记录状态：** 确认
 
----
+附照片的论文（林植和何芬奇，2015）
 
-#### 10095. 长尾雀 *Carpodacus sibiricus* — 中华长尾雀
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**10156. 暗胸朱雀 *Procarduelis nipalensis* — 暗胸朱雀**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S85956646)
 
-**References:**
+------------------------------------------------------------------------
 
+**10157. 林岭雀 *Leucosticte nemoricola* — 林岭雀**
 
----
+**记录状态：** 确认
 
-#### 10096. 红眉松雀 *Carpodacus subhimachalus* — 红眉松雀
+[附照片的公民科学记录](https://ebird.org/checklist/S230447601)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**10158. 高山岭雀 *Leucosticte brandti* — 高山岭雀**
 
+**记录状态：** 确认
 
-**References:**
+[附照片的公民科学记录](https://ebird.org/checklist/S92495122)
 
+------------------------------------------------------------------------
 
----
+**10172. 高山金翅雀 *Chloris spinoides* — 高山金翅雀**
 
-#### 10097. 红胸朱雀 *Carpodacus puniceus* — 红胸朱雀
+**记录状态：** 确认
 
-**Status:** Not assessed
+[附照片的公民科学记录](https://ebird.org/checklist/S73904227)
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**10174. 黑头金翅雀 *Chloris ambigua* — 黑头金翅雀**
 
-**References:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S249097512)
 
----
+------------------------------------------------------------------------
 
-#### 10099. 斑翅朱雀 *Carpodacus trifasciatus* — 斑翅朱雀
+**10214. 黄嘴朱顶雀 *Linaria flavirostris* — 黄嘴朱顶雀**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+[附照片的公民科学记录](https://ebird.org/checklist/S287625001)
 
+------------------------------------------------------------------------
 
-**References:**
+**10224. 红交嘴雀 *Loxia curvirostra* — 红交嘴雀**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://ebird.org/checklist/S41226165)
 
-#### 10100. 喜山白眉朱雀 *Carpodacus thura* — 喜山白眉朱雀
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**10229. 红额金翅雀 *Carduelis caniceps* — 红额金翅雀**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S154124172)
 
-**References:**
+------------------------------------------------------------------------
 
+**10233. 金额丝雀 *Serinus pusillus* — 金额丝雀**
 
----
+**记录状态：** 确认
 
-#### 10101. 白眉朱雀 *Carpodacus dubius* — 白眉朱雀
+[附照片的公民科学记录](https://www.birdreport.cn/home/record/page.html?param=eyJhY3Rpdml0eUlkIjoyMjExMjk4LCJ0cyI6MTc4NzMwMzI5MTE4MywicmVwb3J0SWQiOiI5MzdkYTQwZS01M2EwLTQ0MzYtOTlhNy0xMzE1YjRlNWE1OGMifQ==&sign=d41d8cd98f00b204e9800998ecf8427e)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**10239. 藏黄雀 *Spinus thibetanus* — 藏黄雀**
 
+**记录状态：** 确认
 
-**References:**
+[附照片的公民科学记录](https://ebird.org/checklist/S290692142)
 
+------------------------------------------------------------------------
 
----
+**10240. 黄雀 *Spinus spinus* — 黄雀**
 
-#### 10143. 褐灰雀 *Pyrrhula nipalensis* — 褐灰雀
+**记录状态：** 确认
 
-**Status:** Not assessed
+[附照片的公民科学记录](https://ebird.org/checklist/S289289137)
 
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 10147. 红头灰雀 *Pyrrhula erythrocephala* — 红头灰雀
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 10148. 灰头灰雀 *Pyrrhula erythaca* — 灰头灰雀
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 10151. 蒙古沙雀 *Bucanetes mongolicus* — 蒙古沙雀
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 10153. 赤朱雀 *Agraphospiza rubescens* — 赤朱雀
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 10154. 金枕黑雀 *Pyrrhoplectes epauletta* — 金枕黑雀
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 10155. 红眉金翅雀 *Callacanthis burtoni* — 红眉金翅雀
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 10156. 暗胸朱雀 *Procarduelis nipalensis* — 暗胸朱雀
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 10157. 林岭雀 *Leucosticte nemoricola* — 林岭雀
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 10158. 高山岭雀 *Leucosticte brandti* — 高山岭雀
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 10172. 高山金翅雀 *Chloris spinoides* — 高山金翅雀
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 10174. 黑头金翅雀 *Chloris ambigua* — 黑头金翅雀
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 10214. 黄嘴朱顶雀 *Linaria flavirostris* — 黄嘴朱顶雀
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 10224. 红交嘴雀 *Loxia curvirostra* — 红交嘴雀
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 10229. 灰冠金翅雀 *Carduelis caniceps* — 红额金翅雀
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 10233. 金额丝雀 *Serinus pusillus* — 金额丝雀
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 10239. 藏黄雀 *Spinus thibetanus* — 藏黄雀
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 10240. 黄雀 *Spinus spinus* — 黄雀
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
+------------------------------------------------------------------------
 
 ### Emberizidae
 
-#### 10278. 黄喉鹀 *Emberiza elegans* — 黄喉鹀
+**10278. 黄喉鹀 *Emberiza elegans* — 黄喉鹀**
 
-**Status:** Not assessed
+**记录状态：** 确认
 
-**Evidence:**
+附照片的论文（曾卫等，2024）
 
+------------------------------------------------------------------------
 
-**References:**
+**10286. 黄胸鹀 *Emberiza aureola* — 黄胸鹀**
 
+**记录状态：** 确认
 
----
+[附照片的公民科学记录](https://macaulaylibrary.org/asset/634460615)
 
-#### 10286. 黄胸鹀 *Emberiza aureola* — 黄胸鹀
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**10287. 小鹀 *Emberiza pusilla* — 小鹀**
 
-**Evidence:**
+**记录状态：** 确认
 
+刘子祥等（2014）报告了本种，但没有照片；后来有[附照片的公民科学记录](https://ebird.org/checklist/S50834967)
 
-**References:**
+------------------------------------------------------------------------
 
+**10288. 田鹀 *Emberiza rustica* — 田鹀**
 
----
+**记录状态：** 确认
 
-#### 10287. 小鹀 *Emberiza pusilla* — 小鹀
+本人和邢家华等2024年1月在墨脱县拍到1只
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**10291. 灰头鹀 *Emberiza spodocephala* — 灰头鹀**
 
+**记录状态：** 确认
 
-**References:**
+[附照片的公民科学记录](https://www.birdreport.cn/home/record/page.html?param=eyJhY3Rpdml0eUlkIjoxMjUwMDQ1LCJ0cyI6MTc4NzMwMzY0Mzk3NywicmVwb3J0SWQiOiJiMGE2YzFiNi1hZjU3LTRjNTYtOGQzMS02YTE5NjAxM2VjYzMifQ==&sign=d41d8cd98f00b204e9800998ecf8427e)
 
+------------------------------------------------------------------------
 
----
+**10292. 凤头鹀 *Emberiza lathami* — 凤头鹀**
 
-#### 10288. 田鹀 *Emberiza rustica* — 田鹀
+**记录状态：** 确认
 
-**Status:** Not assessed
+[附照片的公民科学记录](https://ebird.org/checklist/S352623563)
 
-**Evidence:**
+------------------------------------------------------------------------
 
+**10293. 黑头鹀 *Emberiza melanocephala* — 黑头鹀**
 
-**References:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://www.birdreport.cn/home/record/page.html?param=eyJhY3Rpdml0eUlkIjoxNzU0NzY2LCJ0cyI6MTc4NzMwMzY3NjEwNSwicmVwb3J0SWQiOiI4YmM1MmU0MS0zOGI4LTRjMjEtOGEzYS00MWRiYjAxNTQwOTUifQ==&sign=d41d8cd98f00b204e9800998ecf8427e)
 
----
+------------------------------------------------------------------------
 
-#### 10291. 灰头鹀 *Emberiza spodocephala* — 灰头鹀
+**10296. 栗耳鹀 *Emberiza fucata* — 栗耳鹀**
 
-**Status:** Not assessed
+**记录状态：** 未评估
 
-**Evidence:**
+**证据说明：**
 
+------------------------------------------------------------------------
 
-**References:**
+**10297. 藏鹀 *Emberiza koslowi* — 藏鹀**
 
+**记录状态：** 确认
 
----
+[附照片的社交媒体贴文](https://mp.weixin.qq.com/s/yFeCxPN14rFfBmT6MnqmUQ)
 
-#### 10292. 凤头鹀 *Emberiza lathami* — 凤头鹀
+------------------------------------------------------------------------
 
-**Status:** Not assessed
+**10300. 灰眉岩鹀 *Emberiza godlewskii* — 灰眉岩鹀/西南灰眉岩鹀**
 
-**Evidence:**
+**记录状态：** 确认
 
+[附照片的公民科学记录](https://ebird.org/checklist/S250648506)
 
-**References:**
+------------------------------------------------------------------------
 
+**10301. 淡灰眉岩鹀 *Emberiza cia* — 淡灰眉岩鹀**
 
----
+**记录状态：** 确认
 
-#### 10293. 黑头鹀 *Emberiza melanocephala* — 黑头鹀
+[附照片的公民科学记录](https://www.birdreport.cn/home/record/page.html?param=eyJhY3Rpdml0eUlkIjo5NDMyNjMsInRzIjoxNzg3MzAzNzM0NTA2LCJyZXBvcnRJZCI6IjM2YmZmNjMzLTIyYzYtNGU4Mi04NzI3LWI5ZGU0YmQ0MTY2MyJ9&sign=d41d8cd98f00b204e9800998ecf8427e)
 
-**Status:** Not assessed
+------------------------------------------------------------------------
 
-**Evidence:**
+**10304. 圃鹀 *Emberiza hortulana* — 圃鹀**
 
+**记录状态：** 确认
 
-**References:**
+[附照片的公民科学记录](https://www.birdreport.cn/home/line/page.html?param=eyJhY3Rpdml0eUlkIjoyMTI5MjA3LCJ0cyI6MTc4NzMwMzc1MjU0Nn0=&sign=d41d8cd98f00b204e9800998ecf8427e)
 
-
----
-
-#### 10296. 栗耳鹀 *Emberiza fucata* — 栗耳鹀
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 10297. 藏鹀 *Emberiza koslowi* — 藏鹀
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 10300. 灰眉岩鹀 *Emberiza godlewskii* — 灰眉岩鹀/西南灰眉岩鹀
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
-#### 10301. 淡灰眉岩鹀 *Emberiza cia* — 淡灰眉岩鹀
-
-**Status:** Not assessed
-
-**Evidence:**
-
-
-**References:**
-
-
----
-
+------------------------------------------------------------------------
