@@ -104,9 +104,9 @@ Importantly, this project does not aim to identify the earliest record of each b
 
 ## 分类体系 · Taxonomy
 
-本项目目前将 **AviList 2015b** 系统作为鸟类分类和学名的主要依据，并与*《中国鸟类分类与分布名录》第四版*进行对应。
+本项目目前将 **AviList 2025b** 系统作为鸟类分类和学名的主要依据，并与*《中国鸟类分类与分布名录》第四版*进行对应。
 
-The **AviList 2015b** taxonomy is currently used as the primary basis for bird classification and scientific names, with corresponding names from *the fourth edition of A Checklist on the Classification and Distribution of the Birds of China* also provided.
+The **AviList 2025b** taxonomy is currently used as the primary basis for bird classification and scientific names, with corresponding names from *the fourth edition of A Checklist on the Classification and Distribution of the Birds of China* also provided.
 
 分类体系发生更新时，本项目将根据需要更新名录，并尽可能保留分类变更的信息。
 
