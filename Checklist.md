@@ -294,7 +294,7 @@
 
 **记录状态：** 排除
 
-郑作新（1976，1955）中记载本种分布于“西藏西南隅”“印度河流域”，但从其参考文献来看，该论述很可能来自于Delacour（1951）所描述的“The Indus River marks its northern and eastern boundary as far as we know at present”一句，但印度河流域显然不能等同于“狮泉河周边山地”
+郑作新（1976，1955）中记载本种分布于“西藏西南隅”“狮泉河流域”，但从其参考文献来看，该论述很可能来自于Delacour（1951）所描述的“The Indus River marks its northern and eastern boundary as far as we know at present”一句，但印度河流域显然不能等同于“狮泉河周边山地”
 
 尚不清楚Cheng（1947）中收录本种的依据
 
@@ -5262,7 +5262,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-附图的论文（[王宁等，2020](References/王宁等_2020_四川动物.pdf）
+附图的论文（[王宁等，2020](References/王宁等_2020_四川动物.pdf)）
 
 [附照片的公民科学记录](https://ebird.org/checklist/S245822156)
 
