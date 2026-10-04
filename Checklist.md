@@ -564,6 +564,14 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 ------------------------------------------------------------------------
 
+**741. 栗斑杜鹃 *Cacomantis sonneratii* — 栗斑杜鹃**
+
+**记录状态：** 确认
+
+[附照片的公民科学记录](https://www.birdreport.cn/home/record/page.html?param=eyJyZXBvcnRJZCI6IjYzMjEwOWUwLWY3MDEtNDA2MC1iZGEzLTU5YmQ3MzRjNjExZSIsInRzIjoxNzkxMTE3MDA3NTY3fQ==&sign=d41d8cd98f00b204e9800998ecf8427e)
+
+------------------------------------------------------------------------
+
 **742. 八声杜鹃 *Cacomantis merulinus* — 八声杜鹃**
 
 **记录状态：** 确认
