@@ -948,9 +948,9 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **1351. 黑翅长脚鹬 *Himantopus himantopus* — 黑翅长脚鹬**
 
-**记录状态：** 可能
+**记录状态：** 确认
 
-有一定数量的公民科学记录，但均没有提供照片
+[附照片的公民科学记录](https://www.birdreport.cn/home/record/page.html?param=eyJhY3Rpdml0eUlkIjoyMjg2MzQwLCJ0cyI6MTc5MTQ0ODIxOTY1OSwicmVwb3J0SWQiOiJmNzU5YTJjNi1mM2ExLTRmNTktYTc4OS02Mzg3MTY5NWVlY2UifQ==&sign=d41d8cd98f00b204e9800998ecf8427e)
 
 ------------------------------------------------------------------------
 
@@ -3105,6 +3105,14 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 **记录状态：** 确认
 
 [附照片的公民科学记录](https://www.birdreport.cn/home/record/page.html?param=eyJhY3Rpdml0eUlkIjoyMDE1MjkxLCJ0cyI6MTc4NzIxMjE4NjU5NywicmVwb3J0SWQiOiIxMWY1ZTUzNi1hMzVkLTQ2ZTQtODZhMy04ZjUxMWJlOTJkYWYifQ==&sign=d41d8cd98f00b204e9800998ecf8427e)
+
+------------------------------------------------------------------------
+
+**6901.	红背伯劳 *Lanius collurio* - 红背伯劳**
+
+**记录状态：** 确认
+
+记录中心私密记录2026083100538附有本种的照片，图库可以搜到
 
 ------------------------------------------------------------------------
 
@@ -5998,9 +6006,9 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **9337. 白斑黑石䳭 *Saxicola caprata* — 白斑黑石䳭**
 
-**记录状态：** 未评估
+**记录状态：** 确认
 
-**证据说明：**
+[附照片的公民科学记录](https://www.birdreport.cn/home/record/page.html?param=eyJhY3Rpdml0eUlkIjoyMjY0NzY1LCJ0cyI6MTc5MTQ0OTA1NjA4OCwicmVwb3J0SWQiOiJkMWQ2OTZjYi02ZTM3LTRjYTMtYWI3My03YWJkYjJjZWNmNzgifQ==&sign=d41d8cd98f00b204e9800998ecf8427e)
 
 ------------------------------------------------------------------------
 
