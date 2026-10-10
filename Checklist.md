@@ -5410,7 +5410,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-附照片的论文（[王宁等，2020](References/王宁等_2020_四川动物.pdf）
+附照片的论文（[王宁等，2020](References/王宁等_2020_四川动物.pdf)）
 
 [附照片的公民科学记录](https://ebird.org/checklist/S346990874)
 
