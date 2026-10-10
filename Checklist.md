@@ -3370,7 +3370,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-附照片的论文（[Chang等，2010](References/Chang et al._2010_Chinese Birds.pdf)）
+附照片的论文（[张国郎等，2010](References/张国郎等_2010_ChineseBirds.pdf)）
 
 [附照片的公民科学记录](https://ebird.org/checklist/S154125019)
 
@@ -3726,7 +3726,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-附照片的论文（[Chang等，2010](References/Chang et al._2010_Chinese Birds.pdf)）
+附照片的论文（[张国郎等，2010](References/张国郎等_2010_ChineseBirds.pdf)）
 
 [附照片的公民科学记录](https://ebird.org/checklist/S85956644)
 
