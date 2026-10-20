@@ -634,7 +634,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-有一定数量的公民科学记录，但均没有提供录音，不易辨识；本人2025年和2026年春季多次在墨脱听到其叫声，完全确认
+[附照片的公民科学记录](https://ebird.org/checklist/S230361103)
 
 ------------------------------------------------------------------------
 
@@ -1376,9 +1376,9 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **1645. 须浮鸥 *Chlidonias hybrida* — 灰翅浮鸥**
 
-**记录状态：** 未评估
+**记录状态：** 确认
 
-**证据说明：**
+[附照片的公民科学记录](https://www.birdreport.cn/home/record/page.html?param=eyJhY3Rpdml0eUlkIjoyMjkyNjI5LCJ0cyI6MTc5MjQ3NTIzOTM0NSwicmVwb3J0SWQiOiJlMWM0NWRiNS03M2JlLTQxNWYtYTc1OS05OWU3YTJiYzRkNjcifQ==&sign=d41d8cd98f00b204e9800998ecf8427e)
 
 ------------------------------------------------------------------------
 
@@ -2998,6 +2998,14 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 ------------------------------------------------------------------------
 
+**6566. 细嘴黄鹂 *Oriolus tenuirostris* — 细嘴黄鹂**
+
+**记录状态：** 确认
+
+叶腾（2026，个人通信）转发2026年10月有人在墨脱拍到1只幼鸟
+
+------------------------------------------------------------------------
+
 ### Rhipiduridae
 
 **6652. 白喉扇尾鹟 *Rhipidura albicollis* — 白喉扇尾鹟**
@@ -3075,6 +3083,8 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 **记录状态：** 确认
 
 附照片的论文（[米小其、郭克疾、熊嘉武等，2016](References/米小其、郭克疾、熊嘉武等_2016_四川动物)）
+
+[附照片的公民科学记录](https://www.birdreport.cn/home/record/page.html?param=eyJhY3Rpdml0eUlkIjoyMjkwNTQxLCJ0cyI6MTc5MjQ3NjY0NTE1NywicmVwb3J0SWQiOiI5Y2FlNjc3ZC0yYzk3LTQ0MmQtYmI2NC01NjlmODE3M2ZhNjcifQ==&sign=d41d8cd98f00b204e9800998ecf8427e)
 
 ------------------------------------------------------------------------
 
