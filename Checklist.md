@@ -36,7 +36,7 @@
 
 **记录状态：** 确认
 
-[李炳章等（2016）](References/李炳章等_2016_动物学杂志.pdf)报告了本种，但没有提供照片
+[李炳章等（2016）](https://link.cnki.net/doi/10.13859/j.cjz.201604025)报告了本种，但没有提供照片
 
 [附照片的公民科学记录](https://www.birdreport.cn/home/record/page.html?param=eyJyZXBvcnRJZCI6IjFiZTAwMzdlLTRiYjMtNGUzNS1iMzBjLWFmY2IyYjQ4ZDNiZiIsInRzIjoxNzg3MTE1NjEwNjQ2fQ==&sign=d41d8cd98f00b204e9800998ecf8427e)
 
@@ -46,9 +46,9 @@
 
 **记录状态：** 确认
 
-附照片的论文（[黄犇和王渊，2022](References/黄犇和王渊_2022_四川动物.pdf)）
+附照片的论文（[黄犇和王渊，2022](https://kns.cnki.net/kcms2/article/abstract?v=zthAAw_tMjRWztK8mzKaUT-KZqfHQoCzwPhmlhHl87DzOFPg9bTeNy7AmBg8p4FnciMjv9uMPfw14sZFPco947S34l6b9P02P_1KqKt-eboN6kOEtNPvAPnlgvitgQgRB2-hBDgdUGyrajzExU7p3E_guhWM1Jq2X4_o0RNkX_8Aj6ILcMqlIPnO5VIrxQ1F)）
 
-[李扎西姐等（2021）](References/李扎西姐等_2021_西藏科技.pdf)报告了本种，但该地点疑似有养殖个体，因此该个体的来源不明
+[李扎西姐等（2021）](https://kns.cnki.net/kcms2/article/abstract?v=zthAAw_tMjTq2Ugk1y5WCcV-cLst7bIWM8aiO4ipHB_OCJWIy3iWHClMXYMhqiO_1vkO2gyTmGIDNut2sUoFnHwUQxTXQuZjUlLmSlyitj9M3dEmsBV8494ep8McEtQjvvreFIK_672SdyzfHwEPMbiagHHXYzcZlmdp8qa9te2L6r63Asp_CKoUm1I83V1Z)报告了本种，但该地点疑似有养殖个体，因此该个体的来源不明
 
 [附照片的公民科学记录](https://ebird.org/checklist/S97143361)
 
@@ -162,7 +162,7 @@
 
 **记录状态：** 确认
 
-附照片的论文（[索朗卓嘎等，2025](References/索朗卓嘎等_2025_四川动物.pdf)）
+附照片的论文（[索朗卓嘎等，2025](https://link.cnki.net/urlid/51.1193.Q.20250427.1429.008)）
 
 ------------------------------------------------------------------------
 
@@ -314,7 +314,7 @@
 
 **记录状态：** 确认
 
-附照片的论文（[赵旺林等，2021](References/赵旺林等_2021_四川动物.pdf)）
+附照片的论文（[赵旺林等，2021](https://kns.cnki.net/kcms2/article/abstract?v=zthAAw_tMjRNCoEHuUO-Ee3mzYAApSyOC_JRbUMluLFsXZIblmr6UbKB3hBy4TEPfNOaGMckWDb395fC6rKuDVBKpnkpc1TknRi2x3liCgtc7sVcdy2kban3-AjhVx6j9Qv34umM5iTJgB53OceO65hQ48TEmalpZiUEC5AAaTHmke9U60CzY9MRPPVE3Wls)）
 
 ------------------------------------------------------------------------
 
@@ -370,7 +370,7 @@
 
 **记录状态：** 确认
 
-附照片的论文（[郭克疾等，2016](References/郭克疾等_2016_生物多样性.pdf)，照片在附录2中）
+附照片的论文（[郭克疾等，2016](https://kns.cnki.net/kcms2/article/abstract?v=zthAAw_tMjQ1qGvt2QikwSctEAA5XQb0AXmf2nu_H23kM_L_hC2NjeGtu0g65RSBewV2Qwasb8AdO4XeAByDCbgNJXihFky_gBqw2XbKRCGnEJ-OqUDD_L_HVOUr6bXi5R_ObQTRm_I7MxzvdJDM_o6Ija51q4OvGMXpT85YMQYgC0dPcImAuhjek0c4ZXpg)，照片在附录2中）
 
 ------------------------------------------------------------------------
 
@@ -386,7 +386,7 @@
 
 **记录状态：** 可能
 
-[李学友等（2020）](References/李学友等_2020_生物多样性.pdf)报告了本种，但没有提供照片
+[李学友等（2020）](https://link.cnki.net/urlid/11.3247.Q.20201208.1112.004)报告了本种，但没有提供照片
 
 ------------------------------------------------------------------------
 
@@ -396,7 +396,7 @@
 
 中国科学院青藏高原综合科学考察队（1983）在芒康采集了本种的标本，但暂未找到标本照片
 
-[张同等（2026）](References/张同等_2026_生物多样性.pdf)报告了本种，但没有提供照片
+[张同等（2026）](https://kns.cnki.net/kcms2/article/abstract?v=zthAAw_tMjR2W72BY60ZIR6yXe61lmqZBAP6WGJ5KnOJI0qPfusOTIsPt0TawLi2A6-aoaE171hdpry84XBe2CxREhO0MZ5biVN1HewxCpB0mDixDNMxJCZmIVg2MZjUqp6HHIWgt136ip2uf9-YJhsPzSHPdYMyt_4laVcL3s-NQDGjfK_kTtWkigXQ_aw3)报告了本种，但没有提供照片
 
 ------------------------------------------------------------------------
 
@@ -420,7 +420,7 @@
 
 **记录状态：** 确认
 
-附照片的论文（[王宁等，2024](References/王宁等_2024_动物学杂志.pdf)）
+附照片的论文（[王宁等，2024](https://link.cnki.net/doi/10.13859/j.cjz.202320030)）
 
 [附照片的公民科学记录](https://ebird.org/checklist/S154122252)
 
@@ -430,7 +430,7 @@
 
 **记录状态：** 确认
 
-附照片的论文（[刘爱华等，2025](References/刘爱华等_2025_动物学杂志.pdf)）
+附照片的论文（[刘爱华等，2025](https://link.cnki.net/doi/10.13859/j.cjz.202525175)）
 
 ------------------------------------------------------------------------
 
@@ -498,7 +498,7 @@
 
 **记录状态：** 确认
 
-[刘子祥等（2014）](References/刘子祥等_2014_动物学杂志.pdf)报告了本种，但没有提供照片
+[刘子祥等（2014）](https://link.cnki.net/doi/10.13859/j.cjz.201404024)报告了本种，但没有提供照片
 
 [附照片的公民科学记录](https://ebird.org/checklist/S203743151)
 
@@ -512,7 +512,7 @@
 
 **记录状态：** 确认
 
-附照片的论文（[高泰等，2023](References/高泰等_2023_动物学杂志.pdf)）
+附照片的论文（[高泰等，2023](https://link.cnki.net/doi/10.13859/j.cjz.202322149)）
 
 ------------------------------------------------------------------------
 
@@ -540,7 +540,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-[米小其等（2016）](References/米小其等_2016_动物学杂志.pdf)报告了本种，但没有提供照片或录音
+[米小其等（2016）](https://link.cnki.net/doi/10.13859/j.cjz.201601019)报告了本种，但没有提供照片或录音
 
 [附照片的公民科学记录](https://www.inaturalist.org/observations/403251653)
 
@@ -666,7 +666,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-附照片的论文（[阙品甲等，2017](References/阙品甲等_2017_动物学杂志.pdf)）
+附照片的论文（[阙品甲等，2017](https://link.cnki.net/doi/10.13859/j.cjz.201704014)）
 
 [附录音的公民科学记录](https://ebird.org/checklist/S228731581)
 
@@ -926,7 +926,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 存疑
 
-[赵旺林等（2025）](References/赵旺林等_2025_四川动物.pdf)报告了本种，但照片不能完全排除石鸻，尽管从分布上看本种的可能性更大
+[赵旺林等（2025）](https://link.cnki.net/urlid/51.1193.Q.20250307.1227.010)报告了本种，但照片不能完全排除石鸻，尽管从分布上看本种的可能性更大
 
 ------------------------------------------------------------------------
 
@@ -1040,7 +1040,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-附照片的论文（[陈越等，2017](References/陈越等_2017_四川动物.pdf)）
+附照片的论文（[陈越等，2017](https://kns.cnki.net/kcms2/article/abstract?v=zthAAw_tMjR2suXMbOq4S5mmUscp3K37vunUgim5z3K9YoN3SaPXH9QEn5Kvm0LRQtvP8fTvwMCSOLw_f4mXKRerdSTo-MXyTfPiR1GRDa3n0cHOYTRaMDASTHnmcEfdxvWBheaVypcWnvLNiOkULu1M1xiAiPzFp7SBjD5ABme89OYjg5eIIq9FXxr-otvY)）
 
 [附照片的公民科学记录](https://ebird.org/checklist/S232211709)
 
@@ -1086,7 +1086,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-附照片的论文（[曾智等，2022](References/曾智等_2022_四川动物.pdf)）
+附照片的论文（[曾智等，2022](https://kns.cnki.net/kcms2/article/abstract?v=zthAAw_tMjR8XP_h8-oiNKF62sZ1DDNH9CFi03NEKtKOXp3uuRspkXn78IoWeA3AhWlQZtchZp5ykuNA7rjOM5mR-8NlGN5sk6hShoymUFdj2jr8bVGqpu9YvmTUo7XdsthwqhwlflC8ZINqiVEeCmzvAA0mSkxOTa5rWk_4mMDFGXWqDAlE5epYRYTvi8IS)）
 
 ------------------------------------------------------------------------
 
@@ -1304,7 +1304,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-附照片的论文（[陈越等，2019](References/陈越等_2019_动物学杂志.pdf)）
+附照片的论文（[陈越等，2019](https://link.cnki.net/doi/10.13859/j.cjz.201905022)）
 
 [附照片的公民科学记录](https://ebird.org/checklist/S275912947)
 
@@ -1352,7 +1352,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-附照片的论文（[杨永炳等，2025](References/杨永炳等_2025_湿地科学与管理.pdf)）
+附照片的论文（[杨永炳等，2025](https://link.cnki.net/urlid/11.5389.G3.20250822.1357.004)）
 
 ------------------------------------------------------------------------
 
@@ -1360,7 +1360,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-附照片的论文（[宋刚等，2026](References/宋刚等_2026_动物学杂志.pdf)）
+附照片的论文（[宋刚等，2026](https://link.cnki.net/doi/10.13859/j.cjz.202423163)）
 
 ------------------------------------------------------------------------
 
@@ -1458,7 +1458,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-附照片的论文（[杨永炳等，2025](References/杨永炳等_2025_动物学杂志.pdf)）
+附照片的论文（[杨永炳等，2025](https://link.cnki.net/doi/10.13859/j.cjz.202421062)）
 
 [附照片的公民科学记录](https://www.birdreport.cn/home/record/page.html?param=eyJhY3Rpdml0eUlkIjoxMDk4ODM0LCJ0cyI6MTc4NzIwNTY0NjI1MCwicmVwb3J0SWQiOiJhYWU2M2Q1Yi1lNjIwLTQzYzItYWQ5ZS0wNGNjZGI2MTM0MDIifQ==&sign=d41d8cd98f00b204e9800998ecf8427e)
 
@@ -1468,7 +1468,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-[杨永炳等（2025）](References/杨永炳等_2025_动物学杂志.pdf)报告了本种，但照片质量较差，不易辨识
+[杨永炳等（2025）](https://link.cnki.net/doi/10.13859/j.cjz.202421062)报告了本种，但照片质量较差，不易辨识
 
 [附照片的公民科学记录](https://www.birdreport.cn/home/record/page.html?param=eyJhY3Rpdml0eUlkIjoxMjYxMzE4LCJ0cyI6MTc4NzIwNTY4MTA5OCwicmVwb3J0SWQiOiJiM2M4MDgwYi1mMmE1LTQyMWEtYWVjNi0zY2JhNDcyMGE3NzcifQ==&sign=d41d8cd98f00b204e9800998ecf8427e)
 
@@ -1478,7 +1478,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-附照片的论文（[吴建普等，2015](References/吴建普等_2015_动物学杂志.pdf)）
+附照片的论文（[吴建普等，2015](https://link.cnki.net/doi/10.13859/j.cjz.201505022)）
 
 ------------------------------------------------------------------------
 
@@ -1486,7 +1486,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-[杨乐、阙品甲等（2018）](References/杨乐、阙品甲等_2018_动物学杂志.pdf)报告了本种，但照片质量较差，不易辨识
+[杨乐、阙品甲等（2018）](https://link.cnki.net/doi/10.13859/j.cjz.201805023)报告了本种，但照片质量较差，不易辨识
 
 [附照片的公民科学记录](https://ebird.org/checklist/S199589185)
 
@@ -1508,7 +1508,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-附照片的论文（[翁仕洋等，2021](References/翁仕洋等_2021_湿地科学与管理.pdf)）
+附照片的论文（[翁仕洋等，2021](https://kns.cnki.net/kcms2/article/abstract?v=zthAAw_tMjS_V2AxuQn7zbJEJoXncrN1Xf78quOX0CWvFUHvpNcZ6G73jkBcj-nOZf6O5_R767H-32fabMolAHQ1H2TV6u5MTWgKAqQRQSsBfnjvZ1rS27cYMMKiB87S6R_gW6h0L4onhGh38fdLSISKqz_xvyzOkQlBga3Z2a-m8sZDSTWQsiLQYSBVJeP9)）
 
 [附照片的公民科学记录](https://ebird.org/checklist/S70622744)
 
@@ -1544,7 +1544,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-附照片的论文（[杨乐等，2019](References/杨乐等_2019_动物学杂志.pdf)）
+附照片的论文（[杨乐等，2019](https://link.cnki.net/doi/10.13859/j.cjz.201904030)）
 
 ------------------------------------------------------------------------
 
@@ -1562,7 +1562,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-附照片的论文（[王毅花和张国钢，2026](References/王毅花和张国钢_2026_陆地生态系统与保护学报.pdf)）
+附照片的论文（[王毅花和张国钢，2026](https://kns.cnki.net/kcms2/article/abstract?v=zthAAw_tMjRYD3BhqfA0AMbKpJPAftV89n4tTtJBTmaWF8nEat-U__pe7kqPGMca1wlQF2mivF7G2iuFLNplj4ZqX6J0bye2nTXPLA5RAM9ltBY7GO6ZmvoRiEw1_skxexr4WGcoxBxvGh5Q7iRvxJoiZAbVH6Jrjb_q52eYUG05EndKZIoCSnY-VK9ZD1pF)）
 
 ------------------------------------------------------------------------
 
@@ -1572,7 +1572,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-附照片的论文（[刘锋等，2020](References/刘锋等_2021_动物学杂志.pdf)）
+附照片的论文（[刘锋等，2020](https://link.cnki.net/doi/10.13859/j.cjz.202201017)）
 
 [附照片的公民科学记录](https://ebird.org/checklist/S301956634)
 
@@ -1598,7 +1598,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-[赵冬冬等（2015）](References/赵冬冬等_2015_动物学杂志.pdf)报告了本种，但没有提供照片
+[赵冬冬等（2015）](https://link.cnki.net/doi/10.13859/j.cjz.201501023)报告了本种，但没有提供照片
 
 [附照片的公民科学记录](https://ebird.org/checklist/S80014675)
 
@@ -1608,7 +1608,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-[张国钢等（2014）](References/张国钢等_2014_四川动物.pdf)报告了本种，但没有提供照片
+[张国钢等（2014）](https://kns.cnki.net/kcms2/article/abstract?v=zthAAw_tMjSw25qhTuhJt1PWXdJyIcnypbw9ghnLcltSekr-vXduxuXueX1K5jgRul8aZRh_H64vQrOamisuhQ7HDpO7aMmwxy_G-v22t9HHjuoVRNuaqpAoQJfe0uG9dXlmmUZURG1N1arf2M5qen2MP0JhGCUqpO7YI9Vi4_MALKDme3xfMw==)报告了本种，但没有提供照片
 
 [附照片的公民科学记录](https://ebird.org/checklist/S49386648)
 
@@ -1618,7 +1618,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-附照片的论文（[陈越等，2019](References/陈越等_2019_野生动物学报.pdf)）
+附照片的论文（[陈越等，2019](https://link.cnki.net/doi/10.19711/j.cnki.issn2310-1490.2019.02.040)）
 
 [附照片的公民科学记录](https://ebird.org/checklist/S340762570)
 
@@ -1628,7 +1628,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-附照片的论文（[益西多吉等，2019](References/益西多吉等_2019_西藏科技.pdf)）
+附照片的论文（[益西多吉等，2019](https://kns.cnki.net/kcms2/article/abstract?v=zthAAw_tMjRjwiuZEwxMjLmSNGMa15AdCncGhKx9ZNsJeZKQdQQtQR7TW2VS-CT__ahjGNEasvE0ckqa04iEPvk36Dp3f5z3VjsfbZ2x0aCMtV-MiD_VRr_uD0pNFwOqq_xFEBe29SjP8Ic_BG-l1XFe9vmj87PoswGURDXlbYbYlVqWf1CgWh1y5w_HBtRK)）
 
 中国科学院青藏高原综合科学考察队（1983）在札达采集的池鹭标本实为本种
 
@@ -1800,7 +1800,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-附照片的论文（[刘锋等，2021](References/刘锋等_2021_四川动物.pdf)）
+附照片的论文（[刘锋等，2021](https://kns.cnki.net/kcms2/article/abstract?v=zthAAw_tMjRQgUtFEDS30WN3dDHr_-tyCbKeOQhVloHz5rvz7CUCX52Hmxb83FAnBVIKeP1fCb8eINNhkZ9ZmyB1GrxIuXXCePrvUhwkXfk-S-phsb9OuZAorlod6i42FRg7ppKxTeFEVRRSsn4PBJP7puaUw9UVJcoJR4xNwn_W1VS1tugdZNFGerPhn4yL)）
 
 ------------------------------------------------------------------------
 
@@ -1850,7 +1850,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-[岩道等（2022）](References/岩道等_2022_动物学杂志.pdf)报告了本种，但没有提供照片或录音
+[岩道等（2022）](https://link.cnki.net/doi/10.13859/j.cjz.202205013)报告了本种，但没有提供照片或录音
 
 [附录音的公民科学记录](https://ebird.org/checklist/S218842226)
 
@@ -1908,7 +1908,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-附照片的论文（[朱磊等，2022](References/朱磊等_2022_广西科学院学报.pdf)）
+附照片的论文（[朱磊等，2022](https://link.cnki.net/doi/10.13657/j.cnki.gxkxyxb.20220421.005)）
 
 [附照片的公民科学记录](https://ebird.org/checklist/S101879316)
 
@@ -2020,7 +2020,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-附照片的论文（[丁志锋等，2017](References/丁志锋等_2017_动物学杂志.pdf)）
+附照片的论文（[丁志锋等，2017](https://link.cnki.net/doi/10.13859/j.cjz.201701015)）
 
 ------------------------------------------------------------------------
 
@@ -2044,7 +2044,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 存疑
 
-[史湘莹等（2023）](References/史湘莹等_2023_生物多样性.pdf)报告了本种，但经核实，拍到的个体为站姿幼鸟，无法与鹰雕区分
+[史湘莹等（2023）](https://kns.cnki.net/kcms2/article/abstract?v=zthAAw_tMjS96e1o2j9pDpenBTgWpdHPf4NCjB-phc2xgRe-rEN8Q8sP8ZWz0oDiyWeHCNsmfXVyoG7K9XqkwZKgfm0tEEEMt5tRXb2MELZ-B3qpndFDk2PhEBWAiEcsHNK5YZSGWVwJFYboEKJIXmAlO95Hz3qFHbGcPS-rM-7k0uHslvG61e62RaR7fJjm)报告了本种，但经核实，拍到的个体为站姿幼鸟，无法与鹰雕区分
 
 郭祥龙（2025，个人通信）转发墨脱有1只鹰雕属救助个体，经核实为鹰雕
 
@@ -2056,7 +2056,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-附照片的论文（[范丽卿等，2019](References/范丽卿_2019_动物学杂志.pdf)）
+附照片的论文（[范丽卿等，2019](https://link.cnki.net/doi/10.13859/j.cjz.201906025)）
 
 [附照片的公民科学记录](https://www.birdreport.cn/home/record/page.html?param=eyJhY3Rpdml0eUlkIjoxMDg4NTQxLCJ0cyI6MTc4NzM4NDY2NDMzOCwicmVwb3J0SWQiOiIzOTVjMTI4NS04ODNhLTQwZjctODlmOS01M2EzOWY0ODRkYWMifQ==&sign=d41d8cd98f00b204e9800998ecf8427e)
 
@@ -2082,7 +2082,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-附照片的论文（[曹宏芬等，2016](References/曹宏芬等_2016_动物学杂志.pdf)）
+附照片的论文（[曹宏芬等，2016](https://link.cnki.net/doi/10.13859/j.cjz.201601018)）
 
 [附照片的公民科学记录](https://ebird.org/checklist/S85956644)
 
@@ -2288,7 +2288,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-附照片的论文（[王宁等，2020](References/王宁等_2020_动物学杂志.pdf)）
+附照片的论文（[王宁等，2020](https://link.cnki.net/doi/10.13859/j.cjz.202003017)）
 
 [附照片的公民科学记录](https://ebird.org/checklist/S353067858)
 
@@ -2416,7 +2416,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-附照片的论文（[阙品甲等，2019](References/阙品甲等_2019_动物学杂志.pdf)）
+附照片的论文（[阙品甲等，2019](https://link.cnki.net/doi/10.13859/j.cjz.201905004)）
 
 [附照片的公民科学记录](https://ebird.org/checklist/S334334999)
 
@@ -2426,7 +2426,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-附照片的论文（[杨乐、阙品甲等（2018）](References/杨乐、阙品甲等_2018_动物学杂志.pdf)）
+附照片的论文（[杨乐、阙品甲等（2018）](https://link.cnki.net/doi/10.13859/j.cjz.201805023)）
 
 [附照片的公民科学记录](https://www.birdreport.cn/home/record/page.html?param=eyJhY3Rpdml0eUlkIjoyMTIxODU4LCJ0cyI6MTc4NzM3MzgyODQwNywicmVwb3J0SWQiOiJhY2QwNzgwMi0zMjVhLTRjNzAtYjI3YS03ZTc5ODYwODRhZTQifQ==&sign=d41d8cd98f00b204e9800998ecf8427e)
 
@@ -2436,7 +2436,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-附照片的论文（[梁丹等，2014](References/梁丹等_2014_动物学杂志.pdf)；[阙品甲等，2017](References/阙品甲等_2017_动物学杂志.pdf)）
+附照片的论文（[梁丹等，2014](https://link.cnki.net/doi/10.13859/j.cjz.201403027)；[阙品甲等，2017](https://link.cnki.net/doi/10.13859/j.cjz.201704014)）
 
 [附照片的公民科学记录](https://ebird.org/checklist/S289166853)
 
@@ -2542,7 +2542,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-附图的论文（[阙品甲等，2019](References/阙品甲等_2019_动物学杂志.pdf)）
+附图的论文（[阙品甲等，2019](https://link.cnki.net/doi/10.13859/j.cjz.201905004)）
 
 [附照片的公民科学记录](https://ebird.org/checklist/S79584714)
 
@@ -2700,7 +2700,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-附照片的论文（[梁丹等，2014](References/梁丹等_2014_动物学杂志.pdf)）
+附照片的论文（[梁丹等，2014](https://link.cnki.net/doi/10.13859/j.cjz.201403027)）
 
 [附照片的公民科学记录](https://ebird.org/checklist/S310212043)
 
@@ -2746,7 +2746,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-附照片的论文（[刘阳等，2013](References/刘阳等_2013_动物学杂志.pdf)）
+附照片的论文（[刘阳等，2013](https://link.cnki.net/doi/10.13859/j.cjz.2013.05.016)）
 
 [附照片的公民科学记录](https://www.birdreport.cn/home/line/page.html?param=eyJhY3Rpdml0eUlkIjoxNTI4MzAwLCJ0cyI6MTc4NzQwNjI3Nzc5OH0=&sign=d41d8cd98f00b204e9800998ecf8427e)
 
@@ -2792,7 +2792,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-附照片的论文（[王渊等，2016](References/王渊等_2016_动物学杂志.pdf)）
+附照片的论文（[王渊等，2016](https://link.cnki.net/doi/10.13859/j.cjz.201603020)）
 
 [附照片的公民科学记录](https://ebird.org/checklist/S79853285)
 
@@ -2812,7 +2812,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-附照片的论文（[温立嘉等，2014](References/温立嘉等_2014_生物多样性.pdf)）
+附照片的论文（[温立嘉等，2014](https://kns.cnki.net/kcms2/article/abstract?v=zthAAw_tMjQyZZkF6g7aNGNCdisaFaGPSUce3zpw6RhPfh9aPkYfMHst1xRafeBavLoG3v_tEo6l1jC0Lq11WAJtVnDovAW47jUULfFwOT6djZVKD4xn8f3RbUOoKIcnfPamKv2Xs7XCxkx6xwpqyYBum2LYgs7MR8C2w30jvtdq2cdHLrhxdtTnRghHhDqf)）
 
 [附录音的公民科学记录](https://ebird.org/checklist/S315000213)
 
@@ -2822,7 +2822,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-附照片的论文（[周生灵等，2026](References/周生灵等_2026_动物学杂志.pdf)）
+附照片的论文（[周生灵等，2026](https://link.cnki.net/doi/10.13859/j.cjz.202625047)）
 
 [附照片的公民科学记录](https://ebird.org/checklist/S328686565)
 
@@ -2842,7 +2842,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-附照片的论文（[王渊等，2016](References/王渊等_2016_四川动物.pdf)）
+附照片的论文（[王渊等，2016](https://kns.cnki.net/kcms2/article/abstract?v=zthAAw_tMjTNf7JK8I41mtYWiqSSK2srm5mvrq-GauprmOBYNKOkLYVKjwtVCwpw4v8Z009YjzLZftV9F89EFR18xFOfxlJF4uFzgOALC56oIurxxrpnaKfW8WPPbsuydOoGVsmuz5fQKWyFurPv0ELit1KpfO83Kv_R893BBfAdWHW_scFz3gVsiJZQrM9T)）
 
 [附照片的公民科学记录](https://ebird.org/checklist/S94964999)
 
@@ -2876,7 +2876,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-附照片的论文（[杨永炳和杨乐，2026](References/杨永炳和杨乐_2026_动物学杂志.pdf)）
+附照片的论文（[杨永炳和杨乐，2026](https://link.cnki.net/doi/10.13859/j.cjz.202423158)）
 
 ------------------------------------------------------------------------
 
@@ -2932,7 +2932,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-[阙品甲等（2019）](References/阙品甲等_2019_动物学杂志.pdf)报告了本种，但照片实为栗背奇鹛
+[阙品甲等（2019）](https://link.cnki.net/doi/10.13859/j.cjz.201905004)报告了本种，但照片实为栗背奇鹛
 
 [附照片的公民科学记录](https://ebird.org/checklist/S98739471)
 
@@ -2966,7 +2966,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-附照片的论文（[阙品甲等，2019](References/阙品甲等_2019_动物学杂志.pdf)）
+附照片的论文（[阙品甲等，2019](https://link.cnki.net/doi/10.13859/j.cjz.201905004)）
 
 [附照片的公民科学记录](https://ebird.org/checklist/S286920197)
 
@@ -3030,7 +3030,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-附照片的论文（[阙品甲等，2019](References/阙品甲等_2019_动物学杂志.pdf)）
+附照片的论文（[阙品甲等，2019](https://link.cnki.net/doi/10.13859/j.cjz.201905004)）
 
 [附照片的公民科学记录](https://ebird.org/checklist/S155308683)
 
@@ -3082,7 +3082,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-附照片的论文（[米小其、郭克疾、熊嘉武等，2016](References/米小其、郭克疾、熊嘉武等_2016_四川动物)）
+附照片的论文（[米小其、郭克疾、熊嘉武等，2016](https://kns.cnki.net/kcms2/article/abstract?v=zthAAw_tMjSqRWWYBPS11G1S91Ef7wBUh2SA9U_e965_jGpasRJruiLQULB_LvlTXy7OccKadydv5eTF0onAj24iiTpuafwWhUIo9wSQcxyr94p1cqPbigG69nTIX-2-SnDfbqPHXTvD0wX-EzpO6xm4BKWqTu2iPCpAfP0vi_pEnPsgIHX_fjoXHmdMh2lb)）
 
 [附照片的公民科学记录](https://www.birdreport.cn/home/record/page.html?param=eyJhY3Rpdml0eUlkIjoyMjkwNTQxLCJ0cyI6MTc5MjQ3NjY0NTE1NywicmVwb3J0SWQiOiI5Y2FlNjc3ZC0yYzk3LTQ0MmQtYmI2NC01NjlmODE3M2ZhNjcifQ==&sign=d41d8cd98f00b204e9800998ecf8427e)
 
@@ -3096,7 +3096,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 [附照片的公民科学记录](https://ebird.org/checklist/S196988079)
 
-[刘善思（2022）](References/刘善思_2022_高原农业.pdf)报告的灰伯劳实为本种
+[刘善思（2022）](https://link.cnki.net/doi/10.19707/j.cnki.jpa.2022.06.006)报告的灰伯劳实为本种
 
 ------------------------------------------------------------------------
 
@@ -3112,7 +3112,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-附照片的论文（[彭可欣等，2022](References/彭可欣等_2022_四川动物.pdf)）
+附照片的论文（[彭可欣等，2022](https://kns.cnki.net/kcms2/article/abstract?v=zthAAw_tMjTR4EtBYhWE80h6wMfjx8wIWG2ZoEoyD7K4ch3ASExRAOEiC1Xh0rEXqc6FK7l8kiVjvi6QwNWrs0rCiFWMyjdtOzs0OsU59stveI2QiOVUkamKDYCNrGKk1QVLgChkY5LqXS2QJuCTI8Lb0j4lIlyE1caBbRdMN9CNgtl3avfJd3ILx_IgVKJL)）
 
 [附照片的公民科学记录](https://ebird.org/checklist/S378296813)
 
@@ -3354,7 +3354,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-附照片的论文（[阙品甲等，2019](References/阙品甲等_2019_动物学杂志.pdf)）
+附照片的论文（[阙品甲等，2019](https://link.cnki.net/doi/10.13859/j.cjz.201905004)）
 
 [附照片的公民科学记录](https://ebird.org/checklist/S78647760)
 
@@ -3388,7 +3388,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-附照片的论文（[张国郎等，2010](References/张国郎等_2010_ChineseBirds.pdf)）
+附照片的论文（[张国郎等，2010](https://kns.cnki.net/kcms2/article/abstract?v=zthAAw_tMjQ70fEOJXJW2CPrqaNs03Za60XKBZ8_GY5eHbs9SqIWOvluiKBdKY39AaPh_Khwuhc6bcuRP8nnW7BYEaTPL4w335A5S4pZSQsWpdTcfwFTqbzKRxlz_5V-UFF_ZGK8ER7xU9OtEneSGIK2_0V5Sk9kkDmmQzX_7phutjtkhSdTAA==)）
 
 [附照片的公民科学记录](https://ebird.org/checklist/S154125019)
 
@@ -3430,7 +3430,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-附照片的论文（[阙品甲等，2017](References/阙品甲等_2017_动物学杂志.pdf)）
+附照片的论文（[阙品甲等，2017](https://link.cnki.net/doi/10.13859/j.cjz.201704014)）
 
 [附照片的公民科学记录](https://ebird.org/checklist/S41226165)
 
@@ -3598,7 +3598,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-附照片的论文（[单鹏飞等，2022](References/单鹏飞等_2022_四川动物.pdf)）
+附照片的论文（[单鹏飞等，2022](https://kns.cnki.net/kcms2/article/abstract?v=zthAAw_tMjS1bx4XkMS5051SvpDBeANdo3d-7wtlE9pBuXkuW-eJ1iGlDN94JElyAD41-H0e7LXCkATvhFzHuo5IO4Tfm34ePSL8jlJZ3vXPOVoxfHibvNMWTeLALgCAEwmHpit_xsL2kKUiIHqGrRuFHOa3WTS0SQYgU3DQ6qmjgngP83Pw9XslgttccM0K)）
 
 ------------------------------------------------------------------------
 
@@ -3622,7 +3622,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-附照片的论文（[王广龙等，2024](References/王广龙等_2024_西藏科技.pdf)）
+附照片的论文（[王广龙等，2024](https://kns.cnki.net/kcms2/article/abstract?v=zthAAw_tMjQXf3P8T57CL3jf3_c-fYQZPE9a0M61HSCtzPFE4gPJY96ShFg_suykkNWcPyAjWLpqizEnZY_rrKgtYf7YUS_m3QqecvFjl5BeoNZoNyQD3twRCw_nXKpNPoOQzsTdlQZMcXr4j9rCYCPhPjqEPACr2l_MTsqZQKpOHOA4V2oRXRsNTphA4myu)）
 
 [附照片的公民科学记录](https://ebird.org/checklist/S246134731)
 
@@ -3656,7 +3656,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-附照片的论文（[王广龙等，2024](References/王广龙等_2024_西藏科技.pdf)）
+附照片的论文（[王广龙等，2024](https://kns.cnki.net/kcms2/article/abstract?v=zthAAw_tMjQXf3P8T57CL3jf3_c-fYQZPE9a0M61HSCtzPFE4gPJY96ShFg_suykkNWcPyAjWLpqizEnZY_rrKgtYf7YUS_m3QqecvFjl5BeoNZoNyQD3twRCw_nXKpNPoOQzsTdlQZMcXr4j9rCYCPhPjqEPACr2l_MTsqZQKpOHOA4V2oRXRsNTphA4myu)）
 
 [附照片的公民科学记录](https://ebird.org/checklist/S343135829)
 
@@ -3676,7 +3676,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-附照片的论文（[王广龙等，2024](References/王广龙等_2024_西藏科技.pdf)）
+附照片的论文（[王广龙等，2024](https://kns.cnki.net/kcms2/article/abstract?v=zthAAw_tMjQXf3P8T57CL3jf3_c-fYQZPE9a0M61HSCtzPFE4gPJY96ShFg_suykkNWcPyAjWLpqizEnZY_rrKgtYf7YUS_m3QqecvFjl5BeoNZoNyQD3twRCw_nXKpNPoOQzsTdlQZMcXr4j9rCYCPhPjqEPACr2l_MTsqZQKpOHOA4V2oRXRsNTphA4myu)）
 
 [附照片的公民科学记录](https://ebird.org/checklist/S341460172)
 
@@ -3744,7 +3744,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-附照片的论文（[张国郎等，2010](References/张国郎等_2010_ChineseBirds.pdf)）
+附照片的论文（[张国郎等，2010](https://kns.cnki.net/kcms2/article/abstract?v=zthAAw_tMjQ70fEOJXJW2CPrqaNs03Za60XKBZ8_GY5eHbs9SqIWOvluiKBdKY39AaPh_Khwuhc6bcuRP8nnW7BYEaTPL4w335A5S4pZSQsWpdTcfwFTqbzKRxlz_5V-UFF_ZGK8ER7xU9OtEneSGIK2_0V5Sk9kkDmmQzX_7phutjtkhSdTAA==)）
 
 [附照片的公民科学记录](https://ebird.org/checklist/S85956644)
 
@@ -3929,6 +3929,8 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 **7758. 棕脸鹟莺 *Abroscopus albogularis* — 棕脸鹟莺**
 
 **记录状态：** 确认
+
+附照片的论文（[阙品甲等，2017](https://link.cnki.net/doi/10.13859/j.cjz.201704014)）
 
 [附照片的公民科学记录](https://ebird.org/checklist/S229171217)
 
@@ -4196,7 +4198,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-附照片的论文（[阙品甲等，2017](References/阙品甲等_2017_动物学杂志.pdf)）
+附照片的论文（[阙品甲等，2017](https://link.cnki.net/doi/10.13859/j.cjz.201704014)）
 
 [附照片的公民科学记录](https://ebird.org/checklist/S95132237)
 
@@ -4206,7 +4208,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-附照片和录音的论文（[谭心渌和宋森，2026](References/谭心渌和宋森_2026_动物学杂志.pdf)）
+附照片和录音的论文（[谭心渌和宋森，2026](https://link.cnki.net/doi/10.13859/j.cjz.202625186)）
 
 [附照片的公民科学记录](https://www.birdreport.cn/home/record/page.html?param=eyJhY3Rpdml0eUlkIjoyMDI4NDIyLCJ0cyI6MTc4NzM4MjM1MDc0OSwicmVwb3J0SWQiOiJjNjI0N2VjYi03NjBhLTQ2NDYtOGJhYy1jODhmYjFhYTMwOGIifQ==&sign=d41d8cd98f00b204e9800998ecf8427e)
 
@@ -4326,7 +4328,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-附照片的论文（[米小其、郭克疾、朱雪林等，2016](References/米小其、郭克疾、朱雪林等_2016_四川动物.pdf)）
+附照片的论文（[米小其、郭克疾、朱雪林等，2016](https://kns.cnki.net/kcms2/article/abstract?v=zthAAw_tMjTFMJuIibwqKxDmhq1yl2fr3VF1CR0gFV9QKYIyURSmxEv4-9mgjQ51XgaO32CVnzuYzRQfFOCEmqTrTVK08s_8p7g4THQJiGCfxC_zDymnbFwU1e1w7_P_PJikGhu65ikC3t6paScVRnM1Q8yJwIRnOJKm_cUOQ4Szn-TigZybOz4NM0UZBf9I)）
 
 [附照片的公民科学记录](https://www.birdreport.cn/home/record/page.html?param=eyJhY3Rpdml0eUlkIjoyMDI1NTg5LCJ0cyI6MTc4NzM4MTk0OTg4NywicmVwb3J0SWQiOiJkZTdlYWJlNi0wODE5LTRhZmMtYjhhMi1lOWIyYjZjZGY3ZDUifQ==&sign=d41d8cd98f00b204e9800998ecf8427e)
 
@@ -4336,7 +4338,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-附照片的论文（[刘善思等，2025](References/刘善思等_2025_陆地生态系统与保护学报.pdf)）
+附照片的论文（[刘善思等，2025](https://kns.cnki.net/kcms2/article/abstract?v=zthAAw_tMjQ64b7a7edHrH5-a4ox5F61mMP8Qw-C-vbBD-dWnIKoawoNLiRJV_Lx0S24itgPl71K1Ox4_6sSWpgckaTYThQVYB0ZL3KDlQDHyOzK0n0qpL6kwGvrF_vfoNoE1JSJKVrMB_x_GSfLevGxTHeekUqL3jFTiHsPkljOfWkrH_60S2Y7gx0b7I-R)）
 
 ------------------------------------------------------------------------
 
@@ -4354,7 +4356,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-附照片的论文（[杨永炳等，2022](References/杨永炳等_2022_野生动物学报.pdf)）
+附照片的论文（[杨永炳等，2022](https://kns.cnki.net/kcms2/article/abstract?v=zthAAw_tMjTFgxHolztbHIuRIlvJH9Uos0As43xSQ0zJWm7CWQ-f_W62--abe-FOmvbNIpqW8IfBaL3540uCKVoFtlv0vedHXmML9LCm6gpFCeZPwKJwicF0RaKS5AzUehmi_9b39rpmK-xj_BENlFKpizS8ORvLBA0LN8kCgkvQ4V9SfGxIl98m3YUy9enb)）
 
 ------------------------------------------------------------------------
 
@@ -4362,7 +4364,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-附照片的论文（[岩道等（2022）](References/岩道等_2022_动物学杂志.pdf)）
+附照片的论文（[岩道等（2022）](https://link.cnki.net/doi/10.13859/j.cjz.202205013)）
 
 [附照片的公民科学记录](https://ebird.org/checklist/S70072182)
 
@@ -4454,7 +4456,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-[刘子祥等（2014）](References/刘子祥等_2014_动物学杂志.pdf)报告了本种，但没有提供照片
+[刘子祥等（2014）](https://link.cnki.net/doi/10.13859/j.cjz.201404024)报告了本种，但没有提供照片
 
 [附照片的公民科学记录](https://www.birdreport.cn/home/record/page.html?param=eyJhY3Rpdml0eUlkIjo5NDUzNTQsInRzIjoxNzg3Mjg5MDI3MjM2LCJyZXBvcnRJZCI6ImE2OTJmOTc2LTVkZmEtNGE1NS1iMDUwLTY0ZDdhMWFjMjNjNiJ9&sign=d41d8cd98f00b204e9800998ecf8427e)
 
@@ -4538,7 +4540,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-附照片的论文（[董江天和杨晓君，2010](References/董江天和杨晓君_2010_动物学研究.pdf)）
+附照片的论文（[董江天和杨晓君，2010](https://kns.cnki.net/kcms2/article/abstract?v=zthAAw_tMjS-VXh7nolVo9TsN8gfxSUbB-9otvGveIYzbQg3p8UTjfUDdUGuHd_R7A4OYgvtd2i50i_yEDanSMB7b7UdU6Kze_EIXKGbUvK_V1tuffqGPQVf-k5y_mKht3JLlMcLmb-Y9QgwNEqSOkpOzOej0dj5pYgrWLM_rq6DohRNLov3iw==)）
 
 [附照片的公民科学记录](https://ebird.org/checklist/S247609319)
 
@@ -4588,7 +4590,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-附照片的论文（[王宁等，2020](References/王宁等_2020_四川动物.pdf)；[岩道等（2022）](References/岩道等_2022_动物学杂志.pdf))
+附照片的论文（[王宁等，2020](https://kns.cnki.net/kcms2/article/abstract?v=zthAAw_tMjR5VamztKsNyGQ35SLcgI16XYMUQohthaJdTxkKFPxVw8xRdt1CIt1lsBWK4v_mjN6YlSzQhiUSGOfSGmRNWvqDL-FhidoHB4GffPG3ygvBZ44G9ufGQtjc0ixejaG_JK7Rxzq4ijj-SgekgJelG6nJr3VPNngSGCkIFOxsAZIGj-XQB93SSET9)；[岩道等（2022）](https://link.cnki.net/doi/10.13859/j.cjz.202205013))
 
 [附照片的公民科学记录](https://ebird.org/checklist/S289652250)
 
@@ -4606,7 +4608,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-附照片的论文（[林植和何芬奇，2016](References/林植和何芬奇_2016_动物学杂志.pdf)，照片在当期封面）
+附照片的论文（[林植和何芬奇，2016](https://link.cnki.net/doi/10.13859/j.cjz.201602020)，照片在当期封面）
 
 ------------------------------------------------------------------------
 
@@ -4638,7 +4640,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-附照片的论文（[赵超等，2015](References/赵超等_2015_动物学杂志.pdf)）
+附照片的论文（[赵超等，2015](https://link.cnki.net/doi/10.13859/j.cjz.201501017)）
 
 [附照片的公民科学记录](https://ebird.org/checklist/S289652250)
 
@@ -4666,7 +4668,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-附照片的论文（[岩道等（2022）](References/岩道等_2022_动物学杂志.pdf)）
+附照片的论文（[岩道等（2022）](https://link.cnki.net/doi/10.13859/j.cjz.202205013)）
 
 ------------------------------------------------------------------------
 
@@ -4918,7 +4920,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 可能
 
-[史湘莹等（2023）](References/史湘莹等_2023_生物多样性.pdf)报告了本种，但经核实，视频实为黑领噪鹛或小黑领噪鹛
+[史湘莹等（2023）](https://kns.cnki.net/kcms2/article/abstract?v=zthAAw_tMjS96e1o2j9pDpenBTgWpdHPf4NCjB-phc2xgRe-rEN8Q8sP8ZWz0oDiyWeHCNsmfXVyoG7K9XqkwZKgfm0tEEEMt5tRXb2MELZ-B3qpndFDk2PhEBWAiEcsHNK5YZSGWVwJFYboEKJIXmAlO95Hz3qFHbGcPS-rM-7k0uHslvG61e62RaR7fJjm)报告了本种，但经核实，视频实为黑领噪鹛或小黑领噪鹛
 
 尚不清楚郑作新（1976）记录本种分布于昌都东南部的依据
 
@@ -5056,7 +5058,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-附照片的论文（[阙品甲等，2019](References/阙品甲等_2019_动物学杂志.pdf)）
+附照片的论文（[阙品甲等，2019](https://link.cnki.net/doi/10.13859/j.cjz.201905004)）
 
 [附照片的公民科学记录](https://ebird.org/checklist/S99441820)
 
@@ -5098,7 +5100,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-附照片的论文（[阙品甲等，2017](References/阙品甲等_2017_动物学杂志.pdf)）
+附照片的论文（[阙品甲等，2017](https://link.cnki.net/doi/10.13859/j.cjz.201704014)）
 
 [附照片的公民科学记录](https://ebird.org/checklist/S94964999)
 
@@ -5154,7 +5156,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-[阙品甲等（2019）](References/阙品甲等_2019_动物学杂志.pdf)报告了本种，但没有提供照片或录音
+[阙品甲等（2019）](https://link.cnki.net/doi/10.13859/j.cjz.201905004)报告了本种，但没有提供照片或录音
 
 [附照片的公民科学记录](https://ebird.org/checklist/S330890374)
 
@@ -5182,7 +5184,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-附照片的论文（[范丽卿等，2021](References/范丽卿等_2021_动物学杂志.pdf)）
+附照片的论文（[范丽卿等，2021](https://link.cnki.net/doi/10.13859/j.cjz.202303018)）
 
 [附照片的公民科学记录](https://ebird.org/checklist/S352734553)
 
@@ -5216,7 +5218,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-附照片的论文（[杨乐、周生灵等，2018](References/杨乐、周生灵等_2018_动物学杂志.pdf)）
+附照片的论文（[杨乐、周生灵等，2018](https://link.cnki.net/doi/10.13859/j.cjz.201803020)）
 
 [附照片的公民科学记录](https://ebird.org/checklist/S352623563)
 
@@ -5226,7 +5228,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-附照片的论文（[刘锋等，2020](References/刘锋等_2020_四川动物.pdf)）
+附照片的论文（[刘锋等，2020](https://kns.cnki.net/kcms2/article/abstract?v=zthAAw_tMjR-4fcEQG7HvWU47_3pMhudZoAnjpkJTeWemSLaz6ZDzDizN3PdYCLd--qL23wr7VFgJLyKMrp6oW2Cxira5UyjZzOULtCvLKh8lcBmvG6gMQ4mX5qR75ES56dAkoQSZaRdrRTLsxaxYPJnhW2l7dvlXLnQ3I5KxGfjgkvDgG1itKmw8R1W-lSy)）
 
 ------------------------------------------------------------------------
 
@@ -5234,7 +5236,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-附照片的论文（[罗伟雄等，2016](References/罗伟雄_2016_四川动物.pdf)）
+附照片的论文（[罗伟雄等，2016](https://kns.cnki.net/kcms2/article/abstract?v=zthAAw_tMjSeEO8paKUAFQ7KXSEhUF_8BGrJNmHf4x7Q627tiJWphjv6j-dgBDqLxXMviA8ah0YIk6xyQAA1g-q2UMzSt7PKOShcvzKBue601nHVVoWvWvMfMJUMkV1jB6v3B01eTMKUPYXTXQw_eDK3SbPlqonVUCvbIwaQ2e-JEt-_qH-Ul3dCPywuSZPf)）
 
 ------------------------------------------------------------------------
 
@@ -5304,7 +5306,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-附图的论文（[王宁等，2020](References/王宁等_2020_四川动物.pdf)）
+附图的论文（[王宁等，2020](https://kns.cnki.net/kcms2/article/abstract?v=zthAAw_tMjR5VamztKsNyGQ35SLcgI16XYMUQohthaJdTxkKFPxVw8xRdt1CIt1lsBWK4v_mjN6YlSzQhiUSGOfSGmRNWvqDL-FhidoHB4GffPG3ygvBZ44G9ufGQtjc0ixejaG_JK7Rxzq4ijj-SgekgJelG6nJr3VPNngSGCkIFOxsAZIGj-XQB93SSET9)）
 
 [附照片的公民科学记录](https://ebird.org/checklist/S245822156)
 
@@ -5346,7 +5348,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 可能
 
-[吴建普等（2016）](References/吴建普等_2016_生物多样性.pdf)报告了本种，但没有提供照片
+[吴建普等（2016）](https://kns.cnki.net/kcms2/article/abstract?v=zthAAw_tMjSIPxf2uNx3_IfjJVjSWBDimy7ZEXY5R6_FFxFA-aCkO7T159I_a3kgiDAHQMDzvBXbKIAPftk8dfas7SMDAyWPOiwZ22rCLefNBfGlSp7hPGXgfH5dnNxeG_74WJ9bZmcCNpGNaV46WUxg02lTmLCjOmZP3yw0ZjBHsGryYpI-zJRnhDdyz2EU)报告了本种，但没有提供照片
 
 ------------------------------------------------------------------------
 
@@ -5354,7 +5356,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-附照片的论文（[廖之锴等，2024](References/廖之锴等_2024_动物学杂志.pdf)）
+附照片的论文（[廖之锴等，2024](https://link.cnki.net/doi/10.13859/j.cjz.202424128)）
 
 [附照片的公民科学记录](https://www.birdreport.cn/home/record/page.html?param=eyJhY3Rpdml0eUlkIjoxMzI0MjAxLCJ0cyI6MTc4NzM4MjIyOTMwNCwicmVwb3J0SWQiOiJkNDJkODFhZS1hNTU0LTQ3NzEtYjE3MC0wNDk3ZGI5ODgwMTUifQ==&sign=d41d8cd98f00b204e9800998ecf8427e)
 
@@ -5436,7 +5438,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-附照片的论文（[王宁等，2020](References/王宁等_2020_四川动物.pdf)）
+附照片的论文（[王宁等，2020](https://kns.cnki.net/kcms2/article/abstract?v=zthAAw_tMjR5VamztKsNyGQ35SLcgI16XYMUQohthaJdTxkKFPxVw8xRdt1CIt1lsBWK4v_mjN6YlSzQhiUSGOfSGmRNWvqDL-FhidoHB4GffPG3ygvBZ44G9ufGQtjc0ixejaG_JK7Rxzq4ijj-SgekgJelG6nJr3VPNngSGCkIFOxsAZIGj-XQB93SSET9)）
 
 [附照片的公民科学记录](https://ebird.org/checklist/S346990874)
 
@@ -5454,7 +5456,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-[Yu（2008）](References/Yu_2008_Forktail.pdf)报告了本种，但照片为黑白，不易辨认
+[Yu（2008）](https://static1.squarespace.com/static/5c1a9e03f407b482a158da87/t/5c20fcea6d2a73623413df9a/1545665771184/Yat-tung-TickellsThrush.pdf)报告了本种，但照片为黑白，不易辨认
 
 [附照片的公民科学记录](https://ebird.org/checklist/S230446994)
 
@@ -5594,7 +5596,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-附照片的论文（[岩道等（2022）](References/岩道等_2022_动物学杂志.pdf)）
+附照片的论文（[岩道等（2022）](https://link.cnki.net/doi/10.13859/j.cjz.202205013)）
 
 [附照片的公民科学记录](https://ebird.org/checklist/S210582025)
 
@@ -5630,7 +5632,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-附照片的论文（[岩道等（2022）](References/岩道等_2022_动物学杂志.pdf)）
+附照片的论文（[岩道等（2022）](https://link.cnki.net/doi/10.13859/j.cjz.202205013)）
 
 [附照片的公民科学记录](https://ebird.org/checklist/S348017921)
 
@@ -5856,7 +5858,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-[阙品甲等（2017）](References/阙品甲等_2017_动物学杂志.pdf)报告了本种，但没有提供照片
+[阙品甲等（2017）](https://link.cnki.net/doi/10.13859/j.cjz.201704014)报告了本种，但没有提供照片
 
 [附照片的公民科学记录](https://ebird.org/checklist/S334334999)
 
@@ -6196,7 +6198,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-[黄强和张罗虹（2006）](References/黄强和张罗虹_2006_四川动物.pdf)报告了本种，但没有提供照片
+[黄强和张罗虹（2006）](https://kns.cnki.net/kcms2/article/abstract?v=zthAAw_tMjRIo_faCua8T5JjDnKgN1zsidD-zbznsxsNp2Ks12mVlroIrfCYzrFy9nsi3qSFCtv_tAuFTyx9r9BI9YgzN3mHi-3L4lL3zG9YItmPx9jb0Xl_Ll1zlZyTZuSlbtl0sKN6heTADhcCGRvPZZdJQWQUMZCZJYZ9b7YKrMxs4A_Lsw==)报告了本种，但没有提供照片
 
 [附照片的公民科学记录](https://ebird.org/checklist/S223833263)
 
@@ -6404,7 +6406,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 排除
 
-[阙品甲等（2017）](References/阙品甲等_2017_动物学杂志.pdf)报告了本种，但照片实为布氏鹨
+[阙品甲等（2017）](https://link.cnki.net/doi/10.13859/j.cjz.201704014)报告了本种，但照片实为布氏鹨
 
 目前暂未发现本种在西藏有分布的其他证据
 
@@ -6658,7 +6660,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-附照片的论文（[王宁和邓涛，2014](References/王宁和邓涛_2014_四川动物.pdf)）
+附照片的论文（[王宁和邓涛，2014](https://kns.cnki.net/kcms2/article/abstract?v=zthAAw_tMjSjq4Fc9wv-bInh-I3IuAiig1PtRoZjHtZY8JhfuelNVZ-IGEG8mBdl6pyMmOCmy8WY3KABQv84GX6yCnY2oBzu65wn2KQKMYq_T5tR8ZlV3B74JzJmqDhmk0jTqv3p4dtF5W70vb-ZOfv1C97snxiX0cR72d5ZZQYH3HNmbrLpMg==)）
 
 [附照片的公民科学记录](https://ebird.org/checklist/S93248070)
 
@@ -6684,7 +6686,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-附照片的论文（[林植和何芬奇，2015](References/林植和何芬奇_2015_动物学杂志.pdf)，照片在当期封面）
+附照片的论文（[林植和何芬奇，2015](https://link.cnki.net/doi/10.13859/j.cjz.201503021)，照片在当期封面）
 
 ------------------------------------------------------------------------
 
@@ -6782,7 +6784,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-附照片的论文（[曾卫等，2024](References/曾卫等_2024_陆地生态系统与保护学报.pdf)）
+附照片的论文（[曾卫等，2024](https://kns.cnki.net/kcms2/article/abstract?v=zthAAw_tMjQdDsXn627EpcPwdN4Y3gbwVNRXKN0MZCacuiFiGuHoz3gePDhQ_fVO-tN9w5m_RRIFnm7dDnMEf0NDr9Pm6z3JI2dVMozSREuTIwUC572h22jfKLD8cbgwa3Kh_EzSt76n7yALa_5ysnOzUVUwTh3RGBE1Y5XkxHoxG-fsnhXZ63lWSQB4Peih)）
 
 ------------------------------------------------------------------------
 
@@ -6798,7 +6800,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-[刘子祥等（2014）](References/刘子祥等_2014_动物学杂志.pdf)报告了本种，但没有提供照片
+[刘子祥等（2014）](https://link.cnki.net/doi/10.13859/j.cjz.201404024)报告了本种，但没有提供照片
 
 [附照片的公民科学记录](https://ebird.org/checklist/S50834967)
 
