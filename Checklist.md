@@ -3178,7 +3178,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **6918. 灰树鹊 *Dendrocitta formosae* — 灰树鹊**
 
-**记录状态：**
+**记录状态：** 确认
 
 [附照片的公民科学记录](https://ebird.org/checklist/S224257430)
 
