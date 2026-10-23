@@ -924,7 +924,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **1345. 印度石鸻 *Burhinus indicus* —**
 
-**记录状态：** 存疑
+**记录状态：** 可能
 
 [赵旺林等（2025）](https://link.cnki.net/urlid/51.1193.Q.20250307.1227.010)报告了本种，但照片不能完全排除石鸻，尽管从分布上看本种的可能性更大
 
@@ -990,7 +990,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-中国科学院青藏高原综合科学考察队（1983）在八宿然乌采集了本种的标本，现藏于[中国科学院动物研究所标本馆](http://museum.ioz.ac.cn/specimens_detail.aspx?pth=2111C0002200008430)，已检视
+中国科学院青藏高原综合科学考察队（1983）1973年8月在八宿然乌采集了本种的标本，现藏于[国家动物标本资源库](http://museum.ioz.ac.cn/specimens_detail.aspx?pth=2111C0002200008430)，已检视
 
 [附照片的公民科学记录](https://ebird.org/checklist/S95706479)，但严格来说不能排除欧金鸻
 
@@ -1582,7 +1582,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-中国科学院青藏高原综合科学考察队（1983）在察隅采集了本种的标本，现藏于[中国科学院动物研究所标本馆](http://museum.ioz.ac.cn/specimens_detail.aspx?pth=2111C0002200006196)，已检视
+中国科学院青藏高原综合科学考察队（1983）1973年7月在察隅采集了本种的标本，现藏于[国家动物标本资源库](http://museum.ioz.ac.cn/specimens_detail.aspx?pth=2111C0002200006196)，已检视
 
 ------------------------------------------------------------------------
 
@@ -1630,7 +1630,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 附照片的论文（[益西多吉等，2019](https://kns.cnki.net/kcms2/article/abstract?v=zthAAw_tMjRjwiuZEwxMjLmSNGMa15AdCncGhKx9ZNsJeZKQdQQtQR7TW2VS-CT__ahjGNEasvE0ckqa04iEPvk36Dp3f5z3VjsfbZ2x0aCMtV-MiD_VRr_uD0pNFwOqq_xFEBe29SjP8Ic_BG-l1XFe9vmj87PoswGURDXlbYbYlVqWf1CgWh1y5w_HBtRK)）
 
-中国科学院青藏高原综合科学考察队（1983）在札达采集的池鹭标本实为本种
+中国科学院青藏高原综合科学考察队（1983）1976年6月在札达采集的池鹭标本实为本种，现藏于[国家动物标本资源库](http://museum.ioz.ac.cn/specimens_detail.aspx?pth=2111C0002200006203)，已检视
 
 ------------------------------------------------------------------------
 
@@ -1772,7 +1772,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-中国科学院青藏高原综合科学考察队（1983）在普兰采集了本种的标本，现藏于[中国科学院动物研究所标本馆](http://museum.ioz.ac.cn/specimens_detail.aspx?pth=2111C0002200005364)，已检视
+中国科学院青藏高原综合科学考察队（1983）1976年7月在普兰采集了本种的标本，现藏于[国家动物标本资源库](http://museum.ioz.ac.cn/specimens_detail.aspx?pth=2111C0002200005364)，已检视
 
 ------------------------------------------------------------------------
 
@@ -3990,7 +3990,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-中国科学院青藏高原综合科学考察队（1983）在当雄羊八井采集了本种的标本，现藏于[中国科学院动物研究所标本馆](http://museum.ioz.ac.cn/specimens_detail.aspx?pth=2111C0002200002766)，已检视
+中国科学院青藏高原综合科学考察队（1983）1975年9月在当雄羊八井采集了本种的标本，现藏于[国家动物标本资源库](http://museum.ioz.ac.cn/specimens_detail.aspx?pth=2111C0002200002766)，已检视
 
 ------------------------------------------------------------------------
 
@@ -4406,7 +4406,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **记录状态：** 确认
 
-中国科学院青藏高原综合科学考察队（1983）在亚东采集了本种的标本，现藏于[西北高原生物研究所标本馆](http://museum.ioz.ac.cn/specimens_detail.aspx?pth=2163C0001200000218)
+[西北高原生物研究所标本馆](http://museum.ioz.ac.cn/specimens_detail.aspx?pth=2163C0001200000218)藏有1973年6月在亚东采集的本种标本
 
 ------------------------------------------------------------------------
 
@@ -6356,9 +6356,11 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **9997. 西黄鹡鸰 *Motacilla flava* — 西黄鹡鸰**
 
-**记录状态：** 未评估
+**记录状态：** 可能
 
-**证据说明：**
+[附照片的公民科学记录](https://www.birdreport.cn/home/record/page.html?param=eyJhY3Rpdml0eUlkIjoxMzExMTA5LCJ0cyI6MTc5Mjc0NjQxMjY0OCwicmVwb3J0SWQiOiI3NGQ0ZDFhNC0xNDY2LTRlYWUtYjg1OS1lZTg4NzRmODM1MGYifQ==&sign=d41d8cd98f00b204e9800998ecf8427e)，该个体喉部白色面积大且胸部几乎没有暗色斑，这一点在黄鹡鸰中理应罕见，加之眉纹明显、甚至颊部略带白色，更可能是西黄鹡鸰，但鉴于辨识难度较大，暂时保留“可能”状态
+
+[附照片的公民科学记录](https://ebird.org/checklist/S231804307)，综合来看该个体比较符合新疆“灰头种群”[（Hellquist等，2021）](https://doi.org/10.1186/s40657-021-00289-y)的特征，但鉴于辨识难度较大、缺乏信息，暂时不作判断
 
 ------------------------------------------------------------------------
 
@@ -6372,9 +6374,9 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **9999. 黄鹡鸰 *Motacilla tschutschensis* — 黄鹡鸰**
 
-**记录状态：** 未评估
+**记录状态：** 可能
 
-**证据说明：**
+[附照片的公民科学记录](https://ebird.org/checklist/S343120401)，综合来看该个体比较符合tschutschensis亚种的典型特征，但鉴于辨识难度较大，暂时保留“可能”状态
 
 ------------------------------------------------------------------------
 
