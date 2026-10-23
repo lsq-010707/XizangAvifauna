@@ -494,13 +494,21 @@
 
 ------------------------------------------------------------------------
 
+**562. 角䴙䴘 *Podiceps nigricollis* — 角䴙䴘**
+
+**记录状态：** 确认
+
+[附照片的公民科学记录](https://macaulaylibrary.org/asset/725648)
+
+------------------------------------------------------------------------
+
 **569. 黑颈䴙䴘 *Podiceps nigricollis* — 黑颈䴙䴘**
 
 **记录状态：** 确认
 
 [刘子祥等（2014）](https://link.cnki.net/doi/10.13859/j.cjz.201404024)报告了本种，但没有提供照片
 
-[附照片的公民科学记录](https://ebird.org/checklist/S203743151)
+[附照片的公民科学记录](https://macaulaylibrary.org/asset/725645)
 
 ------------------------------------------------------------------------
 
@@ -992,7 +1000,7 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 中国科学院青藏高原综合科学考察队（1983）1973年8月在八宿然乌采集了本种的标本，现藏于[国家动物标本资源库](http://museum.ioz.ac.cn/specimens_detail.aspx?pth=2111C0002200008430)，已检视
 
-[附照片的公民科学记录](https://ebird.org/checklist/S95706479)，但严格来说不能排除欧金鸻
+[附照片的公民科学记录](https://ebird.org/checklist/S95706479)，但严格来说目前能找到的照片都不能排除欧金鸻
 
 ------------------------------------------------------------------------
 
@@ -1238,9 +1246,9 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **1529. 翻石鹬 *Arenaria interpres* — 翻石鹬**
 
-**记录状态：** 未评估
+**记录状态：** 确认
 
-**证据说明：**
+[附照片的公民科学记录](https://macaulaylibrary.org/asset/725649)
 
 ------------------------------------------------------------------------
 
@@ -6837,6 +6845,14 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 **记录状态：** 确认
 
 [附照片的公民科学记录](https://www.birdreport.cn/home/record/page.html?param=eyJhY3Rpdml0eUlkIjoxNzU0NzY2LCJ0cyI6MTc4NzMwMzY3NjEwNSwicmVwb3J0SWQiOiI4YmM1MmU0MS0zOGI4LTRjMjEtOGEzYS00MWRiYjAxNTQwOTUifQ==&sign=d41d8cd98f00b204e9800998ecf8427e)
+
+------------------------------------------------------------------------
+
+**10331. 褐头鹀 *Melophus bruniceps* — 褐头鹀**
+
+**记录状态：** 确认
+
+[附照片的公民科学记录](https://www.birdreport.cn/home/line/page.html?param=eyJhY3Rpdml0eUlkIjoxMDA5Mzc4LCJ0cyI6MTc5Mjc0OTcxNjg3OH0=&sign=d41d8cd98f00b204e9800998ecf8427e)
 
 ------------------------------------------------------------------------
 
