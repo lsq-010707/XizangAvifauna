@@ -1072,9 +1072,9 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **1438. 环颈鸻 *Anarhynchus alexandrinus* — 环颈鸻**
 
-**记录状态：** 未评估
+**记录状态：** 确认
 
-**证据说明：**
+[附照片的公民科学记录](https://www.birdreport.cn/home/record/page.html?param=eyJhY3Rpdml0eUlkIjoyMzYwOTQ4LCJ0cyI6MTc5NDgzOTE2Njg3MywicmVwb3J0SWQiOiI2NmI4OGU5NS1mNTZiLTQ5NTEtOThiMi1kZmY5ODY5NGE4NTYifQ==&sign=d41d8cd98f00b204e9800998ecf8427e)
 
 ------------------------------------------------------------------------
 
@@ -1230,9 +1230,9 @@ Kinnear（1922）报告了在Tingri采集到本种的一号标本，Vaurie（197
 
 **1518. 鹤鹬 *Tringa erythropus* — 鹤鹬**
 
-**记录状态：** 未评估
+**记录状态：** 确认
 
-**证据说明：**
+[附照片的公民科学记录](https://www.birdreport.cn/home/record/page.html?param=eyJhY3Rpdml0eUlkIjoyMzI1MzY0LCJ0cyI6MTc5NDgzODkxODk2MiwicmVwb3J0SWQiOiIwYmFhYTIzOS1lZjM0LTQ3MTEtYTFlZC1mMmVhNDc5NjhlY2YifQ==&sign=d41d8cd98f00b204e9800998ecf8427e)
 
 ------------------------------------------------------------------------
 
